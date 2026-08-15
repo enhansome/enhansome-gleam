@@ -500,7 +500,7 @@
           "repo_info": {
             "archived": false,
             "language": "Gleam",
-            "last_commit": "2026-08-01T01:15:51Z",
+            "last_commit": "2026-08-14T10:20:47Z",
             "owner": "jtdowney",
             "repo": "acumen",
             "stars": 5
@@ -905,7 +905,7 @@
             "last_commit": "2026-08-09T10:36:36Z",
             "owner": "gleam-lang",
             "repo": "otp",
-            "stars": 868
+            "stars": 869
           }
         },
         {
@@ -1651,7 +1651,7 @@
             "last_commit": "2026-08-10T15:08:23Z",
             "owner": "gleam-lang",
             "repo": "httpc",
-            "stars": 172
+            "stars": 173
           }
         },
         {
@@ -2902,7 +2902,7 @@
             "last_commit": "2026-08-13T09:27:57Z",
             "owner": "gleam-lang",
             "repo": "gleam",
-            "stars": 21735
+            "stars": 21741
           }
         },
         {
@@ -3242,7 +3242,7 @@
           "repo_info": {
             "archived": false,
             "language": "Gleam",
-            "last_commit": "2026-08-01T21:12:09Z",
+            "last_commit": "2026-08-15T00:07:29Z",
             "owner": "exercism",
             "repo": "gleam",
             "stars": 119
@@ -3272,7 +3272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:02:35.757Z",
+    "last_updated": "2026-08-15T01:53:09.178Z",
     "original_repository": "gleam-lang/awesome-gleam",
     "original_repository_sha": "e20a3e87ebb3ed1554b0f6397d744409d29f5520",
     "enhanced_repository": "enhansome/enhansome-gleam",
