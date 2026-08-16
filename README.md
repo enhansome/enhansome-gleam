@@ -120,7 +120,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Data Structures
 
-* [gleam\_stdlib](https://github.com/gleam-lang/stdlib) ⭐ 705 | 🐛 34 | 🌐 Gleam | 📅 2026-08-11 - [📚](https://hexdocs.pm/gleam_stdlib/) - A standard library for the Gleam programming language
+* [gleam\_stdlib](https://github.com/gleam-lang/stdlib) ⭐ 705 | 🐛 35 | 🌐 Gleam | 📅 2026-08-11 - [📚](https://hexdocs.pm/gleam_stdlib/) - A standard library for the Gleam programming language
 * [argamak](https://github.com/tynanbe/argamak) ⭐ 37 | 🐛 0 | 🌐 Gleam | 📅 2024-02-18 - [📚](https://hexdocs.pm/argamak/) - A tensor library for the Gleam programming language
 * [gleamy\_structures](https://github.com/schurhammer/gleamy_structures/) ⭐ 33 | 🐛 1 | 🌐 Gleam | 📅 2025-08-25 - [📚](https://hexdocs.pm/gleamy_structures/) - Data structures in pure Gleam! Including tree, heap, non empty list, map, set, and priority queue.
 * [act](https://github.com/MystPi/act) ⭐ 29 | 🐛 0 | 🌐 Gleam | 📅 2025-12-01 - [📚](https://hexdocs.pm/act/) - Compose stateful actions to simulate mutable state
@@ -156,7 +156,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Erlang and OTP
 
 * [gleam\_otp](https://github.com/gleam-lang/otp) ⭐ 869 | 🐛 8 | 🌐 Gleam | 📅 2026-08-09 - [📚](https://hexdocs.pm/gleam_otp/) - Fault tolerant multicore Gleam programs with OTP
-* [gleam\_erlang](https://github.com/gleam-lang/erlang) ⭐ 134 | 🐛 9 | 🌐 Gleam | 📅 2026-07-22 - [📚](https://hexdocs.pm/gleam_erlang/) - A Gleam library for working with Erlang
+* [gleam\_erlang](https://github.com/gleam-lang/erlang) ⭐ 134 | 🐛 10 | 🌐 Gleam | 📅 2026-07-22 - [📚](https://hexdocs.pm/gleam_erlang/) - A Gleam library for working with Erlang
 * [spectator](https://github.com/JonasGruenwald/spectator) ⭐ 98 | 🐛 4 | 🌐 Gleam | 📅 2026-04-21 - [📚](https://hexdocs.pm/spectator/) - A BEAM runtime observer tool
 * [barnacle](https://github.com/Pevensie/barnacle) ⭐ 59 | 🐛 1 | 🌐 Gleam | 📅 2025-06-14 - [📚](https://hexdocs.pm/barnacle/) - Self-healing clusters for Gleam applications on the BEAM
 * [Eventsourcing](https://github.com/renatillas/eventsourcing) ⭐ 49 | 🐛 1 | 🌐 HTML | 📅 2025-10-18 - [📚](https://hexdocs.pm/Eventsourcing/) - A Gleam library for building event-sourced systems with Actors and Supervisors
@@ -195,7 +195,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Frontend
 
-* [lustre](https://github.com/lustre-labs/lustre) ⭐ 2,407 | 🐛 19 | 🌐 Gleam | 📅 2026-08-05 - [📚](https://hexdocs.pm/lustre/) - An Elm-inspired framework for building web apps in Gleam!
+* [lustre](https://github.com/lustre-labs/lustre) ⭐ 2,409 | 🐛 20 | 🌐 Gleam | 📅 2026-08-05 - [📚](https://hexdocs.pm/lustre/) - An Elm-inspired framework for building web apps in Gleam!
 * [lustre\_ui](https://github.com/lustre-labs/lustre_ui) ⭐ 171 | 🐛 5 | 🌐 Gleam | 📅 2026-05-26 - [📚](https://hexdocs.pm/lustre_ui/) - A collection of components and design tokens for building Lustre apps.
 * [tiramisu](https://github.com/renatillas/tiramisu) ⚠️ Archived - [📚](https://hexdocs.pm/tiramisu/) - A type-safe 3D game engine for Gleam
 * [sketch](https://github.com/ghivert/sketch) ⭐ 85 | 🐛 9 | 🌐 Gleam | 📅 2026-04-22 - [📚](https://hexdocs.pm/sketch/) - A CSS-in-Gleam package, made to work with frontend, and directly with lustre!
@@ -277,7 +277,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Networking
 
-* [glisten](https://github.com/rawhat/glisten) ⭐ 96 | 🐛 11 | 🌐 Gleam | 📅 2026-06-27 - [📚](https://hexdocs.pm/glisten/) - a shiny Gleam TCP/SSL server
+* [glisten](https://github.com/rawhat/glisten) ⭐ 97 | 🐛 11 | 🌐 Gleam | 📅 2026-06-27 - [📚](https://hexdocs.pm/glisten/) - a shiny Gleam TCP/SSL server
 * [mug](https://github.com/lpil/mug) ⭐ 36 | 🐛 4 | 🌐 Gleam | 📅 2025-09-09 - [📚](https://hexdocs.pm/mug/) - A TCP client for Gleam!
 * [nessie](https://github.com/ckreiling/nessie) ⭐ 8 | 🐛 2 | 🌐 Gleam | 📅 2024-04-07 - [📚](https://hexdocs.pm/nessie/) - Gleam bindings for Erlang's built-in DNS resolution modules.
 * [ftpasta](https://codeberg.org/Deepfriedice/FTPasta) - [📚](https://hexdocs.pm/ftpasta/) - A simple to use wrapper around Erlang's built-in ftp module.
@@ -384,7 +384,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Web frameworks
 
 * [wisp](https://github.com/gleam-wisp/wisp) ⭐ 1,465 | 🐛 19 | 🌐 Gleam | 📅 2026-06-28 - [📚](https://hexdocs.pm/wisp/) - A practical web framework for Gleam
-* [glimr](https://github.com/glimr-org/glimr) ⭐ 210 | 🐛 4 | 🌐 Gleam | 📅 2026-04-28 - [📚](https://hexdocs.pm/glimr/) - A batteries-included web framework for Gleam
+* [glimr](https://github.com/glimr-org/glimr) ⭐ 211 | 🐛 4 | 🌐 Gleam | 📅 2026-04-28 - [📚](https://hexdocs.pm/glimr/) - A batteries-included web framework for Gleam
 * [glen](https://github.com/MystPi/glen) ⭐ 116 | 🐛 2 | 🌐 Gleam | 📅 2025-06-30 - [📚](https://hexdocs.pm/glen/) - A peaceful web framework that targets JS.
 
 ### Websites
@@ -399,7 +399,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 Compilers for Gleam and compilers written in Gleam.
 
-* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 21,741 | 🐛 230 | 🌐 Rust | 📅 2026-08-13 - The Gleam compiler.
+* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 21,743 | 🐛 236 | 🌐 Rust | 📅 2026-08-13 - The Gleam compiler.
 * [gleam-lang/example-lisp-interpreter](https://github.com/gleam-lang/example-lisp-interpreter/) ⭐ 50 | 🐛 0 | 🌐 Gleam | 📅 2025-03-27 - A toy Lisp interpreter in Gleam.
 
 ### Web applications
@@ -407,7 +407,7 @@ Compilers for Gleam and compilers written in Gleam.
 Web applications written in Gleam.
 
 * [gleam-lang/example-todomvc](https://github.com/gleam-lang/example-todomvc) ⭐ 157 | 🐛 5 | 🌐 Gleam | 📅 2024-07-15 - A serverside implementation of TodoMVC written in Gleam!
-* [gleam-lang/packages](https://github.com/gleam-lang/packages) ⭐ 117 | 🐛 6 | 🌐 Gleam | 📅 2026-07-22 - The Gleam package index website.
+* [gleam-lang/packages](https://github.com/gleam-lang/packages) ⭐ 118 | 🐛 6 | 🌐 Gleam | 📅 2026-07-22 - The Gleam package index website.
 * [ghivert/gloogle](https://github.com/ghivert/gloogle) ⭐ 117 | 🐛 7 | 🌐 Gleam | 📅 2026-07-02 - A search engine for the Gleam ecosystem, built in Lustre + Wisp.
 * [gleam-lang/example-echo-server](https://github.com/gleam-lang/example-echo-server) ⭐ 81 | 🐛 2 | 🌐 Gleam | 📅 2025-04-13 - An example Gleam web application.
 * [aosasona/jsorm](https://github.com/aosasona/jsorm) ⭐ 32 | 🐛 15 | 🌐 Gleam | 📅 2026-07-28 - A minimal JSON explorer in Gleam + HTMX.
@@ -451,7 +451,7 @@ Websites with Gleam related content.
 
 ### Courses
 
-* [Exercism's Gleam track](https://github.com/exercism/gleam/) ⭐ 119 | 🐛 29 | 🌐 Gleam | 📅 2026-08-15 - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
+* [Exercism's Gleam track](https://github.com/exercism/gleam/) ⭐ 119 | 🐛 28 | 🌐 Gleam | 📅 2026-08-15 - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
 * [tanklesxl/gladvent](https://github.com/tanklesxl/gladvent) ⭐ 70 | 🐛 10 | 🌐 Gleam | 📅 2025-10-27 - An `Advent of Code` runner for Gleam, targeting Erlang.
 
 ### Talks
@@ -474,4 +474,4 @@ Websites with Gleam related content.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
