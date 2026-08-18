@@ -537,7 +537,7 @@
             "last_commit": "2026-08-11T16:00:30Z",
             "owner": "gleam-lang",
             "repo": "stdlib",
-            "stars": 705
+            "stars": 706
           }
         },
         {
@@ -697,7 +697,7 @@
             "last_commit": "2026-07-17T06:24:41Z",
             "owner": "giacomocavalieri",
             "repo": "squirrel",
-            "stars": 678
+            "stars": 679
           }
         },
         {
@@ -1285,7 +1285,7 @@
             "last_commit": "2026-08-05T06:47:57Z",
             "owner": "lustre-labs",
             "repo": "lustre",
-            "stars": 2409
+            "stars": 2410
           }
         },
         {
@@ -1699,7 +1699,7 @@
             "last_commit": "2026-04-18T13:28:10Z",
             "owner": "rawhat",
             "repo": "mist",
-            "stars": 521
+            "stars": 522
           }
         },
         {
@@ -1710,7 +1710,7 @@
           "repo_info": {
             "archived": false,
             "language": "Gleam",
-            "last_commit": "2026-08-16T17:52:19Z",
+            "last_commit": "2026-08-17T16:15:49Z",
             "owner": "vshakitskiy",
             "repo": "ewe",
             "stars": 122
@@ -1809,7 +1809,7 @@
             "last_commit": "2026-08-11T14:26:49Z",
             "owner": "CrowdHailer",
             "repo": "plinth",
-            "stars": 117
+            "stars": 118
           }
         },
         {
@@ -2063,7 +2063,7 @@
             "last_commit": "2025-07-29T06:45:36Z",
             "owner": "hayleigh-dot-dev",
             "repo": "nibble",
-            "stars": 90
+            "stars": 91
           }
         },
         {
@@ -2801,7 +2801,7 @@
             "last_commit": "2026-06-28T12:05:21Z",
             "owner": "gleam-wisp",
             "repo": "wisp",
-            "stars": 1465
+            "stars": 1468
           }
         },
         {
@@ -2863,7 +2863,7 @@
             "last_commit": "2026-07-29T20:44:53Z",
             "owner": "veeso",
             "repo": "blogatto",
-            "stars": 95
+            "stars": 96
           }
         },
         {
@@ -2902,7 +2902,7 @@
             "last_commit": "2026-08-16T12:45:37Z",
             "owner": "gleam-lang",
             "repo": "gleam",
-            "stars": 21745
+            "stars": 21747
           }
         },
         {
@@ -3272,7 +3272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T01:58:16.131Z",
+    "last_updated": "2026-08-18T01:54:12.972Z",
     "original_repository": "gleam-lang/awesome-gleam",
     "original_repository_sha": "e20a3e87ebb3ed1554b0f6397d744409d29f5520",
     "enhanced_repository": "enhansome/enhansome-gleam",
