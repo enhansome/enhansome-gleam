@@ -475,7 +475,7 @@
             "last_commit": "2026-08-05T16:57:40Z",
             "owner": "jtdowney",
             "repo": "kryptos",
-            "stars": 17
+            "stars": 18
           }
         },
         {
@@ -503,7 +503,7 @@
             "last_commit": "2026-08-14T10:20:47Z",
             "owner": "jtdowney",
             "repo": "acumen",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -534,7 +534,7 @@
           "repo_info": {
             "archived": false,
             "language": "Gleam",
-            "last_commit": "2026-08-11T16:00:30Z",
+            "last_commit": "2026-08-18T12:36:41Z",
             "owner": "gleam-lang",
             "repo": "stdlib",
             "stars": 706
@@ -694,7 +694,7 @@
           "repo_info": {
             "archived": false,
             "language": "Gleam",
-            "last_commit": "2026-07-17T06:24:41Z",
+            "last_commit": "2026-08-18T09:04:41Z",
             "owner": "giacomocavalieri",
             "repo": "squirrel",
             "stars": 679
@@ -711,7 +711,7 @@
             "last_commit": "2026-03-09T16:09:10Z",
             "owner": "lpil",
             "repo": "pog",
-            "stars": 265
+            "stars": 264
           }
         },
         {
@@ -722,10 +722,10 @@
           "repo_info": {
             "archived": false,
             "language": "Gleam",
-            "last_commit": "2026-08-11T19:50:37Z",
+            "last_commit": "2026-08-18T10:52:46Z",
             "owner": "daniellionel01",
             "repo": "parrot",
-            "stars": 213
+            "stars": 214
           }
         },
         {
@@ -905,7 +905,7 @@
             "last_commit": "2026-08-09T10:36:36Z",
             "owner": "gleam-lang",
             "repo": "otp",
-            "stars": 869
+            "stars": 870
           }
         },
         {
@@ -1285,7 +1285,7 @@
             "last_commit": "2026-08-05T06:47:57Z",
             "owner": "lustre-labs",
             "repo": "lustre",
-            "stars": 2410
+            "stars": 2411
           }
         },
         {
@@ -1341,7 +1341,7 @@
             "last_commit": "2026-04-30T13:05:47Z",
             "owner": "ghivert",
             "repo": "redraw",
-            "stars": 73
+            "stars": 74
           }
         },
         {
@@ -1710,10 +1710,10 @@
           "repo_info": {
             "archived": false,
             "language": "Gleam",
-            "last_commit": "2026-08-17T16:15:49Z",
+            "last_commit": "2026-08-18T10:43:03Z",
             "owner": "vshakitskiy",
             "repo": "ewe",
-            "stars": 122
+            "stars": 123
           }
         },
         {
@@ -1981,7 +1981,7 @@
             "last_commit": "2026-06-27T14:29:56Z",
             "owner": "rawhat",
             "repo": "glisten",
-            "stars": 97
+            "stars": 98
           }
         },
         {
@@ -2179,7 +2179,7 @@
             "last_commit": "2026-01-01T12:57:02Z",
             "owner": "Pevensie",
             "repo": "m25",
-            "stars": 35
+            "stars": 34
           }
         },
         {
@@ -2413,7 +2413,7 @@
             "last_commit": "2026-07-17T06:29:00Z",
             "owner": "giacomocavalieri",
             "repo": "birdie",
-            "stars": 201
+            "stars": 202
           }
         },
         {
@@ -2517,7 +2517,7 @@
             "last_commit": "2026-04-20T16:59:40Z",
             "owner": "giacomocavalieri",
             "repo": "glam",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -2719,7 +2719,7 @@
             "last_commit": "2025-10-18T22:19:10Z",
             "owner": "renatillas",
             "repo": "clockwork",
-            "stars": 24
+            "stars": 23
           }
         },
         {
@@ -2899,10 +2899,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T12:45:37Z",
+            "last_commit": "2026-08-18T12:41:19Z",
             "owner": "gleam-lang",
             "repo": "gleam",
-            "stars": 21747
+            "stars": 21748
           }
         },
         {
@@ -3272,7 +3272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T01:54:12.972Z",
+    "last_updated": "2026-08-19T01:56:00.552Z",
     "original_repository": "gleam-lang/awesome-gleam",
     "original_repository_sha": "e20a3e87ebb3ed1554b0f6397d744409d29f5520",
     "enhanced_repository": "enhansome/enhansome-gleam",
