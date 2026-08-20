@@ -91,7 +91,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 * [glint](https://github.com/TanklesXL/glint) ⭐ 81 | 🐛 22 | 🌐 Gleam | 📅 2026-07-20 - [📚](https://hexdocs.pm/glint/) - Gleam command line argument parsing with basic flag support.
 * [shellout](https://github.com/tynanbe/shellout) ⭐ 75 | 🐛 6 | 🌐 Gleam | 📅 2026-02-19 - [📚](https://hexdocs.pm/shellout/) - A Gleam library for cross-platform shell operations
 * [rad](https://github.com/tynanbe/rad) ⭐ 72 | 🐛 1 | 🌐 Gleam | 📅 2024-06-14 - [📚](https://hexdocs.pm/rad/) - A task runner for Gleam projects
-* [clip](https://github.com/drewolson/clip) ⭐ 52 | 🐛 0 | 🌐 Gleam | 📅 2026-08-08 - [📚](https://hexdocs.pm/clip/) - A CLI Option Parser for Gleam
+* [clip](https://github.com/drewolson/clip) ⭐ 52 | 🐛 0 | 🌐 Gleam | 📅 2026-08-19 - [📚](https://hexdocs.pm/clip/) - A CLI Option Parser for Gleam
 * [argv](https://github.com/lpil/argv) ⭐ 42 | 🐛 2 | 🌐 Erlang | 📅 2026-05-11 - [📚](https://hexdocs.pm/argv/) - A cross platform library for getting the command line arguments
 * [gleam\_community\_ansi](https://github.com/gleam-community/ansi) ⭐ 38 | 🐛 1 | 🌐 Gleam | 📅 2026-04-20 - [📚](https://hexdocs.pm/gleam_community_ansi/) - ANSI colours, formatting, and control codes
 * [spinner](https://github.com/lpil/spinner) ⭐ 28 | 🐛 0 | 🌐 Gleam | 📅 2025-01-08 - [📚](https://hexdocs.pm/spinner/) - Animated progress spinners for your console
@@ -233,7 +233,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### HTTP
 
-* [gleam\_http](https://github.com/gleam-lang/http) ⭐ 285 | 🐛 5 | 🌐 Gleam | 📅 2025-10-02 - [📚](https://hexdocs.pm/gleam_http/) - Types and functions for Gleam HTTP clients and servers
+* [gleam\_http](https://github.com/gleam-lang/http) ⭐ 284 | 🐛 5 | 🌐 Gleam | 📅 2025-10-02 - [📚](https://hexdocs.pm/gleam_http/) - Types and functions for Gleam HTTP clients and servers
 * [cors\_builder](https://github.com/ghivert/cors-builder) ⭐ 18 | 🐛 0 | 🌐 Gleam | 📅 2026-04-22 - [📚](https://hexdocs.pm/cors_builder/) - A CORS Builder, performing validation and injection of CORS for misp, wisp and any framework!
 
 ### HTTP Clients
@@ -245,7 +245,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### HTTP Servers
 
 * [mist](https://github.com/rawhat/mist) ⭐ 522 | 🐛 9 | 🌐 Gleam | 📅 2026-04-18 - [📚](https://hexdocs.pm/mist/) - a misty Gleam web server
-* [ewe](https://github.com/vshakitskiy/ewe) ⭐ 123 | 🐛 3 | 🌐 Gleam | 📅 2026-08-18 - [📚](https://hexdocs.pm/ewe/) - 🐑 a fluffy Gleam web server
+* [ewe](https://github.com/vshakitskiy/ewe) ⭐ 123 | 🐛 2 | 🌐 Gleam | 📅 2026-08-19 - [📚](https://hexdocs.pm/ewe/) - 🐑 a fluffy Gleam web server
 * [gleam\_elli](https://github.com/gleam-lang/elli) ⭐ 74 | 🐛 1 | 🌐 Gleam | 📅 2025-06-02 - [📚](https://hexdocs.pm/gleam_elli/) - Run Gleam HTTP services with the Elli web server
 * [cgi](https://github.com/lpil/cgi) ⭐ 17 | 🐛 0 | 🌐 Gleam | 📅 2024-01-16 - [📚](https://hexdocs.pm/cgi/) - Common Gateway Interface (CGI) in Gleam
 
@@ -399,7 +399,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 Compilers for Gleam and compilers written in Gleam.
 
-* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 21,750 | 🐛 236 | 🌐 Rust | 📅 2026-08-18 - The Gleam compiler.
+* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 21,750 | 🐛 232 | 🌐 Rust | 📅 2026-08-19 - The Gleam compiler.
 * [gleam-lang/example-lisp-interpreter](https://github.com/gleam-lang/example-lisp-interpreter/) ⭐ 50 | 🐛 0 | 🌐 Gleam | 📅 2025-03-27 - A toy Lisp interpreter in Gleam.
 
 ### Web applications
@@ -474,4 +474,4 @@ Websites with Gleam related content.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

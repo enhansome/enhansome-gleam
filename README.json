@@ -260,7 +260,7 @@
                 "archived": false,
                 "id": 855181768,
                 "language": "Gleam",
-                "last_commit": "2026-08-08T14:00:34Z",
+                "last_commit": "2026-08-19T14:22:04Z",
                 "owner": "drewolson",
                 "repo": "clip",
                 "stars": 52
@@ -1726,7 +1726,7 @@
                 "last_commit": "2025-10-02T12:41:06Z",
                 "owner": "gleam-lang",
                 "repo": "http",
-                "stars": 285
+                "stars": 284
               }
             },
             {
@@ -1827,7 +1827,7 @@
                 "archived": false,
                 "id": 1039589169,
                 "language": "Gleam",
-                "last_commit": "2026-08-18T10:43:03Z",
+                "last_commit": "2026-08-19T17:51:45Z",
                 "owner": "vshakitskiy",
                 "repo": "ewe",
                 "stars": 123
@@ -3113,7 +3113,7 @@
                 "archived": false,
                 "id": 62341543,
                 "language": "Rust",
-                "last_commit": "2026-08-18T12:41:19Z",
+                "last_commit": "2026-08-19T21:53:48Z",
                 "owner": "gleam-lang",
                 "repo": "gleam",
                 "stars": 21750
@@ -3513,7 +3513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:29:50.911Z",
+    "last_updated": "2026-08-20T01:55:16.222Z",
     "original_repository": "gleam-lang/awesome-gleam",
     "original_repository_id": 228353228,
     "original_repository_sha": "e20a3e87ebb3ed1554b0f6397d744409d29f5520",
