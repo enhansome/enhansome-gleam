@@ -499,7 +499,7 @@
                 "archived": false,
                 "id": 1126745709,
                 "language": "Gleam",
-                "last_commit": "2026-08-05T16:57:40Z",
+                "last_commit": "2026-08-21T14:39:00Z",
                 "owner": "jtdowney",
                 "repo": "kryptos",
                 "stars": 18
@@ -1115,7 +1115,7 @@
                 "last_commit": "2025-01-27T22:15:53Z",
                 "owner": "ckreiling",
                 "repo": "nessie_cluster",
-                "stars": 13
+                "stars": 14
               }
             },
             {
@@ -1283,7 +1283,7 @@
                 "archived": false,
                 "id": 807142882,
                 "language": "Gleam",
-                "last_commit": "2026-08-07T14:30:31Z",
+                "last_commit": "2026-08-21T17:00:12Z",
                 "owner": "mscharley",
                 "repo": "gleam-commonmark",
                 "stars": 32
@@ -1368,7 +1368,7 @@
                 "last_commit": "2026-08-05T06:47:57Z",
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2412
+                "stars": 2414
               }
             },
             {
@@ -1815,7 +1815,7 @@
                 "last_commit": "2026-04-18T13:28:10Z",
                 "owner": "rawhat",
                 "repo": "mist",
-                "stars": 522
+                "stars": 523
               }
             },
             {
@@ -1827,7 +1827,7 @@
                 "archived": false,
                 "id": 1039589169,
                 "language": "Gleam",
-                "last_commit": "2026-08-19T17:51:45Z",
+                "last_commit": "2026-08-21T11:51:30Z",
                 "owner": "vshakitskiy",
                 "repo": "ewe",
                 "stars": 123
@@ -2313,7 +2313,7 @@
                 "last_commit": "2026-08-20T16:46:24Z",
                 "owner": "imlargo",
                 "repo": "gleam-webpush",
-                "stars": 3
+                "stars": 5
               }
             }
           ],
@@ -2645,7 +2645,7 @@
                 "archived": false,
                 "id": 1132415709,
                 "language": "Gleam",
-                "last_commit": "2026-08-01T01:03:27Z",
+                "last_commit": "2026-08-21T14:44:01Z",
                 "owner": "jtdowney",
                 "repo": "unitest",
                 "stars": 6
@@ -3006,7 +3006,7 @@
                 "last_commit": "2026-06-28T12:05:21Z",
                 "owner": "gleam-wisp",
                 "repo": "wisp",
-                "stars": 1468
+                "stars": 1469
               }
             },
             {
@@ -3021,7 +3021,7 @@
                 "last_commit": "2026-04-28T00:12:59Z",
                 "owner": "glimr-org",
                 "repo": "glimr",
-                "stars": 213
+                "stars": 214
               }
             },
             {
@@ -3113,10 +3113,10 @@
                 "archived": false,
                 "id": 62341543,
                 "language": "Rust",
-                "last_commit": "2026-08-19T21:53:48Z",
+                "last_commit": "2026-08-21T11:34:10Z",
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21754
+                "stars": 21755
               }
             },
             {
@@ -3265,7 +3265,7 @@
                 "last_commit": "2026-04-23T02:06:23Z",
                 "owner": "zwubs",
                 "repo": "betamine",
-                "stars": 41
+                "stars": 42
               }
             },
             {
@@ -3369,7 +3369,7 @@
             "archived": false,
             "id": 181766715,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T23:31:17Z",
+            "last_commit": "2026-08-21T11:20:34Z",
             "owner": "gleam-lang",
             "repo": "vscode-gleam",
             "stars": 234
@@ -3513,7 +3513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:01:11.971Z",
+    "last_updated": "2026-08-22T01:53:41.273Z",
     "original_repository": "gleam-lang/awesome-gleam",
     "original_repository_id": 228353228,
     "original_repository_sha": "e20a3e87ebb3ed1554b0f6397d744409d29f5520",
