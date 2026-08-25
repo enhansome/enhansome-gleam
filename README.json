@@ -741,7 +741,7 @@
                 "last_commit": "2026-08-18T09:04:41Z",
                 "owner": "giacomocavalieri",
                 "repo": "squirrel",
-                "stars": 679
+                "stars": 680
               }
             },
             {
@@ -1368,7 +1368,7 @@
                 "last_commit": "2026-08-23T13:30:06Z",
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2415
+                "stars": 2416
               }
             },
             {
@@ -1827,7 +1827,7 @@
                 "archived": false,
                 "id": 1039589169,
                 "language": "Gleam",
-                "last_commit": "2026-08-24T09:10:05Z",
+                "last_commit": "2026-08-24T22:14:54Z",
                 "owner": "vshakitskiy",
                 "repo": "ewe",
                 "stars": 123
@@ -3160,7 +3160,7 @@
                 "last_commit": "2026-08-24T11:31:47Z",
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21782
+                "stars": 21795
               }
             },
             {
@@ -3557,7 +3557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:04:48.342Z",
+    "last_updated": "2026-08-25T01:56:14.732Z",
     "original_repository": "gleam-lang/awesome-gleam",
     "original_repository_id": 228353228,
     "original_repository_sha": "e20a3e87ebb3ed1554b0f6397d744409d29f5520",
