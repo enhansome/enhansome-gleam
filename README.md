@@ -383,7 +383,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Web frameworks
 
-* [wisp](https://github.com/gleam-wisp/wisp) ⭐ 1,469 | 🐛 19 | 🌐 Gleam | 📅 2026-06-28 - [📚](https://hexdocs.pm/wisp/) - A practical web framework for Gleam
+* [wisp](https://github.com/gleam-wisp/wisp) ⭐ 1,470 | 🐛 19 | 🌐 Gleam | 📅 2026-06-28 - [📚](https://hexdocs.pm/wisp/) - A practical web framework for Gleam
 * [glimr](https://github.com/glimr-org/glimr) ⭐ 214 | 🐛 4 | 🌐 Gleam | 📅 2026-04-28 - [📚](https://hexdocs.pm/glimr/) - A batteries-included web framework for Gleam
 * [glen](https://github.com/MystPi/glen) ⭐ 116 | 🐛 2 | 🌐 Gleam | 📅 2025-06-30 - [📚](https://hexdocs.pm/glen/) - A peaceful web framework that targets JS.
 
@@ -399,7 +399,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 Compilers for Gleam and compilers written in Gleam.
 
-* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 21,795 | 🐛 226 | 🌐 Rust | 📅 2026-08-24 - The Gleam compiler.
+* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 21,798 | 🐛 226 | 🌐 Rust | 📅 2026-08-24 - The Gleam compiler.
 * [gleam-lang/example-lisp-interpreter](https://github.com/gleam-lang/example-lisp-interpreter/) ⭐ 50 | 🐛 0 | 🌐 Gleam | 📅 2025-03-27 - A toy Lisp interpreter in Gleam.
 
 ### Web applications

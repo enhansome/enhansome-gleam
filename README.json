@@ -3050,7 +3050,7 @@
                 "last_commit": "2026-06-28T12:05:21Z",
                 "owner": "gleam-wisp",
                 "repo": "wisp",
-                "stars": 1469
+                "stars": 1470
               }
             },
             {
@@ -3160,7 +3160,7 @@
                 "last_commit": "2026-08-24T11:31:47Z",
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21795
+                "stars": 21798
               }
             },
             {
@@ -3557,7 +3557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T01:56:14.732Z",
+    "last_updated": "2026-08-25T06:06:01.424Z",
     "original_repository": "gleam-lang/awesome-gleam",
     "original_repository_id": 228353228,
     "original_repository_sha": "e20a3e87ebb3ed1554b0f6397d744409d29f5520",
