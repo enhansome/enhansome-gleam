@@ -3157,7 +3157,7 @@
                 "archived": false,
                 "id": 62341543,
                 "language": "Rust",
-                "last_commit": "2026-08-26T13:49:46Z",
+                "last_commit": "2026-08-27T11:30:13Z",
                 "owner": "gleam-lang",
                 "repo": "gleam",
                 "stars": 21828
@@ -3557,9 +3557,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:58:29.451Z",
-    "original_repository": "gleam-lang/awesome-gleam",
-    "original_repository_id": 228353228,
+    "last_updated": "2026-08-27T11:43:01.670Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 228353228,
+      "language": "Gleam",
+      "last_commit": "2026-06-23T10:36:49Z",
+      "owner": "gleam-lang",
+      "repo": "awesome-gleam",
+      "stars": 2036
+    },
     "original_repository_sha": "e20a3e87ebb3ed1554b0f6397d744409d29f5520",
     "enhanced_repository": "enhansome/enhansome-gleam",
     "enhanced_repository_description": null,
