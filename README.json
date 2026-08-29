@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gleam library to build Telegram bots",
+                "homepage": "https://hexdocs.pm/telega/",
                 "id": 776031940,
                 "language": "Gleam",
-                "last_commit": "2026-08-27T14:21:26Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T13:50:26Z",
+                "open_issues": 0,
                 "owner": "bondiano",
                 "repo": "telega-gleam",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "gleam",
+                  "telegram",
+                  "telegram-bots"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -28,12 +37,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library to create discord bots in gleam",
+                "homepage": "https://hex.pm/packages/discord_gleam",
                 "id": 828908735,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-07-05T14:35:46Z",
+                "open_issues": 1,
                 "owner": "cyteon",
                 "repo": "discord_gleam",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "discord",
+                  "discord-api",
+                  "discord-bot",
+                  "gleam",
+                  "gleam-lang"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -44,12 +64,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 717796297,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-06-17T16:50:55Z",
+                "open_issues": 1,
                 "owner": "lpil",
                 "repo": "aws4_request",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -60,12 +85,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gravatar URLs for Gleam",
+                "homepage": "https://hex.pm/packages/glevatar",
                 "id": 707763213,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2024-04-13T03:52:44Z",
+                "open_issues": 0,
                 "owner": "bunopnu",
                 "repo": "glevatar",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "gleam",
+                  "gravatar",
+                  "gravatar-image"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -76,12 +110,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PokeAPI wrapper library, written in Gleam.",
+                "homepage": "https://hexdocs.pm/tallgrass",
                 "id": 847432853,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2024-10-04T01:52:17Z",
+                "open_issues": 1,
                 "owner": "stevetoro",
                 "repo": "tallgrass",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "gleam",
+                  "pokeapi",
+                  "pokemon"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -92,12 +135,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1010169493,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-07-26T19:09:16Z",
+                "open_issues": 0,
                 "owner": "fweingartshofer",
                 "repo": "oauth",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -108,12 +156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🪄 Decoders for the Hex API",
+                "homepage": null,
                 "id": 634955842,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2025-04-05T22:26:25Z",
+                "open_issues": 1,
                 "owner": "gleam-lang",
                 "repo": "hexpm",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -124,12 +177,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gleam bindings to the API of the Gatus health check tool",
+                "homepage": null,
                 "id": 717051652,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2024-12-22T19:35:14Z",
+                "open_issues": 0,
                 "owner": "lpil",
                 "repo": "glatus",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -147,12 +205,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Glychee: Easy access to Elixir's benchee in Gleam",
+                "homepage": "https://hexdocs.pm/glychee",
                 "id": 555065398,
                 "language": "Gleam",
+                "license": "MPL-2.0",
                 "last_commit": "2026-05-23T22:49:36Z",
+                "open_issues": 5,
                 "owner": "inoas",
                 "repo": "glychee",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "benchmarking-utility",
+                  "ci-cd",
+                  "gleam-language",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -163,12 +231,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for benchmarking gleam code.",
+                "homepage": null,
                 "id": 712719990,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-17T22:44:08Z",
+                "open_issues": 5,
                 "owner": "schurhammer",
                 "repo": "gleamy_bench",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -186,12 +259,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌮 Bundle your Gleam-on-Erlang project into an escript, a single executable file!",
+                "homepage": null,
                 "id": 734492271,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-06-03T08:33:12Z",
+                "open_issues": 3,
                 "owner": "lpil",
                 "repo": "gleescript",
-                "stars": 120
+                "stars": 120,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -202,12 +280,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "`esbuild` for Gleam (no NodeJS/Deno needed)",
+                "homepage": null,
                 "id": 737113092,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-22T03:53:15Z",
+                "open_issues": 4,
                 "owner": "Enderchief",
                 "repo": "esgleam",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -225,12 +308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gleam command-line argument parsing with flags and automated help text generation.",
+                "homepage": "https://hex.pm/packages/glint",
                 "id": 447254061,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-20T19:16:32Z",
+                "open_issues": 22,
                 "owner": "TanklesXL",
                 "repo": "glint",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -241,12 +329,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐢 A Gleam library for cross-platform shell operations",
+                "homepage": null,
                 "id": 332911560,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-19T07:03:19Z",
+                "open_issues": 6,
                 "owner": "tynanbe",
                 "repo": "shellout",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -257,12 +350,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨ Run tasks in Gleam!",
+                "homepage": null,
                 "id": 487889814,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-14T04:21:50Z",
+                "open_issues": 1,
                 "owner": "tynanbe",
                 "repo": "rad",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -273,12 +371,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CLI option parser for Gleam",
+                "homepage": null,
                 "id": 855181768,
                 "language": "Gleam",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T14:22:04Z",
+                "open_issues": 0,
                 "owner": "drewolson",
                 "repo": "clip",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -289,12 +392,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "➿ A cross platform library for getting the command line arguments.",
+                "homepage": "https://hexdocs.pm/argv/",
                 "id": 734797374,
                 "language": "Erlang",
+                "license": null,
                 "last_commit": "2026-05-11T11:32:38Z",
+                "open_issues": 2,
                 "owner": "lpil",
                 "repo": "argv",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -305,12 +413,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ANSI colours, formatting, and control codes",
+                "homepage": null,
                 "id": 578398806,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-20T16:41:04Z",
+                "open_issues": 1,
                 "owner": "gleam-community",
                 "repo": "ansi",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -321,12 +434,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 740243859,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2025-01-08T12:21:12Z",
+                "open_issues": 0,
                 "owner": "lpil",
                 "repo": "spinner",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -337,12 +455,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A synchronous stdin iterator for Gleam, with uniform behavior across Erlang, Node, Deno, and Bun.",
+                "homepage": "https://hex.pm/packages/stdin",
                 "id": 809666157,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2025-05-27T09:53:36Z",
+                "open_issues": 1,
                 "owner": "Olian04",
                 "repo": "gleam_stdin",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "bun",
+                  "deno",
+                  "erlang",
+                  "gleam",
+                  "gleam-lang",
+                  "gleam-language",
+                  "nodejs",
+                  "stdin",
+                  "stdio"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -353,12 +486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Progress bars for gleam.",
+                "homepage": null,
                 "id": 810513377,
                 "language": "Gleam",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-27T21:28:54Z",
+                "open_issues": 0,
                 "owner": "miampf",
                 "repo": "glitzer",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -376,12 +514,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📂 A zero dependency cross platform Gleam package for reading environment variables",
+                "homepage": null,
                 "id": 734719767,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-04-18T10:36:06Z",
+                "open_issues": 0,
                 "owner": "lpil",
                 "repo": "envoy",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -392,12 +535,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Load environment variables from .env (or other) files in Gleam",
+                "homepage": "https://hexdocs.pm/dot_env",
                 "id": 711257624,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-07-25T21:53:09Z",
+                "open_issues": 3,
                 "owner": "aosasona",
                 "repo": "dotenv",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -408,12 +556,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏞️ A pleasant way to interact with your environment variables",
+                "homepage": "https://hexdocs.pm/glenvy",
                 "id": 646983503,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2025-07-30T01:32:34Z",
+                "open_issues": 0,
                 "owner": "maxdeviant",
                 "repo": "glenvy",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "dotenv",
+                  "gleam"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -424,12 +580,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "dotenv for gleam",
+                "homepage": null,
                 "id": 709577462,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2025-10-13T21:48:59Z",
+                "open_issues": 3,
                 "owner": "Grubba27",
                 "repo": "dotenv_gleam",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -440,12 +601,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type-safe access to your environment variables.",
+                "homepage": null,
                 "id": 823335614,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-25T13:23:32Z",
+                "open_issues": 0,
                 "owner": "custompro98",
                 "repo": "glenv",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -463,12 +629,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨ Unique IDs for Gleam",
+                "homepage": "https://hexdocs.pm/ids/",
                 "id": 307265098,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-26T19:13:37Z",
+                "open_issues": 3,
                 "owner": "rvcas",
                 "repo": "ids",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "cuid",
+                  "gleam",
+                  "nanoid",
+                  "unique",
+                  "uuid"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -479,12 +656,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⛓️ Crypto functionality for Gleam applications",
+                "homepage": "https://hexdocs.pm/gleam_crypto/",
                 "id": 270802838,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-24T11:58:28Z",
+                "open_issues": 3,
                 "owner": "gleam-lang",
                 "repo": "crypto",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "cryptography",
+                  "gleam"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -495,12 +680,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 758119290,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-31T20:25:58Z",
+                "open_issues": 4,
                 "owner": "lpil",
                 "repo": "youid",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -511,12 +701,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Erlang-based Argon2 Password Hashing for Gleam",
+                "homepage": null,
                 "id": 828592504,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:41:26Z",
+                "open_issues": 0,
                 "owner": "Pevensie",
                 "repo": "argus",
-                "stars": 27
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -527,12 +722,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cryptography library for Gleam targeting Erlang and JavaScript",
+                "homepage": null,
                 "id": 1126745709,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T14:39:00Z",
+                "open_issues": 0,
                 "owner": "jtdowney",
                 "repo": "kryptos",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "cryptography",
+                  "gleam",
+                  "wycheproof"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -543,12 +747,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐝 Buzzing Gleam bindings to the Erlang bcrypt hashing library",
+                "homepage": null,
                 "id": 639526630,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2025-05-14T10:38:15Z",
+                "open_issues": 1,
                 "owner": "lpil",
                 "repo": "beecrypt",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -559,12 +768,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gleam library for interacting with Automatic Certificate Management Environment (ACME) servers like Let's Encrypt",
+                "homepage": null,
                 "id": 1195529560,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-14T10:20:47Z",
+                "open_issues": 0,
                 "owner": "jtdowney",
                 "repo": "acumen",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "acme",
+                  "cryptography",
+                  "gleam",
+                  "letsencrypt"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -575,12 +794,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gleam implementation of Knuth’s multiplicative hashing.",
+                "homepage": null,
                 "id": 854209304,
                 "language": "Gleam",
+                "license": "LGPL-2.1",
                 "last_commit": "2024-09-08T18:09:32Z",
+                "open_issues": 0,
                 "owner": "mdarse",
                 "repo": "kmh",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -598,12 +822,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎁  Gleam's standard library",
+                "homepage": "https://hexdocs.pm/gleam_stdlib/",
                 "id": 217914849,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T12:36:41Z",
+                "open_issues": 33,
                 "owner": "gleam-lang",
                 "repo": "stdlib",
-                "stars": 708
+                "stars": 708,
+                "topics": [
+                  "gleam",
+                  "stdlib",
+                  "types"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -614,12 +847,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐎 Work with tensors in Gleam!",
+                "homepage": null,
                 "id": 450357561,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-18T00:02:50Z",
+                "open_issues": 0,
                 "owner": "tynanbe",
                 "repo": "argamak",
-                "stars": 37
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -630,12 +868,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data Structures written in the Gleam programming language.",
+                "homepage": null,
                 "id": 645509194,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-25T21:51:42Z",
+                "open_issues": 1,
                 "owner": "schurhammer",
                 "repo": "gleamy_structures",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -646,12 +889,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎬 Compose stateful actions to simulate mutable state",
+                "homepage": "https://hexdocs.pm/act",
                 "id": 776901569,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-01T19:53:58Z",
+                "open_issues": 0,
                 "owner": "MystPi",
                 "repo": "act",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "functional-programming",
+                  "gleam",
+                  "monad",
+                  "state"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -662,28 +915,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌳 Tries in Gleam",
+                "homepage": "https://hexdocs.pm/trie_again/",
                 "id": 653734986,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-09T10:02:47Z",
+                "open_issues": 0,
                 "owner": "giacomocavalieri",
                 "repo": "trie_again",
-                "stars": 15
-              },
-              "first_seen": "2026-08-28T11:31:01.185Z"
-            },
-            {
-              "node_type": "item",
-              "title": "non_empty_list",
-              "description": "📚 - Non-empty lists in Gleam",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 645726279,
-                "language": "Gleam",
-                "last_commit": "2026-07-16T07:51:22Z",
-                "owner": "giacomocavalieri",
-                "repo": "non_empty_list",
-                "stars": 11
+                "stars": 15,
+                "topics": [
+                  "data-structures",
+                  "tries"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -694,12 +939,51 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dead simple data-structure for delaying side effects. Written in the excellent gleam language. Available on the Beam & in the browser!",
+                "homepage": "https://hexdocs.pm/delay/index.html",
                 "id": 397437302,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-04-26T18:20:34Z",
+                "open_issues": 0,
                 "owner": "bwireman",
                 "repo": "delay",
-                "stars": 10
+                "stars": 11,
+                "topics": [
+                  "bun",
+                  "delay",
+                  "deno",
+                  "elixir",
+                  "erlang",
+                  "gleam",
+                  "javascript",
+                  "monad",
+                  "nodejs",
+                  "sideeffects"
+                ]
+              },
+              "first_seen": "2026-08-28T11:31:01.185Z"
+            },
+            {
+              "node_type": "item",
+              "title": "non_empty_list",
+              "description": "📚 - Non-empty lists in Gleam",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "✨ Non-empty lists in Gleam",
+                "homepage": "https://hexdocs.pm/non_empty_list/",
+                "id": 645726279,
+                "language": "Gleam",
+                "license": "Apache-2.0",
+                "last_commit": "2026-07-16T07:51:22Z",
+                "open_issues": 1,
+                "owner": "giacomocavalieri",
+                "repo": "non_empty_list",
+                "stars": 11,
+                "topics": [
+                  "data-structures"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -710,12 +994,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Immutable arrays for Gleam",
+                "homepage": null,
                 "id": 730256060,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-07T09:21:13Z",
+                "open_issues": 0,
                 "owner": "lunagl",
                 "repo": "glearray",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -726,12 +1015,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👜 Bags (or multisets) in Gleam",
+                "homepage": "https://hexdocs.pm/tote/",
                 "id": 708527972,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-18T12:51:54Z",
+                "open_issues": 0,
                 "owner": "giacomocavalieri",
                 "repo": "tote",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "bag",
+                  "multiset"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -742,12 +1039,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for working with lazy lists in Gleam",
+                "homepage": "https://hexdocs.pm/gleam_zlists/gleam_zlists.html",
                 "id": 341894968,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2024-09-26T16:02:37Z",
+                "open_issues": 2,
                 "owner": "mrdimosthenis",
                 "repo": "gleam_zlists",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "beam",
+                  "erlang",
+                  "functional-programming",
+                  "gleam",
+                  "gleam-lang"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -758,12 +1066,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small data-structure for representing Left or Right. ↔️",
+                "homepage": "https://hex.pm/packages/gleither",
                 "id": 776579456,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2025-12-20T17:23:20Z",
+                "open_issues": 0,
                 "owner": "bwireman",
                 "repo": "gleither",
-                "stars": 3
+                "stars": 4,
+                "topics": [
+                  "beam",
+                  "either",
+                  "elixir",
+                  "erlang",
+                  "gleam",
+                  "javascript",
+                  "monad"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -781,12 +1102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐿️ Type safe SQL in Gleam",
+                "homepage": "https://hexdocs.pm/squirrel/",
                 "id": 837650406,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T09:04:41Z",
+                "open_issues": 13,
                 "owner": "giacomocavalieri",
                 "repo": "squirrel",
-                "stars": 680
+                "stars": 680,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -797,12 +1123,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐘 A PostgreSQL database client for Gleam, based on PGO",
+                "homepage": "https://hexdocs.pm/pog",
                 "id": 222302603,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-09T16:09:10Z",
+                "open_issues": 19,
                 "owner": "lpil",
                 "repo": "pog",
-                "stars": 264
+                "stars": 264,
+                "topics": [
+                  "erlang",
+                  "gleam",
+                  "postgresql",
+                  "postgresql-client"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -813,12 +1149,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦜 type-safe SQL in gleam",
+                "homepage": "https://hexdocs.pm/parrot/",
                 "id": 903411615,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T10:52:46Z",
+                "open_issues": 8,
                 "owner": "daniellionel01",
                 "repo": "parrot",
-                "stars": 216
+                "stars": 216,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -829,12 +1170,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💡 Use SQLite from Gleam!",
+                "homepage": "https://hexdocs.pm/sqlight",
                 "id": 583126475,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-07-10T13:05:12Z",
+                "open_issues": 7,
                 "owner": "lpil",
                 "repo": "sqlight",
-                "stars": 155
+                "stars": 156,
+                "topics": [
+                  "database-client",
+                  "gleam",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -845,12 +1195,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gleam library to compose SQL queries targeting SQL dialects PostgreSQL, SQLite, MariaDB and MySQL.",
+                "homepage": "https://hex.pm/packages/cake",
                 "id": 790935873,
                 "language": "Gleam",
+                "license": "MPL-2.0",
                 "last_commit": "2026-06-06T11:36:25Z",
+                "open_issues": 2,
                 "owner": "inoas",
                 "repo": "gleam-cake",
-                "stars": 132
+                "stars": 132,
+                "topics": [
+                  "dynamic",
+                  "gleam-language",
+                  "gleam-library",
+                  "mariadb",
+                  "mysql",
+                  "postgres",
+                  "query-builder",
+                  "sql",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -861,12 +1226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Redis client for Gleam",
+                "homepage": "https://hex.pm/packages/radish",
                 "id": 714404150,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-25T19:45:32Z",
+                "open_issues": 8,
                 "owner": "massivefermion",
                 "repo": "radish",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -877,12 +1247,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Redis and Valkey client for Gleam!",
+                "homepage": null,
                 "id": 1005237028,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-05-16T22:30:32Z",
+                "open_issues": 1,
                 "owner": "Pevensie",
                 "repo": "valkyrie",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -893,12 +1268,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 875256640,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-07-18T20:39:06Z",
+                "open_issues": 0,
                 "owner": "lpil",
                 "repo": "storail",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -909,12 +1289,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a mongodb driver for gleam ",
+                "homepage": "https://hex.pm/packages/mungo",
                 "id": 700952661,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-20T06:18:50Z",
+                "open_issues": 2,
                 "owner": "massivefermion",
                 "repo": "mungo",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -925,12 +1310,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Database migrations for SQLite",
+                "homepage": null,
                 "id": 708157774,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-06-14T02:35:09Z",
+                "open_issues": 5,
                 "owner": "aosasona",
                 "repo": "migrant",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -948,12 +1338,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Send emails with Gleam.",
+                "homepage": "https://hex.pm/packages/gcourier",
                 "id": 980134641,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-04-19T14:19:37Z",
+                "open_issues": 8,
                 "owner": "gideongrinberg",
                 "repo": "gcourier",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "email",
+                  "gleam"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -964,12 +1362,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A client for the SendGrid transactional email API",
+                "homepage": null,
                 "id": 457497828,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-19T09:30:22Z",
+                "open_issues": 0,
                 "owner": "lpil",
                 "repo": "sendgriddle",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -980,12 +1383,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for interacting with Plunk (https://useplunk.com) in Gleam",
+                "homepage": "https://hexdocs.pm/plunk",
                 "id": 702106488,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2025-06-04T16:35:12Z",
+                "open_issues": 2,
                 "owner": "aosasona",
                 "repo": "plunk.gleam",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "email",
+                  "gleam-lang",
+                  "plunk"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -996,12 +1408,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A client for the Zeptomail transactional email API",
+                "homepage": "https://www.zoho.com/zeptomail/",
                 "id": 506809814,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2025-12-28T16:58:07Z",
+                "open_issues": 0,
                 "owner": "lpil",
                 "repo": "zeptomail",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "api-client",
+                  "email",
+                  "gleam-lang"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -1019,12 +1440,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📫 Fault tolerant multicore programs with actors",
+                "homepage": null,
                 "id": 185173770,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T22:06:16Z",
+                "open_issues": 8,
                 "owner": "gleam-lang",
                 "repo": "otp",
-                "stars": 871
+                "stars": 871,
+                "topics": [
+                  "actors",
+                  "erlang",
+                  "gleam",
+                  "otp"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1035,12 +1466,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐙 Types and functions for programs running on Erlang!",
+                "homepage": null,
                 "id": 337340374,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-22T07:29:51Z",
+                "open_issues": 10,
                 "owner": "gleam-lang",
                 "repo": "erlang",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "beam",
+                  "erlang",
+                  "gleam",
+                  "runtime"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1051,12 +1492,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A BEAM observer tool written in and compatible with Gleam",
+                "homepage": null,
                 "id": 873664010,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-04-21T21:46:41Z",
+                "open_issues": 4,
                 "owner": "JonasGruenwald",
                 "repo": "spectator",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1067,12 +1513,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-healing clusters for Gleam applications on the BEAM!",
+                "homepage": null,
                 "id": 875278364,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2025-06-14T21:27:03Z",
+                "open_issues": 1,
                 "owner": "Pevensie",
                 "repo": "barnacle",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1083,12 +1534,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gleam library for building event-sourced systems.",
+                "homepage": null,
                 "id": 837894445,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-10-18T22:21:09Z",
+                "open_issues": 1,
                 "owner": "renatillas",
                 "repo": "eventsourcing",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1099,12 +1555,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Registry library for gleam",
+                "homepage": null,
                 "id": 712825761,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2024-12-14T02:08:52Z",
+                "open_issues": 5,
                 "owner": "chouzar",
                 "repo": "chip",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1115,12 +1576,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bindings for Erlang's ETS tables. Forked and updated from gts.",
+                "homepage": null,
                 "id": 779095598,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2024-04-08T14:25:02Z",
+                "open_issues": 3,
                 "owner": "grottohub",
                 "repo": "carpenter",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1131,12 +1597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A resource pool for Gleam!",
+                "homepage": null,
                 "id": 908028558,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-02-20T19:09:32Z",
+                "open_issues": 0,
                 "owner": "Pevensie",
                 "repo": "bath",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1147,12 +1618,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple actor pool for Gleam!",
+                "homepage": null,
                 "id": 910081468,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2025-06-25T08:10:25Z",
+                "open_issues": 0,
                 "owner": "Pevensie",
                 "repo": "lifeguard",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1163,12 +1639,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎭 General-purpose OTP actors",
+                "homepage": null,
                 "id": 785459169,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2024-12-07T00:28:40Z",
+                "open_issues": 2,
                 "owner": "maxdeviant",
                 "repo": "shakespeare",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1179,12 +1660,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple DNS clustering for Gleam",
+                "homepage": null,
                 "id": 786628905,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-27T22:15:53Z",
+                "open_issues": 1,
                 "owner": "ckreiling",
                 "repo": "nessie_cluster",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1195,12 +1681,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A resource pool manager for gleam",
+                "homepage": "https://hex.pm/packages/puddle",
                 "id": 623790545,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2024-12-04T12:27:07Z",
+                "open_issues": 2,
                 "owner": "massivefermion",
                 "repo": "puddle",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1211,12 +1702,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 737412410,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2024-01-02T22:06:05Z",
+                "open_issues": 0,
                 "owner": "lpil",
                 "repo": "process-waiter",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -1234,12 +1730,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⛵ A boilerplate-free ad-hoc error type",
+                "homepage": null,
                 "id": 350327779,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-02T13:37:46Z",
+                "open_issues": 1,
                 "owner": "lpil",
                 "repo": "snag",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "error-handling",
+                  "gleam"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1250,12 +1754,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 677509783,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-24T08:52:13Z",
+                "open_issues": 0,
                 "owner": "lpil",
                 "repo": "exception",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -1273,12 +1782,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple file operations for Gleam that work on all targets (Erlang/Node/Deno)",
+                "homepage": null,
                 "id": 647597140,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-05T07:11:13Z",
+                "open_issues": 3,
                 "owner": "bcpeinhardt",
                 "repo": "simplifile",
-                "stars": 144
+                "stars": 145,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1289,12 +1803,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gleam library that provides access to file streams.",
+                "homepage": null,
                 "id": 762564904,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-05-01T11:30:11Z",
+                "open_issues": 2,
                 "owner": "richard-viney",
                 "repo": "file_streams",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1305,12 +1824,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Work with file paths in Gleam!",
+                "homepage": null,
                 "id": 717483908,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2025-04-01T12:22:28Z",
+                "open_issues": 5,
                 "owner": "lpil",
                 "repo": "filepath",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "gleam-lang"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -1328,12 +1854,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A parser for Djot, a markdown-like language.",
+                "homepage": null,
                 "id": 719258148,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-08-12T11:37:57Z",
+                "open_issues": 6,
                 "owner": "lpil",
                 "repo": "jot",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1344,12 +1875,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pure Gleam TOML parser!",
+                "homepage": null,
                 "id": 717595482,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-04-30T10:37:15Z",
+                "open_issues": 5,
                 "owner": "lpil",
                 "repo": "tom",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "gleam-lang",
+                  "toml-parser"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1360,12 +1899,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CommonMark/Markdown implementation in Gleam, for the BEAM or JS",
+                "homepage": "https://hexdocs.pm/commonmark",
                 "id": 807142882,
                 "language": "Gleam",
-                "last_commit": "2026-08-21T17:00:12Z",
+                "license": "MPL-2.0",
+                "last_commit": "2026-08-28T17:12:42Z",
+                "open_issues": 14,
                 "owner": "mscharley",
                 "repo": "gleam-commonmark",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "commonmark",
+                  "gleam",
+                  "markdown"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1376,12 +1924,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build YAML in Gleam!",
+                "homepage": null,
                 "id": 757108729,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-03-09T11:54:01Z",
+                "open_issues": 2,
                 "owner": "lpil",
                 "repo": "cymbal",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1392,12 +1945,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tiny XML builder for Gleam",
+                "homepage": null,
                 "id": 828599442,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-06T11:17:12Z",
+                "open_issues": 0,
                 "owner": "lpil",
                 "repo": "xmb",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1408,12 +1966,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple csv parser and encoder written in gleam",
+                "homepage": null,
                 "id": 1045951096,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-08-29T16:54:31Z",
+                "open_issues": 0,
                 "owner": "bcpeinhardt",
                 "repo": "gsv",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1424,12 +1987,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Gleam library to decode ISO/IEC 8859 binary data into native UTF-8 strings.",
+                "homepage": null,
                 "id": 744736315,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2024-11-13T07:59:18Z",
+                "open_issues": 0,
                 "owner": "richard-viney",
                 "repo": "iso_8859",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -1447,12 +2015,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gleam web framework for building HTML templates, single page applications, and real-time server components.",
+                "homepage": "https://hexdocs.pm/lustre",
                 "id": 457999787,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-08-23T13:30:06Z",
+                "open_issues": 21,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2420
+                "stars": 2423,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1463,12 +2036,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of components and design tokens for building Lustre apps.",
+                "homepage": null,
                 "id": 696139027,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-05-26T13:27:50Z",
+                "open_issues": 5,
                 "owner": "lustre-labs",
                 "repo": "ui",
-                "stars": 173
+                "stars": 173,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1479,12 +2057,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A type-safe 3D game engine for Gleam",
+                "homepage": null,
                 "id": 1070192257,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-07-29T14:00:49Z",
+                "open_issues": 2,
                 "owner": "renatillas",
                 "repo": "tiramisu",
-                "stars": 115
+                "stars": 115,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1495,12 +2078,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CSS-in-Gleam package, made to work with frontend, backend, with your favorite framework!",
+                "homepage": "https://sketch.chouquette.dev",
                 "id": 781498923,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-08-20T14:23:52Z",
+                "open_issues": 8,
                 "owner": "ghivert",
                 "repo": "sketch",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "css",
+                  "css-in-js",
+                  "frontend",
+                  "gleam-lang",
+                  "lustre"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1511,12 +2105,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React bindings for Gleam! Supports everything modern React provides, with full Gleam Type-Checking system!",
+                "homepage": "https://hexdocs.pm/redraw",
                 "id": 829451065,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-04-30T13:05:47Z",
+                "open_issues": 1,
                 "owner": "ghivert",
                 "repo": "redraw",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "frontend",
+                  "gleam",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1527,12 +2130,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌬️ tailwindcss for gleam",
+                "homepage": null,
                 "id": 703098671,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-04-20T10:08:07Z",
+                "open_issues": 0,
                 "owner": "okkdev",
                 "repo": "glailglind",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1543,12 +2151,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Time traveller debugger, tailor-made for Lustre! Rewind your history, and see what you've done!",
+                "homepage": "https://hexdocs.pm/tardis",
                 "id": 787857055,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2025-03-19T15:53:22Z",
+                "open_issues": 6,
                 "owner": "ghivert",
                 "repo": "tardis",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "debugger",
+                  "frontend",
+                  "gleam",
+                  "lustre"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1559,12 +2177,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toaster, made in lustre, for Gleam",
+                "homepage": "https://hexdocs.pm/grille_pain",
                 "id": 803272128,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-04-22T13:35:12Z",
+                "open_issues": 0,
                 "owner": "ghivert",
                 "repo": "grille-pain",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "frontend",
+                  "gleam",
+                  "toaster"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1575,12 +2202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 704874666,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-28T23:58:04Z",
+                "open_issues": 0,
                 "owner": "schurhammer",
                 "repo": "lustre_virtual_list",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -1598,12 +2230,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👁️‍🗨️ A Gleam source code parser, in Gleam!",
+                "homepage": null,
                 "id": 639834005,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-09T18:09:01Z",
+                "open_issues": 3,
                 "owner": "lpil",
                 "repo": "glance",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1614,12 +2251,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gleam lexer implemented in Gleam!",
+                "homepage": null,
                 "id": 639436870,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-08-03T20:10:34Z",
+                "open_issues": 0,
                 "owner": "DanielleMaywood",
                 "repo": "glexer",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1630,12 +2272,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💄 Pretty print values with style!",
+                "homepage": "https://hexdocs.pm/pprint/",
                 "id": 767232451,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-07T16:31:18Z",
+                "open_issues": 0,
                 "owner": "MystPi",
                 "repo": "pprint",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "debugging",
+                  "gleam",
+                  "pretty-print",
+                  "pretty-printer",
+                  "pretty-printing",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1646,12 +2300,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📦 Work with Gleam's package interfaces",
+                "homepage": null,
                 "id": 747323284,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-13T21:57:06Z",
+                "open_issues": 1,
                 "owner": "gleam-lang",
                 "repo": "package-interface",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "gleam"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1662,12 +2323,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turn glance AST back into a gleam src string",
+                "homepage": null,
                 "id": 683806834,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2025-05-03T17:24:10Z",
+                "open_issues": 2,
                 "owner": "bcpeinhardt",
                 "repo": "glance_printer",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -1685,12 +2351,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Colour types, conversions, and other utilities",
+                "homepage": null,
                 "id": 579189836,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-20T16:44:26Z",
+                "open_issues": 3,
                 "owner": "gleam-community",
                 "repo": "colour",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1701,12 +2372,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Light image manipulation in Gleam!",
+                "homepage": null,
                 "id": 865554977,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2025-07-30T12:22:44Z",
+                "open_issues": 0,
                 "owner": "tinybackup",
                 "repo": "ansel",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -1724,12 +2400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An HTML generation library for building web apps with Gleam ✨",
+                "homepage": "https://mckay.la/nakai",
                 "id": 456754033,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2025-08-04T01:33:27Z",
+                "open_issues": 3,
                 "owner": "aslilac",
                 "repo": "nakai",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1740,12 +2421,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 764331978,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-07-25T10:18:54Z",
+                "open_issues": 2,
                 "owner": "lpil",
                 "repo": "formal",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1756,12 +2442,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 677706922,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-07T22:28:23Z",
+                "open_issues": 0,
                 "owner": "lpil",
                 "repo": "htmb",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1772,12 +2463,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast HTML escaping 🪄",
+                "homepage": null,
                 "id": 956630888,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-04-18T12:31:12Z",
+                "open_issues": 0,
                 "owner": "giacomocavalieri",
                 "repo": "houdini",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1788,12 +2484,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gleam bindings to htmerl, the fast and memory efficient HTML SAX parser.",
+                "homepage": null,
                 "id": 634980786,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-07-23T12:43:54Z",
+                "open_issues": 1,
                 "owner": "lpil",
                 "repo": "htmgrrrl",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1804,12 +2505,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UN-escaping HTML",
+                "homepage": "https://hexdocs.pm/odysseus",
                 "id": 989315288,
                 "language": "Erlang",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-24T14:49:16Z",
+                "open_issues": 0,
                 "owner": "strawmelonjuice",
                 "repo": "odysseus",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -1827,12 +2533,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🕸️ Types and functions for HTTP clients and servers!",
+                "homepage": "https://hexdocs.pm/gleam_http/",
                 "id": 194435108,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T12:14:03Z",
+                "open_issues": 5,
                 "owner": "gleam-lang",
                 "repo": "http",
-                "stars": 284
+                "stars": 284,
+                "topics": [
+                  "gleam",
+                  "http",
+                  "types"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1843,12 +2558,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CORS Builder, performing validation and injection of CORS for mist, wisp and any framework!",
+                "homepage": "https://hexdocs.pm/cors_builder",
                 "id": 790921753,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-04-22T13:15:28Z",
+                "open_issues": 0,
                 "owner": "ghivert",
                 "repo": "cors-builder",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "backend",
+                  "cors",
+                  "gleam",
+                  "mist",
+                  "server",
+                  "wisp"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -1866,12 +2593,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📡 Make requests to HTTP servers with httpc",
+                "homepage": "https://hexdocs.pm/gleam_httpc/",
                 "id": 235399341,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-10T15:08:23Z",
+                "open_issues": 19,
                 "owner": "gleam-lang",
                 "repo": "httpc",
-                "stars": 173
+                "stars": 175,
+                "topics": [
+                  "erlang",
+                  "gleam",
+                  "http-client"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1882,12 +2618,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🪝 Make requests to HTTP servers with Hackney",
+                "homepage": null,
                 "id": 441927003,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-26T07:46:55Z",
+                "open_issues": 8,
                 "owner": "gleam-lang",
                 "repo": "hackney",
-                "stars": 62
+                "stars": 63,
+                "topics": [
+                  "erlang",
+                  "gleam",
+                  "http-client"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1898,12 +2643,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📡  Make requests to HTTP servers with fetch",
+                "homepage": null,
                 "id": 402527006,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-02T22:44:13Z",
+                "open_issues": 5,
                 "owner": "gleam-lang",
                 "repo": "fetch",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -1921,12 +2671,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gleam HTTP server. because it glistens on a web",
+                "homepage": null,
                 "id": 483010327,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-18T13:28:10Z",
+                "open_issues": 9,
                 "owner": "rawhat",
                 "repo": "mist",
-                "stars": 522
+                "stars": 522,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1937,12 +2692,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐑 a fluffy Gleam web server",
+                "homepage": "https://hexdocs.pm/ewe",
                 "id": 1039589169,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:32:46Z",
+                "open_issues": 2,
                 "owner": "vshakitskiy",
                 "repo": "ewe",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1953,12 +2713,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍛 A Gleam HTTP service adapter for the Elli web server",
+                "homepage": null,
                 "id": 177331320,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-02T13:36:19Z",
+                "open_issues": 1,
                 "owner": "gleam-lang",
                 "repo": "elli",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "erlang",
+                  "gleam",
+                  "http"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -1969,12 +2738,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 734875744,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2024-01-16T11:15:53Z",
+                "open_issues": 0,
                 "owner": "lpil",
                 "repo": "cgi",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -1992,12 +2766,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐑 Work with JSON in Gleam!",
+                "homepage": "https://hexdocs.pm/gleam_json/",
                 "id": 442511553,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-04T16:29:28Z",
+                "open_issues": 4,
                 "owner": "gleam-lang",
                 "repo": "json",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "gleam",
+                  "json"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2008,12 +2790,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Work with JSON using a schema! RFC8927",
+                "homepage": "https://jsontypedef.com/",
                 "id": 852782192,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-04-19T08:33:03Z",
+                "open_issues": 3,
                 "owner": "lpil",
                 "repo": "json-typedef",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2024,12 +2811,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of RFC 6902 in Gleam (JSON Patch)",
+                "homepage": "https://hex.pm/packages/squirtle",
                 "id": 1079102568,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-07-29T19:12:22Z",
+                "open_issues": 0,
                 "owner": "alii",
                 "repo": "squirtle",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -2047,12 +2839,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "node and browser bindings for gleam",
+                "homepage": "https://hex.pm/packages/plinth",
                 "id": 673923470,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-11T14:26:49Z",
+                "open_issues": 4,
                 "owner": "CrowdHailer",
                 "repo": "plinth",
-                "stars": 119
+                "stars": 119,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2063,12 +2860,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌼 Extra code for when running on JavaScript",
+                "homepage": "https://hexdocs.pm/gleam_javascript/",
                 "id": 391345167,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-07-09T17:03:34Z",
+                "open_issues": 2,
                 "owner": "gleam-lang",
                 "repo": "javascript",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "gleam",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2079,12 +2884,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💬 Gleam bindings for the standard JavaScript Request and Response APIs",
+                "homepage": "https://hexdocs.pm/conversation/",
                 "id": 742170325,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2025-06-30T14:50:25Z",
+                "open_issues": 1,
                 "owner": "MystPi",
                 "repo": "conversation",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "bindings",
+                  "deno",
+                  "gleam",
+                  "gleam-lang",
+                  "javascript",
+                  "nodejs",
+                  "server",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2095,12 +2914,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 783283785,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-08-26T15:09:23Z",
+                "open_issues": 1,
                 "owner": "lpil",
                 "repo": "javascript-dom-parser",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -2118,12 +2942,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gleam logging library",
+                "homepage": null,
                 "id": 582709329,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-19T06:01:26Z",
+                "open_issues": 1,
                 "owner": "JohnBjrk",
                 "repo": "glimt",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2134,12 +2963,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 758967309,
                 "language": "Erlang",
+                "license": null,
                 "last_commit": "2026-04-03T15:06:14Z",
+                "open_issues": 0,
                 "owner": "lpil",
                 "repo": "logging",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2150,12 +2984,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gleam implementation of Erlang logger inspired from Logrus",
+                "homepage": null,
                 "id": 570121175,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-12T15:03:44Z",
+                "open_issues": 0,
                 "owner": "defgenx",
                 "repo": "glog",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "erlang-logger",
+                  "gleam",
+                  "gleam-lang",
+                  "gleam-language",
+                  "log",
+                  "logger",
+                  "logging"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2166,12 +3013,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stacky ☆ BEAM stack trace in Gleam: a stack trace of stack frames with module name, function name, arity, file name and line numb",
+                "homepage": null,
                 "id": 801015563,
                 "language": "Gleam",
+                "license": "MPL-2.0",
                 "last_commit": "2024-06-06T20:30:24Z",
+                "open_issues": 2,
                 "owner": "inoas",
                 "repo": "stacky",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2182,12 +3034,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 764744592,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-05-30T08:28:28Z",
+                "open_issues": 0,
                 "owner": "lpil",
                 "repo": "systemd_status",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -2205,12 +3062,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple and functional machine learning library for the Erlang ecosystem",
+                "homepage": "https://hexdocs.pm/emel/",
                 "id": 156930171,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2024-09-26T22:34:13Z",
+                "open_issues": 0,
                 "owner": "mrdimosthenis",
                 "repo": "emel",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "elixir",
+                  "erlang",
+                  "functional-programming",
+                  "gleam",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2221,12 +3089,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plug-and-play library for neural networks written in Gleam",
+                "homepage": "https://hexdocs.pm/gleam_synapses/",
                 "id": 348694503,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2024-09-26T17:02:19Z",
+                "open_issues": 0,
                 "owner": "mrdimosthenis",
                 "repo": "gleam_synapses",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "deeplearning",
+                  "functional-programming",
+                  "gleam",
+                  "gleam-lang",
+                  "machine-learning",
+                  "neural-network",
+                  "neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -2244,12 +3127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pure gleam TCP library",
+                "homepage": null,
                 "id": 478194181,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-27T14:29:56Z",
+                "open_issues": 11,
                 "owner": "rawhat",
                 "repo": "glisten",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2260,12 +3148,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍺 A TCP client for Gleam!",
+                "homepage": null,
                 "id": 702126352,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2025-09-09T10:14:17Z",
+                "open_issues": 4,
                 "owner": "lpil",
                 "repo": "mug",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2276,12 +3169,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A friendly DNS client for Gleam programs targeting Erlang",
+                "homepage": null,
                 "id": 783112944,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-07T01:52:13Z",
+                "open_issues": 2,
                 "owner": "ckreiling",
                 "repo": "nessie",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -2299,12 +3197,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A basic mathematics library containing fundamental functions and utilities.",
+                "homepage": null,
                 "id": 580898222,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-20T16:41:53Z",
+                "open_issues": 4,
                 "owner": "gleam-community",
                 "repo": "maths",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "gleam",
+                  "gleam-community",
+                  "gleam-lang",
+                  "mathematics",
+                  "maths"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2315,12 +3224,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arbitrary precision decimal arithmetic for Gleam",
+                "homepage": null,
                 "id": 868064020,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-01T16:41:48Z",
+                "open_issues": 2,
                 "owner": "horvathandris",
                 "repo": "bigdecimal",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -2338,12 +3252,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A string parsing library heavily inspired by elm/parser.",
+                "homepage": null,
                 "id": 514722791,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2025-07-29T06:45:36Z",
+                "open_issues": 5,
                 "owner": "hayleigh-dot-dev",
                 "repo": "nibble",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2354,12 +3273,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Comprehensive set of native Gleam utilities for handling SemVer 2.0.0.",
+                "homepage": "https://hex.pm/packages/gleamsver",
                 "id": 780549162,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2024-07-08T10:15:37Z",
+                "open_issues": 0,
                 "owner": "aznashwan",
                 "repo": "gleamsver",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "gleam",
+                  "gleam-lang",
+                  "gleam-language",
+                  "semver-compare",
+                  "semver-format",
+                  "semver-parser",
+                  "semver-syntax"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -2377,12 +3309,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to audit Hex dependencies, to make sure your ✨ gleam projects really sparkle!",
+                "homepage": "https://hex.pm/packages/go_over",
                 "id": 802661500,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-06-21T22:19:15Z",
+                "open_issues": 1,
                 "owner": "bwireman",
                 "repo": "go-over",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "audit",
+                  "beam",
+                  "cli",
+                  "dependencies",
+                  "dependency",
+                  "elixir",
+                  "erlang",
+                  "ghsa",
+                  "gleam",
+                  "javascript",
+                  "security",
+                  "security-audit",
+                  "security-tools",
+                  "tools",
+                  "vulnerable"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2393,12 +3346,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for managing git lifecycle hooks with ✨ gleam! Pre commit, Pre push and more!",
+                "homepage": "https://hex.pm/packages/cactus",
                 "id": 824655183,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-06-20T23:23:18Z",
+                "open_issues": 1,
                 "owner": "bwireman",
                 "repo": "cactus",
-                "stars": 20
+                "stars": 21,
+                "topics": [
+                  "beam",
+                  "cli",
+                  "dx",
+                  "erlang",
+                  "git",
+                  "git-hooks",
+                  "gleam",
+                  "hooks",
+                  "javascript",
+                  "pre-commit",
+                  "pre-commit-hook",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2409,12 +3380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌐 offline access to your gleam dependency docs",
+                "homepage": "https://hexdocs.pm/hexdocs_offline/",
                 "id": 896224121,
                 "language": "Gleam",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-29T13:44:36Z",
+                "open_issues": 2,
                 "owner": "daniellionel01",
                 "repo": "hexdocs_offline",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -2432,12 +3408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 708443662,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2025-04-27T10:18:24Z",
+                "open_issues": 0,
                 "owner": "lpil",
                 "repo": "wimp-pushover",
-                "stars": 9
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2448,12 +3429,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web Push API library for Gleam, supports encryption and VAPID",
+                "homepage": "https://hexdocs.pm/webpush",
                 "id": 1040269612,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-08-27T04:33:27Z",
+                "open_issues": 0,
                 "owner": "imlargo",
                 "repo": "gleam-webpush",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -2471,12 +3457,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A background job library for Gleam and Postgres!",
+                "homepage": null,
                 "id": 1011227677,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-08-25T21:10:34Z",
+                "open_issues": 5,
                 "owner": "Pevensie",
                 "repo": "m25",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2487,12 +3478,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A RabbitMQ client library for Gleam!",
+                "homepage": null,
                 "id": 934488357,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-01-12T16:26:36Z",
+                "open_issues": 0,
                 "owner": "renatillas",
                 "repo": "carotte",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2503,12 +3499,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gleam library to interact with Kafka",
+                "homepage": null,
                 "id": 930007268,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-01-12T13:33:30Z",
+                "open_issues": 0,
                 "owner": "renatillas",
                 "repo": "franz",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -2526,12 +3527,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎲 A Pure Random Number Generator for Gleam",
+                "homepage": "https://hexdocs.pm/prng/",
                 "id": 692215246,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-26T11:41:31Z",
+                "open_issues": 1,
                 "owner": "giacomocavalieri",
                 "repo": "prng",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "prng",
+                  "random-number-generator"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2542,12 +3551,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fake data generation for gleam",
+                "homepage": "https://hex.pm/packages/blah",
                 "id": 544375885,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-19T16:07:33Z",
+                "open_issues": 3,
                 "owner": "massivefermion",
                 "repo": "blah",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2558,12 +3572,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pure random data generation library, appropriate for realistic simulations in the Erlang ecosystem",
+                "homepage": "https://hexdocs.pm/minigen/minigen.html",
                 "id": 347984530,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2024-09-26T06:14:30Z",
+                "open_issues": 2,
                 "owner": "mrdimosthenis",
                 "repo": "minigen",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "elixir",
+                  "elixir-lang",
+                  "erlang",
+                  "generator",
+                  "gleam",
+                  "gleam-lang",
+                  "random",
+                  "random-generation"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -2581,12 +3609,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 849365853,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-07-06T09:56:32Z",
+                "open_issues": 1,
                 "owner": "lpil",
                 "repo": "bucket",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2597,12 +3630,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gleam implementation of the OpenFeature SDK",
+                "homepage": null,
                 "id": 822996756,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-24T21:21:55Z",
+                "open_issues": 2,
                 "owner": "horvathandris",
                 "repo": "openfeature-gleam-sdk",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "gleam",
+                  "openfeature",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2613,12 +3655,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "develop wechat miniprogram with gleam",
+                "homepage": null,
                 "id": 831432405,
                 "language": "Less",
+                "license": null,
                 "last_commit": "2026-03-17T00:47:32Z",
+                "open_issues": 0,
                 "owner": "kaiwu",
                 "repo": "wechat_dev_tools",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2629,12 +3676,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gleam bindings for wechat miniprogram",
+                "homepage": null,
                 "id": 831437973,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-08-02T16:57:47Z",
+                "open_issues": 0,
                 "owner": "kaiwu",
                 "repo": "weapp",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -2652,12 +3704,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 708538266,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2024-10-18T20:51:53Z",
+                "open_issues": 0,
                 "owner": "lpil",
                 "repo": "marceau",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2668,12 +3725,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ISO-4217 currency library for Gleam",
+                "homepage": null,
                 "id": 864658508,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-20T15:13:35Z",
+                "open_issues": 1,
                 "owner": "horvathandris",
                 "repo": "dime",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "currency",
+                  "gleam",
+                  "iso-4217"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2684,12 +3750,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An international phone number validator",
+                "homepage": "https://hex.pm/packages/phony",
                 "id": 695316985,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-22T17:44:26Z",
+                "open_issues": 0,
                 "owner": "massivefermion",
                 "repo": "phony",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "erlang",
+                  "gleam",
+                  "google",
+                  "international",
+                  "javascript",
+                  "libphonenumber",
+                  "phone"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2700,12 +3779,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ISBN utility library for Gleam.",
+                "homepage": null,
                 "id": 768838242,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-05-21T23:32:45Z",
+                "open_issues": 0,
                 "owner": "solar05",
                 "repo": "glisbn",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "gleam",
+                  "isbn"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2716,12 +3803,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Base32 encoding and decoding for Gleam, supporting all major variants.",
+                "homepage": null,
                 "id": 1172223963,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-01T01:05:19Z",
+                "open_issues": 0,
                 "owner": "jtdowney",
                 "repo": "thirtytwo",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -2739,12 +3831,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gleam terminal backend library",
+                "homepage": null,
                 "id": 1070449778,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-08-26T08:55:32Z",
+                "open_issues": 0,
                 "owner": "bananaofhappiness",
                 "repo": "etch",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -2762,12 +3859,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Mustache/Handlebars-style templating language written in pure Gleam.",
+                "homepage": "https://hex.pm/packages/handles",
                 "id": 812265049,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-04-20T10:27:56Z",
+                "open_issues": 1,
                 "owner": "Olian04",
                 "repo": "gleam_handles",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "bun",
+                  "deno",
+                  "erlang",
+                  "gleam",
+                  "gleam-lang",
+                  "gleam-language",
+                  "handlebars",
+                  "mustache",
+                  "nodejs",
+                  "template",
+                  "template-engine",
+                  "templating",
+                  "templating-engine"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -2785,12 +3901,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐦‍⬛ Snapshot testing in Gleam",
+                "homepage": "https://hexdocs.pm/birdie/",
                 "id": 748982300,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-17T06:29:00Z",
+                "open_issues": 1,
                 "owner": "giacomocavalieri",
                 "repo": "birdie",
-                "stars": 204
+                "stars": 204,
+                "topics": [
+                  "snapshot-testing"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2801,12 +3924,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gleam bindings for the Erlang EUnit test framework",
+                "homepage": null,
                 "id": 423165471,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-07T15:50:29Z",
+                "open_issues": 14,
                 "owner": "lpil",
                 "repo": "gleeunit",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "eunit",
+                  "gleam",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2817,12 +3949,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gleam TestContainers wrapper around Elixir TestContainers",
+                "homepage": null,
                 "id": 813770710,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-02-15T11:58:16Z",
+                "open_issues": 0,
                 "owner": "darky",
                 "repo": "testcontainers-gleam",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "gleam",
+                  "testcontainers"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2833,12 +3973,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 562626724,
                 "language": "Gleam",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-01T22:49:45Z",
+                "open_issues": 8,
                 "owner": "exercism",
                 "repo": "gleam-test-runner",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "community-contributions-accepted",
+                  "exercism-test-runner",
+                  "exercism-tooling",
+                  "maintained"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2849,12 +3999,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gleam test runner with random ordering, tagging, and CLI filtering",
+                "homepage": null,
                 "id": 1132415709,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T14:44:01Z",
+                "open_issues": 0,
                 "owner": "jtdowney",
                 "repo": "unitest",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "gleam",
+                  "testing",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2865,12 +4024,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Programatically build test suites in Gleam",
+                "homepage": null,
                 "id": 687641706,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2024-02-01T17:51:09Z",
+                "open_issues": 1,
                 "owner": "bcpeinhardt",
                 "repo": "testbldr",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -2888,12 +4052,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👁️‍🗨️ A Gleam source code parser, in Gleam!",
+                "homepage": null,
                 "id": 639834005,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-09T18:09:01Z",
+                "open_issues": 3,
                 "owner": "lpil",
                 "repo": "glance",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2904,12 +4073,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨ A package to help you easily pretty print structured data",
+                "homepage": "https://hexdocs.pm/glam/",
                 "id": 681364829,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-20T16:59:40Z",
+                "open_issues": 0,
                 "owner": "giacomocavalieri",
                 "repo": "glam",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "pretty-printer"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2920,12 +4096,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A package for creating helpful, and pretty CLI messages.",
+                "homepage": null,
                 "id": 592035066,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2024-05-01T15:15:03Z",
+                "open_issues": 0,
                 "owner": "brettkolodny",
                 "repo": "gleam-hug",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2936,12 +4117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A platform-agnostic internationalization library for Gleam",
+                "homepage": null,
                 "id": 1051601640,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2025-12-07T11:15:56Z",
+                "open_issues": 1,
                 "owner": "renatillas",
                 "repo": "g18n",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2952,12 +4138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gleam library for comparing strings/lists and producing a textual (styled) representation of the differences.",
+                "homepage": null,
                 "id": 594208719,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-16T21:39:32Z",
+                "open_issues": 1,
                 "owner": "JohnBjrk",
                 "repo": "gap",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2968,12 +4159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gleam library providing Unicode-aware string operations",
+                "homepage": null,
                 "id": 1105393970,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-04-22T07:15:45Z",
+                "open_issues": 0,
                 "owner": "lupodevelop",
                 "repo": "str",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -2984,12 +4180,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📝 A pure Gleam package to compute the edit distance of two strings",
+                "homepage": "https://hexdocs.pm/edit_distance/",
                 "id": 669845875,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-20T19:52:27Z",
+                "open_issues": 3,
                 "owner": "giacomocavalieri",
                 "repo": "edit_distance",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "edit-distance",
+                  "levenshtein-distance"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3000,12 +4204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 737359224,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-04-18T12:12:03Z",
+                "open_issues": 0,
                 "owner": "lpil",
                 "repo": "justin",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3016,12 +4225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily format values for human readability!",
+                "homepage": null,
                 "id": 836402124,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2025-08-29T03:41:31Z",
+                "open_issues": 0,
                 "owner": "SaphiraKai",
                 "repo": "humanise",
-                "stars": 8
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3032,12 +4246,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(>ᴗ•)  A simple Gleam box drawing library",
+                "homepage": null,
                 "id": 784002969,
                 "language": "Gleam",
+                "license": "GPL-3.0",
                 "last_commit": "2024-04-13T16:08:51Z",
+                "open_issues": 0,
                 "owner": "MAHcodes",
                 "repo": "wink",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3048,12 +4267,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔧 Remove shared indentation from a string",
+                "homepage": null,
                 "id": 789485068,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-20T17:26:57Z",
+                "open_issues": 0,
                 "owner": "MystPi",
                 "repo": "dedent",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "dedent",
+                  "gleam",
+                  "indentation",
+                  "string",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3064,12 +4294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of gleam algorithms dealing with phonetics",
+                "homepage": null,
                 "id": 767139396,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2024-03-08T20:16:38Z",
+                "open_issues": 0,
                 "owner": "leobm",
                 "repo": "phonetic_gleam",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -3087,12 +4322,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "datetime handling for gleam",
+                "homepage": "https://hex.pm/packages/birl",
                 "id": 581255290,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-23T05:38:12Z",
+                "open_issues": 11,
                 "owner": "massivefermion",
                 "repo": "birl",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "date",
+                  "datetime",
+                  "duration",
+                  "erlang",
+                  "gleam",
+                  "javascript",
+                  "monotonic",
+                  "time"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3103,12 +4352,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🕰️ Work with time in Gleam!",
+                "homepage": null,
                 "id": 907355619,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-08-13T12:20:12Z",
+                "open_issues": 3,
                 "owner": "gleam-lang",
                 "repo": "time",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3119,12 +4373,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A datetime-centric, mockable time library for Gleam!",
+                "homepage": null,
                 "id": 814832250,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-29T17:25:41Z",
+                "open_issues": 0,
                 "owner": "jrstrunk",
                 "repo": "tempo",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3135,12 +4394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gleam library to work with Crons",
+                "homepage": null,
                 "id": 937386348,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2025-10-18T22:19:10Z",
+                "open_issues": 0,
                 "owner": "renatillas",
                 "repo": "clockwork",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3151,12 +4415,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gleam package for dates",
+                "homepage": "https://hexdocs.pm/rada",
                 "id": 799225700,
                 "language": "Gleam",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-12-16T19:47:14Z",
+                "open_issues": 0,
                 "owner": "michaeljones",
                 "repo": "rada",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "date",
+                  "gleam"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3167,12 +4439,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Gleam time zone conversions for all targets, built on top of the tzif package.",
+                "homepage": null,
                 "id": 874471464,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-08-01T21:45:26Z",
+                "open_issues": 0,
                 "owner": "jrstrunk",
                 "repo": "gtz",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -3190,12 +4467,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validation library for Gleam",
+                "homepage": "https://hexdocs.pm/valid",
                 "id": 304484701,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-05T06:35:09Z",
+                "open_issues": 0,
                 "owner": "sporto",
                 "repo": "gleam-valid",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "gleam",
+                  "gleam-lang"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3206,12 +4491,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny data validation library in pure Gleam",
+                "homepage": "https://hexdocs.pm/crossbar",
                 "id": 743210802,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2025-11-05T21:49:22Z",
+                "open_issues": 1,
                 "owner": "aosasona",
                 "repo": "crossbar",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "gleam",
+                  "validation-library"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -3229,12 +4522,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧚 A practical web framework for Gleam",
+                "homepage": "https://gleam-wisp.github.io/wisp/",
                 "id": 674791613,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-28T12:05:21Z",
+                "open_issues": 19,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
-                "stars": 1471
+                "stars": 1471,
+                "topics": [
+                  "gleam-lang",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3245,12 +4546,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨ A batteries-included web framework for Gleam.",
+                "homepage": "https://glimr.build",
                 "id": 1109430893,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-04-28T00:12:59Z",
+                "open_issues": 5,
                 "owner": "glimr-org",
                 "repo": "glimr",
-                "stars": 216
+                "stars": 216,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3261,12 +4567,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏕️ A peaceful web framework for Gleam that targets JS.",
+                "homepage": "https://hexdocs.pm/glen/",
                 "id": 750538787,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2025-06-30T15:15:55Z",
+                "open_issues": 2,
                 "owner": "MystPi",
                 "repo": "glen",
-                "stars": 116
+                "stars": 116,
+                "topics": [
+                  "cloudflare-workers",
+                  "deno",
+                  "deno-deploy",
+                  "gleam",
+                  "gleam-lang",
+                  "javascript",
+                  "web",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -3284,12 +4604,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 692680411,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-01-05T13:12:05Z",
+                "open_issues": 4,
                 "owner": "lustre-labs",
                 "repo": "ssg",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3300,12 +4625,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gleam framework for building static blogs with Lustre and Markdown or Djot. Generates HTML pages, RSS/Atom feeds, sitemaps, and robots.txt from markdown files with frontmatter, with multilingual support.",
+                "homepage": "https://blogat.to",
                 "id": 1164173013,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-07-29T20:44:53Z",
+                "open_issues": 2,
                 "owner": "veeso",
                 "repo": "blogatto",
-                "stars": 98
+                "stars": 98,
+                "topics": [
+                  "blog",
+                  "blog-engine",
+                  "gleam",
+                  "gleam-blog",
+                  "gleam-lang"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3316,12 +4652,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Atom feed generator for Gleam",
+                "homepage": null,
                 "id": 954797242,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2025-04-07T12:54:56Z",
+                "open_issues": 0,
                 "owner": "lpil",
                 "repo": "atomb",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -3345,12 +4686,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⭐️ A friendly language for building type-safe, scalable systems!",
+                "homepage": "https://gleam.run",
                 "id": 62341543,
                 "language": "Rust",
-                "last_commit": "2026-08-28T10:38:56Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T14:52:14Z",
+                "open_issues": 218,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21829
+                "stars": 21835,
+                "topics": [
+                  "compiler",
+                  "erlang",
+                  "gleam",
+                  "programming-language",
+                  "statically-typed"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3361,12 +4713,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👾 A Lisp interpreter in Gleam!",
+                "homepage": "https://gleam.run",
                 "id": 545404943,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-27T13:13:00Z",
+                "open_issues": 0,
                 "owner": "gleam-lang",
                 "repo": "example-lisp-interpreter",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "example",
+                  "gleam",
+                  "lisp"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -3384,12 +4745,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📝 An example web application in Gleam",
+                "homepage": null,
                 "id": 453541225,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2024-07-15T14:20:54Z",
+                "open_issues": 5,
                 "owner": "gleam-lang",
                 "repo": "example-todomvc",
-                "stars": 158
+                "stars": 158,
+                "topics": [
+                  "example-project",
+                  "fullstack",
+                  "gleam",
+                  "postgresql",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3400,12 +4772,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📦 Search for Gleam packages",
+                "homepage": "https://packages.gleam.run/",
                 "id": 451198286,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-22T17:23:55Z",
+                "open_issues": 5,
                 "owner": "gleam-lang",
                 "repo": "packages",
-                "stars": 118
+                "stars": 118,
+                "topics": [
+                  "gleam",
+                  "postgresql",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3416,12 +4797,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Search engine for the gleam ecosystem! Search across the entire gleam ecosystem!",
+                "homepage": "https://gloogle.run",
                 "id": 785380226,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-02T21:03:20Z",
+                "open_issues": 7,
                 "owner": "ghivert",
                 "repo": "gloogle",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "backend",
+                  "frontend",
+                  "gleam",
+                  "lustre",
+                  "search",
+                  "wisp"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3432,12 +4825,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔗 An example Gleam web application",
+                "homepage": null,
                 "id": 177319313,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-13T17:03:59Z",
+                "open_issues": 2,
                 "owner": "gleam-lang",
                 "repo": "example-echo-server",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "example",
+                  "gleam",
+                  "web-application"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3448,12 +4850,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A (demo) minimal JSON explorer in Gleam + HTMX",
+                "homepage": "https://jsorm.trulyao.dev",
                 "id": 707787886,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2026-07-28T21:42:09Z",
+                "open_issues": 15,
                 "owner": "aosasona",
                 "repo": "jsorm",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3464,12 +4871,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "todomvc example with lustre",
+                "homepage": "https://ryanmiville.github.io/lustre-todomvc/",
                 "id": 902041796,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2025-04-22T00:36:54Z",
+                "open_issues": 0,
                 "owner": "ryanmiville",
                 "repo": "lustre-todomvc",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3480,12 +4892,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Digital remake of the \"Acquire\" board game",
+                "homepage": "https://acquire.x.invariant.cn/game/",
                 "id": 819244862,
                 "language": "Gleam",
+                "license": null,
                 "last_commit": "2025-03-23T03:06:38Z",
+                "open_issues": 0,
                 "owner": "losfair",
                 "repo": "acquire",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -3503,12 +4920,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Minecraft server written in Gleam",
+                "homepage": null,
                 "id": 813911932,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-04-23T02:06:23Z",
+                "open_issues": 0,
                 "owner": "zwubs",
                 "repo": "betamine",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "gleam",
+                  "minecraft"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3519,12 +4944,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An FTP server written in Gleam",
+                "homepage": null,
                 "id": 1034093830,
                 "language": "Gleam",
+                "license": "LGPL-3.0",
                 "last_commit": "2025-09-15T11:34:34Z",
+                "open_issues": 0,
                 "owner": "raineycat",
                 "repo": "gleam-ftp",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -3546,12 +4976,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A BEAM observer tool written in and compatible with Gleam",
+            "homepage": null,
             "id": 873664010,
             "language": "Gleam",
+            "license": null,
             "last_commit": "2026-04-21T21:46:41Z",
+            "open_issues": 4,
             "owner": "JonasGruenwald",
             "repo": "spectator",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:01.185Z"
         },
@@ -3562,12 +4997,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ Run tasks in Gleam!",
+            "homepage": null,
             "id": 487889814,
             "language": "Gleam",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-14T04:21:50Z",
+            "open_issues": 1,
             "owner": "tynanbe",
             "repo": "rad",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:01.185Z"
         },
@@ -3578,12 +5018,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Glychee: Easy access to Elixir's benchee in Gleam",
+            "homepage": "https://hexdocs.pm/glychee",
             "id": 555065398,
             "language": "Gleam",
+            "license": "MPL-2.0",
             "last_commit": "2026-05-23T22:49:36Z",
+            "open_issues": 5,
             "owner": "inoas",
             "repo": "glychee",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "benchmarking-utility",
+              "ci-cd",
+              "gleam-language",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T11:31:01.185Z"
         }
@@ -3600,12 +5050,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sparkles: A (Neo)vim plugin for formatting code.",
+            "homepage": null,
             "id": 53912779,
             "language": "Vim Script",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-04-13T16:45:43Z",
+            "open_issues": 130,
             "owner": "sbdchd",
             "repo": "neoformat",
-            "stars": 2047
+            "stars": 2047,
+            "topics": [
+              "formatter",
+              "neovim",
+              "plugin",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-28T11:31:01.185Z"
         },
@@ -3616,12 +5076,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📟 Gleam support for VS Code",
+            "homepage": null,
             "id": 181766715,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T11:20:34Z",
+            "open_issues": 8,
             "owner": "gleam-lang",
             "repo": "vscode-gleam",
-            "stars": 234
+            "stars": 234,
+            "topics": [
+              "editor-plugin",
+              "gleam",
+              "snippets",
+              "vscode",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T11:31:01.185Z"
         },
@@ -3632,12 +5103,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "✌️ Gleam support for Vim/Neovim",
+            "homepage": null,
             "id": 119757755,
             "language": null,
+            "license": null,
             "last_commit": "2025-04-24T20:11:09Z",
+            "open_issues": 1,
             "owner": "gleam-lang",
             "repo": "gleam.vim",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "editor-plugin",
+              "gleam",
+              "snippets",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-28T11:31:01.185Z"
         },
@@ -3648,12 +5129,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐙 Gleam support for Emacs",
+            "homepage": null,
             "id": 179920806,
             "language": "Emacs Lisp",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-04T13:54:40Z",
+            "open_issues": 6,
             "owner": "gleam-lang",
             "repo": "gleam-mode",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "editor-plugin",
+              "emacs",
+              "gleam"
+            ]
           },
           "first_seen": "2026-08-28T11:31:01.185Z"
         },
@@ -3664,12 +5154,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gleam syntax support for Sublime Text",
+            "homepage": null,
             "id": 599681018,
             "language": "Gleam",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-25T20:47:48Z",
+            "open_issues": 1,
             "owner": "digitalcora",
             "repo": "sublime-text-gleam",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:01.185Z"
         },
@@ -3680,12 +5175,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Gleam language support for Atom",
+            "homepage": null,
             "id": 326865951,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-01-13T23:00:52Z",
+            "open_issues": 0,
             "owner": "itsgreggreg",
             "repo": "language-gleam",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "gleam"
+            ]
           },
           "first_seen": "2026-08-28T11:31:01.185Z"
         },
@@ -3696,12 +5198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "File to add support for Gleam Language to the famous gedit editor",
+            "homepage": null,
             "id": 354840563,
             "language": null,
+            "license": null,
             "last_commit": "2023-01-15T19:21:01Z",
+            "open_issues": 0,
             "owner": "DannyLettuce",
             "repo": "gleam_gedit",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:01.185Z"
         },
@@ -3712,12 +5219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gleam theme and syntax highlighting for the Lite XL text editor ",
+            "homepage": null,
             "id": 1060253941,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-05-28T12:34:48Z",
+            "open_issues": 0,
             "owner": "0riginaln0",
             "repo": "lite-xl-gleam",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:31:01.185Z"
         }
@@ -3736,12 +5248,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exercism exercises in Gleam.",
+                "homepage": "https://exercism.org/tracks/gleam",
                 "id": 197268623,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-08-15T12:06:51Z",
+                "open_issues": 28,
                 "owner": "exercism",
                 "repo": "gleam",
-                "stars": 119
+                "stars": 119,
+                "topics": [
+                  "community-contributions-accepted",
+                  "exercism-track",
+                  "maintained"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3752,12 +5273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gleam framework for running Advent of Code solutions",
+                "homepage": "https://hex.pm/packages/gladvent",
                 "id": 395435429,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-27T16:49:03Z",
+                "open_issues": 10,
                 "owner": "TanklesXL",
                 "repo": "gladvent",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -3771,15 +5297,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:31:01.185Z",
+    "last_updated": "2026-08-29T04:24:32.433Z",
     "original_repository_info": {
       "archived": false,
+      "description": "💯 A collection of Gleam libraries, projects, and resources",
+      "homepage": null,
       "id": 228353228,
       "language": "Gleam",
+      "license": null,
       "last_commit": "2026-06-23T10:36:49Z",
+      "open_issues": 30,
       "owner": "gleam-lang",
       "repo": "awesome-gleam",
-      "stars": 2036
+      "stars": 2036,
+      "topics": [
+        "awesome-list",
+        "gleam",
+        "libraries",
+        "projects"
+      ]
     },
     "original_repository_sha": "e20a3e87ebb3ed1554b0f6397d744409d29f5520",
     "enhanced_repository": "enhansome/enhansome-gleam",
