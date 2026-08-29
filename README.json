@@ -17,7 +17,7 @@
                 "id": 776031940,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T13:50:26Z",
+                "last_commit": "2026-08-29T04:59:16Z",
                 "open_issues": 0,
                 "owner": "bondiano",
                 "repo": "telega-gleam",
@@ -4531,7 +4531,7 @@
                 "open_issues": 19,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
-                "stars": 1471,
+                "stars": 1472,
                 "topics": [
                   "gleam-lang",
                   "web-framework"
@@ -4695,7 +4695,7 @@
                 "open_issues": 218,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21835,
+                "stars": 21836,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5297,7 +5297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:24:32.433Z",
+    "last_updated": "2026-08-29T07:10:32.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
