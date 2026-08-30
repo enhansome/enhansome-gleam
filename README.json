@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "bondiano",
                 "repo": "telega-gleam",
-                "stars": 67,
+                "stars": 68,
                 "topics": [
                   "gleam",
                   "telegram",
@@ -1111,7 +1111,7 @@
                 "open_issues": 13,
                 "owner": "giacomocavalieri",
                 "repo": "squirrel",
-                "stars": 680,
+                "stars": 681,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1132,7 +1132,7 @@
                 "open_issues": 19,
                 "owner": "lpil",
                 "repo": "pog",
-                "stars": 264,
+                "stars": 265,
                 "topics": [
                   "erlang",
                   "gleam",
@@ -1179,7 +1179,7 @@
                 "open_issues": 7,
                 "owner": "lpil",
                 "repo": "sqlight",
-                "stars": 156,
+                "stars": 157,
                 "topics": [
                   "database-client",
                   "gleam",
@@ -2024,7 +2024,7 @@
                 "open_issues": 21,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2423,
+                "stars": 2424,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2701,7 +2701,7 @@
                 "open_issues": 2,
                 "owner": "vshakitskiy",
                 "repo": "ewe",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -3157,7 +3157,7 @@
                 "open_issues": 4,
                 "owner": "lpil",
                 "repo": "mug",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4692,10 +4692,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T14:52:14Z",
-                "open_issues": 218,
+                "open_issues": 221,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21836,
+                "stars": 21842,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5297,7 +5297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:10:32.774Z",
+    "last_updated": "2026-08-30T05:31:23.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
@@ -5309,7 +5309,7 @@
       "open_issues": 30,
       "owner": "gleam-lang",
       "repo": "awesome-gleam",
-      "stars": 2036,
+      "stars": 2037,
       "topics": [
         "awesome-list",
         "gleam",
