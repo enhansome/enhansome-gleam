@@ -1533,7 +1533,7 @@
               "description": "📚 - A Gleam library for building event-sourced systems with Actors and Supervisors",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "A Gleam library for building event-sourced systems.",
                 "homepage": null,
                 "id": 837894445,
@@ -2538,8 +2538,8 @@
                 "id": 194435108,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-24T12:14:03Z",
-                "open_issues": 5,
+                "last_commit": "2026-08-30T10:42:23Z",
+                "open_issues": 7,
                 "owner": "gleam-lang",
                 "repo": "http",
                 "stars": 284,
@@ -2697,8 +2697,8 @@
                 "id": 1039589169,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T09:32:46Z",
-                "open_issues": 2,
+                "last_commit": "2026-08-30T18:53:12Z",
+                "open_issues": 1,
                 "owner": "vshakitskiy",
                 "repo": "ewe",
                 "stars": 124,
@@ -3618,7 +3618,7 @@
                 "open_issues": 1,
                 "owner": "lpil",
                 "repo": "bucket",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4531,7 +4531,7 @@
                 "open_issues": 19,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
-                "stars": 1472,
+                "stars": 1473,
                 "topics": [
                   "gleam-lang",
                   "web-framework"
@@ -4691,11 +4691,11 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T14:52:14Z",
-                "open_issues": 221,
+                "last_commit": "2026-08-30T11:16:22Z",
+                "open_issues": 220,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21842,
+                "stars": 21847,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -4929,7 +4929,7 @@
                 "open_issues": 0,
                 "owner": "zwubs",
                 "repo": "betamine",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "gleam",
                   "minecraft"
@@ -5297,7 +5297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:31:23.803Z",
+    "last_updated": "2026-08-31T05:45:56.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
@@ -5309,7 +5309,7 @@
       "open_issues": 30,
       "owner": "gleam-lang",
       "repo": "awesome-gleam",
-      "stars": 2037,
+      "stars": 2039,
       "topics": [
         "awesome-list",
         "gleam",
