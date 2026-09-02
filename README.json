@@ -268,7 +268,7 @@
                 "open_issues": 3,
                 "owner": "lpil",
                 "repo": "gleescript",
-                "stars": 120,
+                "stars": 121,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -317,7 +317,7 @@
                 "open_issues": 22,
                 "owner": "TanklesXL",
                 "repo": "glint",
-                "stars": 81,
+                "stars": 82,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -710,7 +710,7 @@
                 "open_issues": 0,
                 "owner": "Pevensie",
                 "repo": "argus",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -827,8 +827,8 @@
                 "id": 217914849,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T12:08:58Z",
-                "open_issues": 34,
+                "last_commit": "2026-09-01T15:19:38Z",
+                "open_issues": 33,
                 "owner": "gleam-lang",
                 "repo": "stdlib",
                 "stars": 708,
@@ -2024,7 +2024,7 @@
                 "open_issues": 22,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2425,
+                "stars": 2427,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2538,8 +2538,8 @@
                 "id": 194435108,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T10:42:23Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-01T15:50:32Z",
+                "open_issues": 6,
                 "owner": "gleam-lang",
                 "repo": "http",
                 "stars": 284,
@@ -2680,7 +2680,7 @@
                 "open_issues": 9,
                 "owner": "rawhat",
                 "repo": "mist",
-                "stars": 522,
+                "stars": 523,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4472,7 +4472,7 @@
                 "id": 304484701,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-05T06:35:09Z",
+                "last_commit": "2026-09-01T12:37:13Z",
                 "open_issues": 0,
                 "owner": "sporto",
                 "repo": "gleam-valid",
@@ -4528,7 +4528,7 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-28T12:05:21Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
                 "stars": 1473,
@@ -4691,11 +4691,11 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T02:50:43Z",
-                "open_issues": 229,
+                "last_commit": "2026-09-01T16:52:57Z",
+                "open_issues": 225,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21851,
+                "stars": 21856,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5134,8 +5134,8 @@
             "id": 179920806,
             "language": "Emacs Lisp",
             "license": "Apache-2.0",
-            "last_commit": "2026-06-04T13:54:40Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-01T16:03:33Z",
+            "open_issues": 8,
             "owner": "gleam-lang",
             "repo": "gleam-mode",
             "stars": 120,
@@ -5297,7 +5297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T05:18:50.471Z",
+    "last_updated": "2026-09-02T04:44:01.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
