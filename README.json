@@ -17,7 +17,7 @@
                 "id": 776031940,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T04:59:16Z",
+                "last_commit": "2026-09-03T04:37:02Z",
                 "open_issues": 0,
                 "owner": "bondiano",
                 "repo": "telega-gleam",
@@ -140,7 +140,7 @@
                 "id": 1010169493,
                 "language": "Gleam",
                 "license": "MIT",
-                "last_commit": "2026-07-26T19:09:16Z",
+                "last_commit": "2026-09-02T14:47:00Z",
                 "open_issues": 0,
                 "owner": "fweingartshofer",
                 "repo": "oauth",
@@ -831,7 +831,7 @@
                 "open_issues": 33,
                 "owner": "gleam-lang",
                 "repo": "stdlib",
-                "stars": 708,
+                "stars": 709,
                 "topics": [
                   "gleam",
                   "stdlib",
@@ -934,6 +934,29 @@
             },
             {
               "node_type": "item",
+              "title": "non_empty_list",
+              "description": "📚 - Non-empty lists in Gleam",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "✨ Non-empty lists in Gleam",
+                "homepage": "https://hexdocs.pm/non_empty_list/",
+                "id": 645726279,
+                "language": "Gleam",
+                "license": "Apache-2.0",
+                "last_commit": "2026-07-16T07:51:22Z",
+                "open_issues": 1,
+                "owner": "giacomocavalieri",
+                "repo": "non_empty_list",
+                "stars": 12,
+                "topics": [
+                  "data-structures"
+                ]
+              },
+              "first_seen": "2026-08-28T11:31:01.185Z"
+            },
+            {
+              "node_type": "item",
               "title": "delay",
               "description": "📚 - A dead simple data-structure for delaying side effects",
               "children": [],
@@ -960,29 +983,6 @@
                   "monad",
                   "nodejs",
                   "sideeffects"
-                ]
-              },
-              "first_seen": "2026-08-28T11:31:01.185Z"
-            },
-            {
-              "node_type": "item",
-              "title": "non_empty_list",
-              "description": "📚 - Non-empty lists in Gleam",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "✨ Non-empty lists in Gleam",
-                "homepage": "https://hexdocs.pm/non_empty_list/",
-                "id": 645726279,
-                "language": "Gleam",
-                "license": "Apache-2.0",
-                "last_commit": "2026-07-16T07:51:22Z",
-                "open_issues": 1,
-                "owner": "giacomocavalieri",
-                "repo": "non_empty_list",
-                "stars": 11,
-                "topics": [
-                  "data-structures"
                 ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1108,10 +1108,10 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-18T09:04:41Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "giacomocavalieri",
                 "repo": "squirrel",
-                "stars": 681,
+                "stars": 682,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1132,7 +1132,7 @@
                 "open_issues": 19,
                 "owner": "lpil",
                 "repo": "pog",
-                "stars": 265,
+                "stars": 263,
                 "topics": [
                   "erlang",
                   "gleam",
@@ -1446,7 +1446,7 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T22:06:16Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "gleam-lang",
                 "repo": "otp",
                 "stars": 871,
@@ -2024,7 +2024,7 @@
                 "open_issues": 22,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2427,
+                "stars": 2429,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2680,7 +2680,7 @@
                 "open_issues": 9,
                 "owner": "rawhat",
                 "repo": "mist",
-                "stars": 523,
+                "stars": 524,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -3536,7 +3536,7 @@
                 "open_issues": 1,
                 "owner": "giacomocavalieri",
                 "repo": "prng",
-                "stars": 33,
+                "stars": 34,
                 "topics": [
                   "prng",
                   "random-number-generator"
@@ -3910,7 +3910,7 @@
                 "open_issues": 1,
                 "owner": "giacomocavalieri",
                 "repo": "birdie",
-                "stars": 204,
+                "stars": 205,
                 "topics": [
                   "snapshot-testing"
                 ]
@@ -4382,7 +4382,7 @@
                 "open_issues": 0,
                 "owner": "jrstrunk",
                 "repo": "tempo",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4692,10 +4692,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T16:52:57Z",
-                "open_issues": 225,
+                "open_issues": 228,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21856,
+                "stars": 21865,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -4781,7 +4781,7 @@
                 "open_issues": 5,
                 "owner": "gleam-lang",
                 "repo": "packages",
-                "stars": 118,
+                "stars": 119,
                 "topics": [
                   "gleam",
                   "postgresql",
@@ -5081,8 +5081,8 @@
             "id": 181766715,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-21T11:20:34Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-03T00:35:15Z",
+            "open_issues": 10,
             "owner": "gleam-lang",
             "repo": "vscode-gleam",
             "stars": 234,
@@ -5134,8 +5134,8 @@
             "id": 179920806,
             "language": "Emacs Lisp",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T16:03:33Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-02T11:58:54Z",
+            "open_issues": 5,
             "owner": "gleam-lang",
             "repo": "gleam-mode",
             "stars": 120,
@@ -5297,7 +5297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T04:44:01.173Z",
+    "last_updated": "2026-09-03T04:40:16.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
@@ -5309,7 +5309,7 @@
       "open_issues": 29,
       "owner": "gleam-lang",
       "repo": "awesome-gleam",
-      "stars": 2039,
+      "stars": 2040,
       "topics": [
         "awesome-list",
         "gleam",
