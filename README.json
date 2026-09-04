@@ -17,7 +17,7 @@
                 "id": 776031940,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T04:37:02Z",
+                "last_commit": "2026-09-03T10:24:58Z",
                 "open_issues": 0,
                 "owner": "bondiano",
                 "repo": "telega-gleam",
@@ -2045,7 +2045,7 @@
                 "open_issues": 5,
                 "owner": "lustre-labs",
                 "repo": "ui",
-                "stars": 173,
+                "stars": 172,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4527,11 +4527,11 @@
                 "id": 674791613,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-06-28T12:05:21Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-03T20:05:12Z",
+                "open_issues": 21,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
-                "stars": 1473,
+                "stars": 1475,
                 "topics": [
                   "gleam-lang",
                   "web-framework"
@@ -4576,7 +4576,7 @@
                 "open_issues": 2,
                 "owner": "MystPi",
                 "repo": "glen",
-                "stars": 116,
+                "stars": 115,
                 "topics": [
                   "cloudflare-workers",
                   "deno",
@@ -4691,11 +4691,11 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T16:52:57Z",
-                "open_issues": 228,
+                "last_commit": "2026-09-03T11:32:30Z",
+                "open_issues": 226,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21865,
+                "stars": 21872,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5081,8 +5081,8 @@
             "id": 181766715,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T00:35:15Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-03T19:37:42Z",
+            "open_issues": 8,
             "owner": "gleam-lang",
             "repo": "vscode-gleam",
             "stars": 234,
@@ -5297,7 +5297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T04:40:16.816Z",
+    "last_updated": "2026-09-04T04:42:27.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
