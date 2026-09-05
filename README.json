@@ -17,7 +17,7 @@
                 "id": 776031940,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T10:24:58Z",
+                "last_commit": "2026-09-04T08:41:45Z",
                 "open_issues": 0,
                 "owner": "bondiano",
                 "repo": "telega-gleam",
@@ -376,7 +376,7 @@
                 "id": 855181768,
                 "language": "Gleam",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-19T14:22:04Z",
+                "last_commit": "2026-09-04T13:24:08Z",
                 "open_issues": 0,
                 "owner": "drewolson",
                 "repo": "clip",
@@ -831,7 +831,7 @@
                 "open_issues": 33,
                 "owner": "gleam-lang",
                 "repo": "stdlib",
-                "stars": 709,
+                "stars": 710,
                 "topics": [
                   "gleam",
                   "stdlib",
@@ -1277,7 +1277,7 @@
                 "open_issues": 0,
                 "owner": "lpil",
                 "repo": "storail",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1904,7 +1904,7 @@
                 "id": 807142882,
                 "language": "Gleam",
                 "license": "MPL-2.0",
-                "last_commit": "2026-08-28T17:12:42Z",
+                "last_commit": "2026-09-04T15:51:47Z",
                 "open_issues": 14,
                 "owner": "mscharley",
                 "repo": "gleam-commonmark",
@@ -2377,7 +2377,7 @@
                 "id": 865554977,
                 "language": "Gleam",
                 "license": null,
-                "last_commit": "2025-07-30T12:22:44Z",
+                "last_commit": "2026-09-04T22:26:37Z",
                 "open_issues": 0,
                 "owner": "tinybackup",
                 "repo": "ansel",
@@ -3439,7 +3439,13 @@
                 "owner": "imlargo",
                 "repo": "gleam-webpush",
                 "stars": 5,
-                "topics": []
+                "topics": [
+                  "gleam",
+                  "gleam-lang",
+                  "gleam-library",
+                  "notifications",
+                  "webpush"
+                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             }
@@ -4692,10 +4698,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T11:32:30Z",
-                "open_issues": 226,
+                "open_issues": 233,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21872,
+                "stars": 21871,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5297,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T04:42:27.933Z",
+    "last_updated": "2026-09-05T04:38:08.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
