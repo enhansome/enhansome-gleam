@@ -689,7 +689,7 @@
                 "open_issues": 4,
                 "owner": "lpil",
                 "repo": "youid",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -710,7 +710,7 @@
                 "open_issues": 0,
                 "owner": "Pevensie",
                 "repo": "argus",
-                "stars": 29,
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -756,7 +756,7 @@
                 "open_issues": 1,
                 "owner": "lpil",
                 "repo": "beecrypt",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1155,7 +1155,7 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-18T10:52:46Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "daniellionel01",
                 "repo": "parrot",
                 "stars": 217,
@@ -1256,7 +1256,7 @@
                 "open_issues": 1,
                 "owner": "Pevensie",
                 "repo": "valkyrie",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1449,7 +1449,7 @@
                 "open_issues": 9,
                 "owner": "gleam-lang",
                 "repo": "otp",
-                "stars": 871,
+                "stars": 873,
                 "topics": [
                   "actors",
                   "erlang",
@@ -1522,7 +1522,7 @@
                 "open_issues": 1,
                 "owner": "Pevensie",
                 "repo": "barnacle",
-                "stars": 59,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1669,7 +1669,7 @@
                 "open_issues": 1,
                 "owner": "ckreiling",
                 "repo": "nessie_cluster",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2677,10 +2677,10 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-04-18T13:28:10Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "rawhat",
                 "repo": "mist",
-                "stars": 524,
+                "stars": 525,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -3136,7 +3136,7 @@
                 "open_issues": 11,
                 "owner": "rawhat",
                 "repo": "glisten",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4534,7 +4534,7 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T20:05:12Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
                 "stars": 1475,
@@ -4558,10 +4558,10 @@
                 "language": "Gleam",
                 "license": null,
                 "last_commit": "2026-04-28T00:12:59Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "glimr-org",
                 "repo": "glimr",
-                "stars": 216,
+                "stars": 217,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4698,10 +4698,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T11:32:30Z",
-                "open_issues": 233,
+                "open_issues": 234,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21871,
+                "stars": 21874,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5144,7 +5144,7 @@
             "open_issues": 5,
             "owner": "gleam-lang",
             "repo": "gleam-mode",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "editor-plugin",
               "emacs",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T04:38:08.872Z",
+    "last_updated": "2026-09-06T04:48:50.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
