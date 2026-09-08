@@ -240,7 +240,7 @@
                 "open_issues": 5,
                 "owner": "schurhammer",
                 "repo": "gleamy_bench",
-                "stars": 18,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -313,7 +313,7 @@
                 "id": 447254061,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-20T19:16:32Z",
+                "last_commit": "2026-09-07T22:49:25Z",
                 "open_issues": 22,
                 "owner": "TanklesXL",
                 "repo": "glint",
@@ -831,7 +831,7 @@
                 "open_issues": 33,
                 "owner": "gleam-lang",
                 "repo": "stdlib",
-                "stars": 710,
+                "stars": 709,
                 "topics": [
                   "gleam",
                   "stdlib",
@@ -1179,7 +1179,7 @@
                 "open_issues": 7,
                 "owner": "lpil",
                 "repo": "sqlight",
-                "stars": 157,
+                "stars": 158,
                 "topics": [
                   "database-client",
                   "gleam",
@@ -1860,7 +1860,7 @@
                 "language": "Gleam",
                 "license": null,
                 "last_commit": "2026-08-12T11:37:57Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "lpil",
                 "repo": "jot",
                 "stars": 64,
@@ -1905,7 +1905,7 @@
                 "language": "Gleam",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-04T15:51:47Z",
-                "open_issues": 14,
+                "open_issues": 13,
                 "owner": "mscharley",
                 "repo": "gleam-commonmark",
                 "stars": 32,
@@ -2021,10 +2021,10 @@
                 "language": "Gleam",
                 "license": "MIT",
                 "last_commit": "2026-08-23T13:30:06Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2429,
+                "stars": 2428,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2087,7 +2087,7 @@
                 "open_issues": 8,
                 "owner": "ghivert",
                 "repo": "sketch",
-                "stars": 85,
+                "stars": 84,
                 "topics": [
                   "css",
                   "css-in-js",
@@ -2430,7 +2430,7 @@
                 "open_issues": 2,
                 "owner": "lpil",
                 "repo": "formal",
-                "stars": 55,
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2538,11 +2538,11 @@
                 "id": 194435108,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T10:34:16Z",
+                "last_commit": "2026-09-07T10:26:26Z",
                 "open_issues": 6,
                 "owner": "gleam-lang",
                 "repo": "http",
-                "stars": 284,
+                "stars": 285,
                 "topics": [
                   "gleam",
                   "http",
@@ -2598,8 +2598,8 @@
                 "id": 235399341,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-10T15:08:23Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-07T10:57:13Z",
+                "open_issues": 16,
                 "owner": "gleam-lang",
                 "repo": "httpc",
                 "stars": 175,
@@ -3563,10 +3563,10 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2024-12-19T16:07:33Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "massivefermion",
                 "repo": "blah",
-                "stars": 22,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -3874,7 +3874,7 @@
                 "open_issues": 2,
                 "owner": "Olian04",
                 "repo": "gleam_handles",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "bun",
                   "deno",
@@ -3916,7 +3916,7 @@
                 "open_issues": 1,
                 "owner": "giacomocavalieri",
                 "repo": "birdie",
-                "stars": 205,
+                "stars": 204,
                 "topics": [
                   "snapshot-testing"
                 ]
@@ -4697,11 +4697,11 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T13:03:12Z",
-                "open_issues": 225,
+                "last_commit": "2026-09-07T14:25:46Z",
+                "open_issues": 227,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21881,
+                "stars": 21885,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T04:52:46.596Z",
+    "last_updated": "2026-09-08T04:48:41.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
@@ -5312,7 +5312,7 @@
       "language": "Gleam",
       "license": null,
       "last_commit": "2026-06-23T10:36:49Z",
-      "open_issues": 28,
+      "open_issues": 29,
       "owner": "gleam-lang",
       "repo": "awesome-gleam",
       "stars": 2040,
