@@ -665,7 +665,7 @@
                 "open_issues": 3,
                 "owner": "gleam-lang",
                 "repo": "crypto",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "cryptography",
                   "gleam"
@@ -3874,7 +3874,7 @@
                 "open_issues": 2,
                 "owner": "Olian04",
                 "repo": "gleam_handles",
-                "stars": 25,
+                "stars": 26,
                 "topics": [
                   "bun",
                   "deno",
@@ -4364,7 +4364,7 @@
                 "language": "Gleam",
                 "license": null,
                 "last_commit": "2026-08-13T12:20:12Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "gleam-lang",
                 "repo": "time",
                 "stars": 70,
@@ -4698,10 +4698,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-07T14:25:46Z",
-                "open_issues": 229,
+                "open_issues": 231,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21894,
+                "stars": 21896,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5087,7 +5087,7 @@
             "id": 181766715,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T19:37:42Z",
+            "last_commit": "2026-09-10T03:01:18Z",
             "open_issues": 8,
             "owner": "gleam-lang",
             "repo": "vscode-gleam",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T04:51:28.775Z",
+    "last_updated": "2026-09-10T04:52:49.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
