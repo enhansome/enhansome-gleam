@@ -17,7 +17,7 @@
                 "id": 776031940,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T08:41:45Z",
+                "last_commit": "2026-09-11T06:28:37Z",
                 "open_issues": 0,
                 "owner": "bondiano",
                 "repo": "telega-gleam",
@@ -1863,7 +1863,7 @@
                 "open_issues": 5,
                 "owner": "lpil",
                 "repo": "jot",
-                "stars": 64,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1904,7 +1904,7 @@
                 "id": 807142882,
                 "language": "Gleam",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-04T15:51:47Z",
+                "last_commit": "2026-09-11T16:54:29Z",
                 "open_issues": 13,
                 "owner": "mscharley",
                 "repo": "gleam-commonmark",
@@ -2020,11 +2020,11 @@
                 "id": 457999787,
                 "language": "Gleam",
                 "license": "MIT",
-                "last_commit": "2026-09-08T09:25:48Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-11T10:05:31Z",
+                "open_issues": 19,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2429,
+                "stars": 2431,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2045,7 +2045,7 @@
                 "open_issues": 5,
                 "owner": "lustre-labs",
                 "repo": "ui",
-                "stars": 172,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4537,7 +4537,7 @@
                 "open_issues": 22,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
-                "stars": 1477,
+                "stars": 1478,
                 "topics": [
                   "gleam-lang",
                   "web-framework"
@@ -4561,7 +4561,7 @@
                 "open_issues": 6,
                 "owner": "glimr-org",
                 "repo": "glimr",
-                "stars": 217,
+                "stars": 218,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4698,10 +4698,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-10T09:59:48Z",
-                "open_issues": 229,
+                "open_issues": 232,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21896,
+                "stars": 21901,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5065,7 +5065,7 @@
             "open_issues": 130,
             "owner": "sbdchd",
             "repo": "neoformat",
-            "stars": 2046,
+            "stars": 2047,
             "topics": [
               "formatter",
               "neovim",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T04:49:44.855Z",
+    "last_updated": "2026-09-12T04:43:05.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
