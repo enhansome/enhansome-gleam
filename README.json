@@ -289,7 +289,7 @@
                 "open_issues": 4,
                 "owner": "Enderchief",
                 "repo": "esgleam",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1606,7 +1606,7 @@
                 "open_issues": 0,
                 "owner": "Pevensie",
                 "repo": "bath",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2021,10 +2021,10 @@
                 "language": "Gleam",
                 "license": "MIT",
                 "last_commit": "2026-09-14T20:00:46Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2435,
+                "stars": 2437,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4363,8 +4363,8 @@
                 "id": 907355619,
                 "language": "Gleam",
                 "license": null,
-                "last_commit": "2026-08-13T12:20:12Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-16T07:36:52Z",
+                "open_issues": 5,
                 "owner": "gleam-lang",
                 "repo": "time",
                 "stars": 70,
@@ -4697,11 +4697,11 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T14:58:26Z",
-                "open_issues": 226,
+                "last_commit": "2026-09-16T07:18:21Z",
+                "open_issues": 225,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21921,
+                "stars": 21926,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5062,7 +5062,7 @@
             "language": "Vim Script",
             "license": "BSD-2-Clause",
             "last_commit": "2026-04-13T16:45:43Z",
-            "open_issues": 130,
+            "open_issues": 131,
             "owner": "sbdchd",
             "repo": "neoformat",
             "stars": 2047,
@@ -5118,7 +5118,7 @@
             "open_issues": 1,
             "owner": "gleam-lang",
             "repo": "gleam.vim",
-            "stars": 122,
+            "stars": 121,
             "topics": [
               "editor-plugin",
               "gleam",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T04:56:57.517Z",
+    "last_updated": "2026-09-17T04:59:48.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
@@ -5315,7 +5315,7 @@
       "open_issues": 29,
       "owner": "gleam-lang",
       "repo": "awesome-gleam",
-      "stars": 2043,
+      "stars": 2044,
       "topics": [
         "awesome-list",
         "gleam",
