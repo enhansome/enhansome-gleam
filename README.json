@@ -827,8 +827,8 @@
                 "id": 217914849,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T09:49:52Z",
-                "open_issues": 34,
+                "last_commit": "2026-09-19T18:20:39Z",
+                "open_issues": 32,
                 "owner": "gleam-lang",
                 "repo": "stdlib",
                 "stars": 708,
@@ -2024,7 +2024,7 @@
                 "open_issues": 19,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2439,
+                "stars": 2440,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4363,8 +4363,8 @@
                 "id": 907355619,
                 "language": "Gleam",
                 "license": null,
-                "last_commit": "2026-09-16T07:36:52Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-19T13:58:28Z",
+                "open_issues": 3,
                 "owner": "gleam-lang",
                 "repo": "time",
                 "stars": 70,
@@ -4537,7 +4537,7 @@
                 "open_issues": 22,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
-                "stars": 1481,
+                "stars": 1482,
                 "topics": [
                   "gleam-lang",
                   "web-framework"
@@ -4697,11 +4697,11 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T09:11:25Z",
-                "open_issues": 227,
+                "last_commit": "2026-09-19T18:34:06Z",
+                "open_issues": 220,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21927,
+                "stars": 21929,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T04:44:42.577Z",
+    "last_updated": "2026-09-20T05:00:32.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
