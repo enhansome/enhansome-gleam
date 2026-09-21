@@ -773,7 +773,7 @@
                 "id": 1195529560,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-14T10:20:47Z",
+                "last_commit": "2026-09-20T17:58:35Z",
                 "open_issues": 0,
                 "owner": "jtdowney",
                 "repo": "acumen",
@@ -1158,7 +1158,7 @@
                 "open_issues": 8,
                 "owner": "daniellionel01",
                 "repo": "parrot",
-                "stars": 217,
+                "stars": 216,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2539,7 +2539,7 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-07T10:26:26Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "gleam-lang",
                 "repo": "http",
                 "stars": 284,
@@ -2701,7 +2701,7 @@
                 "open_issues": 1,
                 "owner": "vshakitskiy",
                 "repo": "ewe",
-                "stars": 124,
+                "stars": 126,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -3472,7 +3472,7 @@
                 "open_issues": 5,
                 "owner": "Pevensie",
                 "repo": "m25",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4701,7 +4701,7 @@
                 "open_issues": 220,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21929,
+                "stars": 21931,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T05:00:32.530Z",
+    "last_updated": "2026-09-21T05:07:22.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
