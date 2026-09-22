@@ -46,7 +46,7 @@
                 "open_issues": 1,
                 "owner": "cyteon",
                 "repo": "discord_gleam",
-                "stars": 52,
+                "stars": 51,
                 "topics": [
                   "discord",
                   "discord-api",
@@ -140,7 +140,7 @@
                 "id": 1010169493,
                 "language": "Gleam",
                 "license": "MIT",
-                "last_commit": "2026-09-15T17:06:28Z",
+                "last_commit": "2026-09-21T15:32:21Z",
                 "open_issues": 0,
                 "owner": "fweingartshofer",
                 "repo": "oauth",
@@ -214,7 +214,7 @@
                 "open_issues": 5,
                 "owner": "inoas",
                 "repo": "glychee",
-                "stars": 22,
+                "stars": 21,
                 "topics": [
                   "benchmarking-utility",
                   "ci-cd",
@@ -831,7 +831,7 @@
                 "open_issues": 32,
                 "owner": "gleam-lang",
                 "repo": "stdlib",
-                "stars": 708,
+                "stars": 707,
                 "topics": [
                   "gleam",
                   "stdlib",
@@ -1158,7 +1158,7 @@
                 "open_issues": 8,
                 "owner": "daniellionel01",
                 "repo": "parrot",
-                "stars": 216,
+                "stars": 215,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1277,7 +1277,7 @@
                 "open_issues": 0,
                 "owner": "lpil",
                 "repo": "storail",
-                "stars": 42,
+                "stars": 41,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1501,7 +1501,7 @@
                 "open_issues": 4,
                 "owner": "JonasGruenwald",
                 "repo": "spectator",
-                "stars": 99,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1812,7 +1812,7 @@
                 "open_issues": 2,
                 "owner": "richard-viney",
                 "repo": "file_streams",
-                "stars": 54,
+                "stars": 55,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2360,7 +2360,7 @@
                 "open_issues": 3,
                 "owner": "gleam-community",
                 "repo": "colour",
-                "stars": 22,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2538,8 +2538,8 @@
                 "id": 194435108,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T10:26:26Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-21T16:58:16Z",
+                "open_issues": 6,
                 "owner": "gleam-lang",
                 "repo": "http",
                 "stars": 284,
@@ -2602,7 +2602,7 @@
                 "open_issues": 15,
                 "owner": "gleam-lang",
                 "repo": "httpc",
-                "stars": 175,
+                "stars": 174,
                 "topics": [
                   "erlang",
                   "gleam",
@@ -2680,7 +2680,7 @@
                 "open_issues": 10,
                 "owner": "rawhat",
                 "repo": "mist",
-                "stars": 526,
+                "stars": 525,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2958,27 +2958,6 @@
             },
             {
               "node_type": "item",
-              "title": "logging",
-              "description": "📚 - Configuration for the Erlang logger",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 758967309,
-                "language": "Erlang",
-                "license": null,
-                "last_commit": "2026-04-03T15:06:14Z",
-                "open_issues": 0,
-                "owner": "lpil",
-                "repo": "logging",
-                "stars": 12,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T11:31:01.185Z"
-            },
-            {
-              "node_type": "item",
               "title": "glog",
               "description": "📚 - A Gleam implementation of Erlang logger",
               "children": [],
@@ -3003,6 +2982,27 @@
                   "logger",
                   "logging"
                 ]
+              },
+              "first_seen": "2026-08-28T11:31:01.185Z"
+            },
+            {
+              "node_type": "item",
+              "title": "logging",
+              "description": "📚 - Configuration for the Erlang logger",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 758967309,
+                "language": "Erlang",
+                "license": null,
+                "last_commit": "2026-04-03T15:06:14Z",
+                "open_issues": 0,
+                "owner": "lpil",
+                "repo": "logging",
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3136,7 +3136,7 @@
                 "open_issues": 11,
                 "owner": "rawhat",
                 "repo": "glisten",
-                "stars": 99,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -3493,7 +3493,7 @@
                 "open_issues": 0,
                 "owner": "renatillas",
                 "repo": "carotte",
-                "stars": 32,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -3542,7 +3542,7 @@
                 "open_issues": 1,
                 "owner": "giacomocavalieri",
                 "repo": "prng",
-                "stars": 34,
+                "stars": 33,
                 "topics": [
                   "prng",
                   "random-number-generator"
@@ -4088,7 +4088,7 @@
                 "open_issues": 0,
                 "owner": "giacomocavalieri",
                 "repo": "glam",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "pretty-printer"
                 ]
@@ -4132,7 +4132,7 @@
                 "open_issues": 1,
                 "owner": "renatillas",
                 "repo": "g18n",
-                "stars": 30,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4698,10 +4698,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-19T18:34:06Z",
-                "open_issues": 220,
+                "open_issues": 226,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21931,
+                "stars": 21932,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -4991,7 +4991,7 @@
             "open_issues": 4,
             "owner": "JonasGruenwald",
             "repo": "spectator",
-            "stars": 99,
+            "stars": 98,
             "topics": []
           },
           "first_seen": "2026-08-28T11:31:01.185Z"
@@ -5033,7 +5033,7 @@
             "open_issues": 5,
             "owner": "inoas",
             "repo": "glychee",
-            "stars": 22,
+            "stars": 21,
             "topics": [
               "benchmarking-utility",
               "ci-cd",
@@ -5169,7 +5169,7 @@
             "open_issues": 1,
             "owner": "digitalcora",
             "repo": "sublime-text-gleam",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T11:31:01.185Z"
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T05:07:22.786Z",
+    "last_updated": "2026-09-22T05:08:15.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
