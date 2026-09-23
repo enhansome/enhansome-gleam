@@ -71,7 +71,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 * [aws4\_request](https://github.com/lpil/aws4_request) ⭐ 8 | 🐛 1 | 🌐 Gleam | 📅 2026-06-17 - [📚](https://hexdocs.pm/aws4_request/) - An AWS Signature Version 4 client implementation, used for S3 auth, etc
 * [glevatar](https://github.com/bunopnu/glevatar) ⭐ 8 | 🐛 0 | 🌐 Gleam | 📅 2024-04-13 - [📚](https://hexdocs.pm/glevatar/) - Easily create Gravatar URLs in Gleam
 * [tallgrass](https://github.com/stevetoro/tallgrass) ⭐ 7 | 🐛 1 | 🌐 Gleam | 📅 2024-10-04 - [📚](https://hexdocs.pm/tallgrass/) - Gleam wrapper for the PokeAPI.
-* [flwr\_oauth2](https://github.com/fweingartshofer/oauth) ⭐ 3 | 🐛 0 | 🌐 Gleam | 📅 2026-09-21 - [📚](https://hexdocs.pm/flwr_oauth2/) - An OAuth 2.0 Library based on Gleam types
+* [flwr\_oauth2](https://github.com/fweingartshofer/oauth) ⭐ 3 | 🐛 0 | 🌐 Gleam | 📅 2026-09-22 - [📚](https://hexdocs.pm/flwr_oauth2/) - An OAuth 2.0 Library based on Gleam types
 * [gleam\_hexpm](https://github.com/gleam-lang/hexpm) ⭐ 3 | 🐛 1 | 🌐 Gleam | 📅 2025-04-05 - [📚](https://hexdocs.pm/gleam_hexpm/) - Gleam dynamic decoders for the API of Hex, the package manager for the BEAM ecosystem.
 * [glatus](https://github.com/lpil/glatus) ⭐ 2 | 🐛 0 | 🌐 Gleam | 📅 2024-12-22 - [📚](https://hexdocs.pm/glatus/) - Gleam bindings to the API of the Gatus health check tool
 
@@ -195,8 +195,8 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Frontend
 
-* [lustre](https://github.com/lustre-labs/lustre) ⭐ 2,440 | 🐛 19 | 🌐 Gleam | 📅 2026-09-17 - [📚](https://hexdocs.pm/lustre/) - An Elm-inspired framework for building web apps in Gleam!
-* [lustre\_ui](https://github.com/lustre-labs/lustre_ui) ⭐ 173 | 🐛 5 | 🌐 Gleam | 📅 2026-05-26 - [📚](https://hexdocs.pm/lustre_ui/) - A collection of components and design tokens for building Lustre apps.
+* [lustre](https://github.com/lustre-labs/lustre) ⭐ 2,439 | 🐛 19 | 🌐 Gleam | 📅 2026-09-17 - [📚](https://hexdocs.pm/lustre/) - An Elm-inspired framework for building web apps in Gleam!
+* [lustre\_ui](https://github.com/lustre-labs/lustre_ui) ⭐ 172 | 🐛 5 | 🌐 Gleam | 📅 2026-05-26 - [📚](https://hexdocs.pm/lustre_ui/) - A collection of components and design tokens for building Lustre apps.
 * [tiramisu](https://github.com/renatillas/tiramisu) ⚠️ Archived - [📚](https://hexdocs.pm/tiramisu/) - A type-safe 3D game engine for Gleam
 * [sketch](https://github.com/ghivert/sketch) ⭐ 85 | 🐛 8 | 🌐 Gleam | 📅 2026-08-20 - [📚](https://hexdocs.pm/sketch/) - A CSS-in-Gleam package, made to work with frontend, and directly with lustre!
 * [redraw](https://github.com/ghivert/redraw) ⭐ 75 | 🐛 1 | 🌐 Gleam | 📅 2026-04-30 - [📚](https://hexdocs.pm/redraw/) - React bindings for Gleam! Supports everything modern React provides, with full Gleam Type-Checking system!
@@ -238,14 +238,14 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### HTTP Clients
 
-* [gleam\_httpc](https://github.com/gleam-lang/httpc) ⭐ 174 | 🐛 15 | 🌐 Gleam | 📅 2026-09-07 - [📚](https://hexdocs.pm/gleam_httpc/) - Gleam bindings to Erlang's built in HTTP client, httpc
+* [gleam\_httpc](https://github.com/gleam-lang/httpc) ⭐ 174 | 🐛 14 | 🌐 Gleam | 📅 2026-09-07 - [📚](https://hexdocs.pm/gleam_httpc/) - Gleam bindings to Erlang's built in HTTP client, httpc
 * [gleam\_hackney](https://github.com/gleam-lang/hackney) ⭐ 63 | 🐛 8 | 🌐 Gleam | 📅 2026-05-26 - [📚](https://hexdocs.pm/gleam_hackney/) - Gleam bindings to the Hackney HTTP client
 * [gleam\_fetch](https://github.com/gleam-lang/fetch) ⭐ 61 | 🐛 5 | 🌐 Gleam | 📅 2026-09-06 - [📚](https://hexdocs.pm/gleam_fetch/) - Make HTTP requests in Gleam JavaScript with Fetch
 
 ### HTTP Servers
 
 * [mist](https://github.com/rawhat/mist) ⭐ 525 | 🐛 10 | 🌐 Gleam | 📅 2026-04-18 - [📚](https://hexdocs.pm/mist/) - a misty Gleam web server
-* [ewe](https://github.com/vshakitskiy/ewe) ⭐ 126 | 🐛 1 | 🌐 Gleam | 📅 2026-08-31 - [📚](https://hexdocs.pm/ewe/) - 🐑 a fluffy Gleam web server
+* [ewe](https://github.com/vshakitskiy/ewe) ⭐ 126 | 🐛 1 | 🌐 Gleam | 📅 2026-09-22 - [📚](https://hexdocs.pm/ewe/) - 🐑 a fluffy Gleam web server
 * [gleam\_elli](https://github.com/gleam-lang/elli) ⭐ 74 | 🐛 1 | 🌐 Gleam | 📅 2025-06-02 - [📚](https://hexdocs.pm/gleam_elli/) - Run Gleam HTTP services with the Elli web server
 * [cgi](https://github.com/lpil/cgi) ⭐ 17 | 🐛 0 | 🌐 Gleam | 📅 2024-01-16 - [📚](https://hexdocs.pm/cgi/) - Common Gateway Interface (CGI) in Gleam
 
@@ -347,14 +347,14 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 * [birdie](https://github.com/giacomocavalieri/birdie) ⭐ 204 | 🐛 1 | 🌐 Gleam | 📅 2026-07-17 - [📚](https://hexdocs.pm/birdie/) - Snapshot testing in Gleam
 * [gleeunit](https://github.com/lpil/gleeunit) ⭐ 49 | 🐛 14 | 🌐 Gleam | 📅 2026-06-07 - [📚](https://hexdocs.pm/gleeunit/) - Gleam bindings to Erlang's EUnit test framework
 * [testcontainers\_gleam](https://github.com/darky/testcontainers-gleam) ⭐ 8 | 🐛 0 | 🌐 Gleam | 📅 2026-02-15 - [📚](https://hexdocs.pm/testcontainers_gleam/) - Gleam TestContainers wrapper around Elixir TestContainers
-* [exercism\_test\_runner](https://github.com/exercism/gleam-test-runner) ⭐ 6 | 🐛 8 | 🌐 Gleam | 📅 2026-08-01 - [📚](https://hexdocs.pm/exercism_test_runner/) - A test framework for Gleam exercises on Exercism
-* [unitest](https://github.com/jtdowney/unitest) ⭐ 6 | 🐛 0 | 🌐 Gleam | 📅 2026-09-18 - [📚](https://hexdocs.pm/unitest/) - A test runner with random ordering, tagging, and CLI filtering
+* [exercism\_test\_runner](https://github.com/exercism/gleam-test-runner) ⭐ 6 | 🐛 8 | 🌐 Gleam | 📅 2026-09-22 - [📚](https://hexdocs.pm/exercism_test_runner/) - A test framework for Gleam exercises on Exercism
+* [unitest](https://github.com/jtdowney/unitest) ⭐ 6 | 🐛 0 | 🌐 Gleam | 📅 2026-09-23 - [📚](https://hexdocs.pm/unitest/) - A test runner with random ordering, tagging, and CLI filtering
 * [testbldr](https://github.com/bcpeinhardt/testbldr) ⭐ 4 | 🐛 1 | 🌐 Gleam | 📅 2024-02-01 - [📚](https://hexdocs.pm/testbldr/) - A library for programatically building and running test cases
 
 ### Text
 
 * [rank](https://github.com/lpil/glance) ⭐ 81 | 🐛 3 | 🌐 Gleam | 📅 2026-07-09 - [📚](https://hexdocs.pm/rank/) - Ordinals for numbers, e.g. 1st, 2nd, 3rd
-* [glam](https://github.com/giacomocavalieri/glam) ⭐ 70 | 🐛 0 | 🌐 Gleam | 📅 2026-04-20 - [📚](https://hexdocs.pm/glam/) - A package to help you easily pretty print structured data
+* [glam](https://github.com/giacomocavalieri/glam) ⭐ 71 | 🐛 0 | 🌐 Gleam | 📅 2026-04-20 - [📚](https://hexdocs.pm/glam/) - A package to help you easily pretty print structured data
 * [hug](https://github.com/brettkolodny/gleam-hug) ⭐ 33 | 🐛 0 | 🌐 Gleam | 📅 2024-05-01 - [📚](https://hexdocs.pm/hug/) - Helpful and pretty CLI messages
 * [g18n](https://github.com/renatillas/g18n) ⭐ 29 | 🐛 1 | 🌐 Gleam | 📅 2025-12-07 - [📚](https://hexdocs.pm/g18n/) - A platform-agnostic internationalization library for Gleam.
 * [gap](https://github.com/JohnBjrk/gap) ⭐ 20 | 🐛 1 | 🌐 Gleam | 📅 2024-03-16 - [📚](https://hexdocs.pm/gap/) - A Gleam library for comparing strings/lists and producing a textual (styled) representation of the differences.
@@ -399,7 +399,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 Compilers for Gleam and compilers written in Gleam.
 
-* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 21,932 | 🐛 226 | 🌐 Rust | 📅 2026-09-19 - The Gleam compiler.
+* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 21,934 | 🐛 226 | 🌐 Rust | 📅 2026-09-22 - The Gleam compiler.
 * [gleam-lang/example-lisp-interpreter](https://github.com/gleam-lang/example-lisp-interpreter/) ⭐ 50 | 🐛 0 | 🌐 Gleam | 📅 2025-03-27 - A toy Lisp interpreter in Gleam.
 
 ### Web applications
@@ -451,7 +451,7 @@ Websites with Gleam related content.
 
 ### Courses
 
-* [Exercism's Gleam track](https://github.com/exercism/gleam/) ⭐ 119 | 🐛 28 | 🌐 Gleam | 📅 2026-08-15 - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
+* [Exercism's Gleam track](https://github.com/exercism/gleam/) ⭐ 119 | 🐛 29 | 🌐 Gleam | 📅 2026-09-22 - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
 * [tanklesxl/gladvent](https://github.com/tanklesxl/gladvent) ⭐ 70 | 🐛 10 | 🌐 Gleam | 📅 2025-10-27 - An `Advent of Code` runner for Gleam, targeting Erlang.
 
 ### Talks
@@ -474,4 +474,4 @@ Websites with Gleam related content.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
