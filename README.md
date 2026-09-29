@@ -195,7 +195,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Frontend
 
-* [lustre](https://github.com/lustre-labs/lustre) ⭐ 2,441 | 🐛 20 | 🌐 Gleam | 📅 2026-09-17 - [📚](https://hexdocs.pm/lustre/) - An Elm-inspired framework for building web apps in Gleam!
+* [lustre](https://github.com/lustre-labs/lustre) ⭐ 2,443 | 🐛 22 | 🌐 Gleam | 📅 2026-09-28 - [📚](https://hexdocs.pm/lustre/) - An Elm-inspired framework for building web apps in Gleam!
 * [lustre\_ui](https://github.com/lustre-labs/lustre_ui) ⭐ 172 | 🐛 5 | 🌐 Gleam | 📅 2026-05-26 - [📚](https://hexdocs.pm/lustre_ui/) - A collection of components and design tokens for building Lustre apps.
 * [tiramisu](https://github.com/renatillas/tiramisu) ⚠️ Archived - [📚](https://hexdocs.pm/tiramisu/) - A type-safe 3D game engine for Gleam
 * [sketch](https://github.com/ghivert/sketch) ⭐ 85 | 🐛 8 | 🌐 Gleam | 📅 2026-08-20 - [📚](https://hexdocs.pm/sketch/) - A CSS-in-Gleam package, made to work with frontend, and directly with lustre!
@@ -245,7 +245,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### HTTP Servers
 
 * [mist](https://github.com/rawhat/mist) ⭐ 525 | 🐛 10 | 🌐 Gleam | 📅 2026-04-18 - [📚](https://hexdocs.pm/mist/) - a misty Gleam web server
-* [ewe](https://github.com/vshakitskiy/ewe) ⭐ 127 | 🐛 1 | 🌐 Gleam | 📅 2026-09-27 - [📚](https://hexdocs.pm/ewe/) - 🐑 a fluffy Gleam web server
+* [ewe](https://github.com/vshakitskiy/ewe) ⭐ 127 | 🐛 1 | 🌐 Gleam | 📅 2026-09-28 - [📚](https://hexdocs.pm/ewe/) - 🐑 a fluffy Gleam web server
 * [gleam\_elli](https://github.com/gleam-lang/elli) ⭐ 74 | 🐛 1 | 🌐 Gleam | 📅 2025-06-02 - [📚](https://hexdocs.pm/gleam_elli/) - Run Gleam HTTP services with the Elli web server
 * [cgi](https://github.com/lpil/cgi) ⭐ 17 | 🐛 0 | 🌐 Gleam | 📅 2024-01-16 - [📚](https://hexdocs.pm/cgi/) - Common Gateway Interface (CGI) in Gleam
 
@@ -348,7 +348,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 * [gleeunit](https://github.com/lpil/gleeunit) ⭐ 49 | 🐛 14 | 🌐 Gleam | 📅 2026-06-07 - [📚](https://hexdocs.pm/gleeunit/) - Gleam bindings to Erlang's EUnit test framework
 * [testcontainers\_gleam](https://github.com/darky/testcontainers-gleam) ⭐ 8 | 🐛 0 | 🌐 Gleam | 📅 2026-02-15 - [📚](https://hexdocs.pm/testcontainers_gleam/) - Gleam TestContainers wrapper around Elixir TestContainers
 * [exercism\_test\_runner](https://github.com/exercism/gleam-test-runner) ⭐ 6 | 🐛 8 | 🌐 Gleam | 📅 2026-09-22 - [📚](https://hexdocs.pm/exercism_test_runner/) - A test framework for Gleam exercises on Exercism
-* [unitest](https://github.com/jtdowney/unitest) ⭐ 6 | 🐛 0 | 🌐 Gleam | 📅 2026-09-23 - [📚](https://hexdocs.pm/unitest/) - A test runner with random ordering, tagging, and CLI filtering
+* [unitest](https://github.com/jtdowney/unitest) ⭐ 6 | 🐛 0 | 🌐 Gleam | 📅 2026-09-28 - [📚](https://hexdocs.pm/unitest/) - A test runner with random ordering, tagging, and CLI filtering
 * [testbldr](https://github.com/bcpeinhardt/testbldr) ⭐ 4 | 🐛 1 | 🌐 Gleam | 📅 2024-02-01 - [📚](https://hexdocs.pm/testbldr/) - A library for programatically building and running test cases
 
 ### Text
@@ -383,8 +383,8 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Web frameworks
 
-* [wisp](https://github.com/gleam-wisp/wisp) ⭐ 1,482 | 🐛 23 | 🌐 Gleam | 📅 2026-09-14 - [📚](https://hexdocs.pm/wisp/) - A practical web framework for Gleam
-* [glimr](https://github.com/glimr-org/glimr) ⭐ 221 | 🐛 6 | 🌐 Gleam | 📅 2026-04-28 - [📚](https://hexdocs.pm/glimr/) - A batteries-included web framework for Gleam
+* [wisp](https://github.com/gleam-wisp/wisp) ⭐ 1,484 | 🐛 23 | 🌐 Gleam | 📅 2026-09-14 - [📚](https://hexdocs.pm/wisp/) - A practical web framework for Gleam
+* [glimr](https://github.com/glimr-org/glimr) ⭐ 222 | 🐛 6 | 🌐 Gleam | 📅 2026-04-28 - [📚](https://hexdocs.pm/glimr/) - A batteries-included web framework for Gleam
 * [glen](https://github.com/MystPi/glen) ⭐ 115 | 🐛 2 | 🌐 Gleam | 📅 2025-06-30 - [📚](https://hexdocs.pm/glen/) - A peaceful web framework that targets JS.
 
 ### Websites
@@ -399,7 +399,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 Compilers for Gleam and compilers written in Gleam.
 
-* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 21,949 | 🐛 228 | 🌐 Rust | 📅 2026-09-26 - The Gleam compiler.
+* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 21,949 | 🐛 230 | 🌐 Rust | 📅 2026-09-26 - The Gleam compiler.
 * [gleam-lang/example-lisp-interpreter](https://github.com/gleam-lang/example-lisp-interpreter/) ⭐ 50 | 🐛 0 | 🌐 Gleam | 📅 2025-03-27 - A toy Lisp interpreter in Gleam.
 
 ### Web applications
@@ -474,4 +474,4 @@ Websites with Gleam related content.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._

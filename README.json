@@ -2020,11 +2020,11 @@
                 "id": 457999787,
                 "language": "Gleam",
                 "license": "MIT",
-                "last_commit": "2026-09-17T20:34:16Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-28T15:37:38Z",
+                "open_issues": 22,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2441,
+                "stars": 2443,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2697,7 +2697,7 @@
                 "id": 1039589169,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T12:43:09Z",
+                "last_commit": "2026-09-28T08:36:46Z",
                 "open_issues": 1,
                 "owner": "vshakitskiy",
                 "repo": "ewe",
@@ -4010,7 +4010,7 @@
                 "id": 1132415709,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T02:16:14Z",
+                "last_commit": "2026-09-28T21:31:13Z",
                 "open_issues": 0,
                 "owner": "jtdowney",
                 "repo": "unitest",
@@ -4537,7 +4537,7 @@
                 "open_issues": 23,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
-                "stars": 1482,
+                "stars": 1484,
                 "topics": [
                   "gleam-lang",
                   "web-framework"
@@ -4561,7 +4561,7 @@
                 "open_issues": 6,
                 "owner": "glimr-org",
                 "repo": "glimr",
-                "stars": 221,
+                "stars": 222,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4698,7 +4698,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-26T15:01:12Z",
-                "open_issues": 228,
+                "open_issues": 230,
                 "owner": "gleam-lang",
                 "repo": "gleam",
                 "stars": 21949,
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T05:33:32.647Z",
+    "last_updated": "2026-09-29T05:51:35.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
@@ -5315,7 +5315,7 @@
       "open_issues": 29,
       "owner": "gleam-lang",
       "repo": "awesome-gleam",
-      "stars": 2047,
+      "stars": 2048,
       "topics": [
         "awesome-list",
         "gleam",
