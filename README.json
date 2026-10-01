@@ -1582,7 +1582,7 @@
                 "language": "Gleam",
                 "license": null,
                 "last_commit": "2024-04-08T14:25:02Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "grottohub",
                 "repo": "carpenter",
                 "stars": 30,
@@ -2020,8 +2020,8 @@
                 "id": 457999787,
                 "language": "Gleam",
                 "license": "MIT",
-                "last_commit": "2026-09-29T08:46:23Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-30T16:57:22Z",
+                "open_issues": 16,
                 "owner": "lustre-labs",
                 "repo": "lustre",
                 "stars": 2445,
@@ -2111,7 +2111,7 @@
                 "language": "Gleam",
                 "license": null,
                 "last_commit": "2026-04-30T13:05:47Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "ghivert",
                 "repo": "redraw",
                 "stars": 75,
@@ -2697,8 +2697,8 @@
                 "id": 1039589169,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T08:36:46Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-30T13:17:31Z",
+                "open_issues": 0,
                 "owner": "vshakitskiy",
                 "repo": "ewe",
                 "stars": 127,
@@ -2848,7 +2848,7 @@
                 "open_issues": 3,
                 "owner": "CrowdHailer",
                 "repo": "plinth",
-                "stars": 119,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -3133,7 +3133,7 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-27T14:29:56Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "rawhat",
                 "repo": "glisten",
                 "stars": 98,
@@ -3846,7 +3846,7 @@
                 "open_issues": 0,
                 "owner": "bananaofhappiness",
                 "repo": "etch",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4537,7 +4537,7 @@
                 "open_issues": 23,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
-                "stars": 1485,
+                "stars": 1486,
                 "topics": [
                   "gleam-lang",
                   "web-framework"
@@ -4697,11 +4697,11 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T13:54:06Z",
-                "open_issues": 234,
+                "last_commit": "2026-10-01T02:49:10Z",
+                "open_issues": 250,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21954,
+                "stars": 21958,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5065,7 +5065,7 @@
             "open_issues": 131,
             "owner": "sbdchd",
             "repo": "neoformat",
-            "stars": 2047,
+            "stars": 2048,
             "topics": [
               "formatter",
               "neovim",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T05:41:44.662Z",
+    "last_updated": "2026-10-01T06:07:15.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
