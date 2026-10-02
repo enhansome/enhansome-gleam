@@ -2024,7 +2024,7 @@
                 "open_issues": 16,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2445,
+                "stars": 2446,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2110,8 +2110,8 @@
                 "id": 829451065,
                 "language": "Gleam",
                 "license": null,
-                "last_commit": "2026-04-30T13:05:47Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-01T12:54:58Z",
+                "open_issues": 1,
                 "owner": "ghivert",
                 "repo": "redraw",
                 "stars": 75,
@@ -2677,10 +2677,10 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-04-18T13:28:10Z",
-                "open_issues": 10,
+                "open_issues": 12,
                 "owner": "rawhat",
                 "repo": "mist",
-                "stars": 525,
+                "stars": 526,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4537,7 +4537,7 @@
                 "open_issues": 23,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
-                "stars": 1486,
+                "stars": 1487,
                 "topics": [
                   "gleam-lang",
                   "web-framework"
@@ -4640,7 +4640,7 @@
                 "open_issues": 2,
                 "owner": "veeso",
                 "repo": "blogatto",
-                "stars": 99,
+                "stars": 100,
                 "topics": [
                   "blog",
                   "blog-engine",
@@ -4697,11 +4697,11 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T02:49:10Z",
-                "open_issues": 250,
+                "last_commit": "2026-10-01T11:25:04Z",
+                "open_issues": 252,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21958,
+                "stars": 21957,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5087,8 +5087,8 @@
             "id": 181766715,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T09:49:53Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-01T14:34:04Z",
+            "open_issues": 8,
             "owner": "gleam-lang",
             "repo": "vscode-gleam",
             "stars": 234,
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T06:07:15.139Z",
+    "last_updated": "2026-10-02T05:50:22.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
