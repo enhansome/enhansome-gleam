@@ -1449,7 +1449,7 @@
                 "open_issues": 9,
                 "owner": "gleam-lang",
                 "repo": "otp",
-                "stars": 875,
+                "stars": 876,
                 "topics": [
                   "actors",
                   "erlang",
@@ -1904,7 +1904,7 @@
                 "id": 807142882,
                 "language": "Gleam",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-25T16:02:56Z",
+                "last_commit": "2026-10-02T14:37:45Z",
                 "open_issues": 13,
                 "owner": "mscharley",
                 "repo": "gleam-commonmark",
@@ -2020,11 +2020,11 @@
                 "id": 457999787,
                 "language": "Gleam",
                 "license": "MIT",
-                "last_commit": "2026-09-30T16:57:22Z",
+                "last_commit": "2026-10-02T09:12:41Z",
                 "open_issues": 16,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2446,
+                "stars": 2448,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2701,7 +2701,7 @@
                 "open_issues": 0,
                 "owner": "vshakitskiy",
                 "repo": "ewe",
-                "stars": 127,
+                "stars": 128,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -3098,7 +3098,7 @@
                 "open_issues": 0,
                 "owner": "mrdimosthenis",
                 "repo": "gleam_synapses",
-                "stars": 43,
+                "stars": 42,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -4088,7 +4088,7 @@
                 "open_issues": 0,
                 "owner": "giacomocavalieri",
                 "repo": "glam",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "pretty-printer"
                 ]
@@ -4561,7 +4561,7 @@
                 "open_issues": 6,
                 "owner": "glimr-org",
                 "repo": "glimr",
-                "stars": 222,
+                "stars": 223,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4698,7 +4698,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T11:25:04Z",
-                "open_issues": 252,
+                "open_issues": 253,
                 "owner": "gleam-lang",
                 "repo": "gleam",
                 "stars": 21957,
@@ -5087,8 +5087,8 @@
             "id": 181766715,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T14:34:04Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-02T10:37:28Z",
+            "open_issues": 9,
             "owner": "gleam-lang",
             "repo": "vscode-gleam",
             "stars": 234,
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T05:50:22.103Z",
+    "last_updated": "2026-10-03T04:48:51.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
@@ -5315,7 +5315,7 @@
       "open_issues": 29,
       "owner": "gleam-lang",
       "repo": "awesome-gleam",
-      "stars": 2049,
+      "stars": 2050,
       "topics": [
         "awesome-list",
         "gleam",
