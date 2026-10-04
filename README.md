@@ -136,7 +136,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Databases
 
 * [squirrel](https://github.com/giacomocavalieri/squirrel) ⭐ 686 | 🐛 14 | 🌐 Gleam | 📅 2026-09-10 - [📚](https://hexdocs.pm/squirrel/) - 🐿️ Type safe SQL in Gleam
-* [pog](https://github.com/lpil/pog) ⭐ 265 | 🐛 19 | 🌐 Gleam | 📅 2026-03-09 - [📚](https://hexdocs.pm/pog/) - A PostgreSQL database client for Gleam, based on PGO
+* [pog](https://github.com/lpil/pog) ⭐ 266 | 🐛 19 | 🌐 Gleam | 📅 2026-03-09 - [📚](https://hexdocs.pm/pog/) - A PostgreSQL database client for Gleam, based on PGO
 * [parrot](https://github.com/daniellionel01/parrot) ⭐ 215 | 🐛 8 | 🌐 Gleam | 📅 2026-08-18 - [📚](https://hexdocs.pm/parrot/) - 🦜 type-safe SQL in gleam via sqlc
 * [sqlight](https://github.com/lpil/sqlight) ⭐ 159 | 🐛 7 | 🌐 Gleam | 📅 2026-07-10 - [📚](https://hexdocs.pm/sqlight/) - Use SQLite from Gleam!
 * [cake](https://github.com/inoas/gleam-cake) ⭐ 133 | 🐛 2 | 🌐 Gleam | 📅 2026-06-06 - [📚](https://hexdocs.pm/cake/) - An SQL query builder for dialects PostgreSQL, SQLite, MariaDB, and MySQL
@@ -195,7 +195,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Frontend
 
-* [lustre](https://github.com/lustre-labs/lustre) ⭐ 2,448 | 🐛 16 | 🌐 Gleam | 📅 2026-10-02 - [📚](https://hexdocs.pm/lustre/) - An Elm-inspired framework for building web apps in Gleam!
+* [lustre](https://github.com/lustre-labs/lustre) ⭐ 2,449 | 🐛 15 | 🌐 Gleam | 📅 2026-10-03 - [📚](https://hexdocs.pm/lustre/) - An Elm-inspired framework for building web apps in Gleam!
 * [lustre\_ui](https://github.com/lustre-labs/lustre_ui) ⭐ 172 | 🐛 5 | 🌐 Gleam | 📅 2026-05-26 - [📚](https://hexdocs.pm/lustre_ui/) - A collection of components and design tokens for building Lustre apps.
 * [tiramisu](https://github.com/renatillas/tiramisu) ⚠️ Archived - [📚](https://hexdocs.pm/tiramisu/) - A type-safe 3D game engine for Gleam
 * [sketch](https://github.com/ghivert/sketch) ⭐ 85 | 🐛 8 | 🌐 Gleam | 📅 2026-08-20 - [📚](https://hexdocs.pm/sketch/) - A CSS-in-Gleam package, made to work with frontend, and directly with lustre!
@@ -390,7 +390,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Websites
 
 * [lustre\_ssg](https://github.com/lustre-labs/ssg) ⭐ 107 | 🐛 4 | 🌐 Gleam | 📅 2026-01-05 - [📚](https://hexdocs.pm/lustre_ssg/) - A simple static site generator for Lustre projects.
-* [blogatto](https://github.com/veeso/blogatto) ⭐ 100 | 🐛 2 | 🌐 Gleam | 📅 2026-09-18 - [📚](https://hexdocs.pm/blogatto/) - A framework for building static blogs with Lustre and Markdown
+* [blogatto](https://github.com/veeso/blogatto) ⭐ 103 | 🐛 2 | 🌐 Gleam | 📅 2026-09-18 - [📚](https://hexdocs.pm/blogatto/) - A framework for building static blogs with Lustre and Markdown
 * [atomb](https://github.com/lpil/atomb) ⭐ 16 | 🐛 0 | 🌐 Gleam | 📅 2025-04-07 - [📚](https://hexdocs.pm/atomb/) - An Atom feed builder for Gleam
 
 ## Projects
@@ -399,7 +399,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 Compilers for Gleam and compilers written in Gleam.
 
-* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 21,957 | 🐛 253 | 🌐 Rust | 📅 2026-10-01 - The Gleam compiler.
+* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 21,958 | 🐛 255 | 🌐 Rust | 📅 2026-10-01 - The Gleam compiler.
 * [gleam-lang/example-lisp-interpreter](https://github.com/gleam-lang/example-lisp-interpreter/) ⭐ 50 | 🐛 0 | 🌐 Gleam | 📅 2025-03-27 - A toy Lisp interpreter in Gleam.
 
 ### Web applications
@@ -410,7 +410,7 @@ Web applications written in Gleam.
 * [gleam-lang/packages](https://github.com/gleam-lang/packages) ⭐ 118 | 🐛 5 | 🌐 Gleam | 📅 2026-07-22 - The Gleam package index website.
 * [ghivert/gloogle](https://github.com/ghivert/gloogle) ⭐ 117 | 🐛 7 | 🌐 Gleam | 📅 2026-07-02 - A search engine for the Gleam ecosystem, built in Lustre + Wisp.
 * [gleam-lang/example-echo-server](https://github.com/gleam-lang/example-echo-server) ⭐ 81 | 🐛 2 | 🌐 Gleam | 📅 2025-04-13 - An example Gleam web application.
-* [aosasona/jsorm](https://github.com/aosasona/jsorm) ⭐ 32 | 🐛 15 | 🌐 Gleam | 📅 2026-07-28 - A minimal JSON explorer in Gleam + HTMX.
+* [aosasona/jsorm](https://github.com/aosasona/jsorm) ⭐ 31 | 🐛 15 | 🌐 Gleam | 📅 2026-07-28 - A minimal JSON explorer in Gleam + HTMX.
 * [ryanmiville/lustre-todomvc](https://github.com/ryanmiville/lustre-todomvc) ⭐ 23 | 🐛 0 | 🌐 Gleam | 📅 2025-04-22 - A Lustre clientside implementation of TodoMVC written in Gleam!
 * [losfair/acquire](https://github.com/losfair/acquire) ⭐ 10 | 🐛 0 | 🌐 Gleam | 📅 2025-03-23 - A multiplayer board game written in Gleam.
 
@@ -474,4 +474,4 @@ Websites with Gleam related content.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

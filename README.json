@@ -1132,7 +1132,7 @@
                 "open_issues": 19,
                 "owner": "lpil",
                 "repo": "pog",
-                "stars": 265,
+                "stars": 266,
                 "topics": [
                   "erlang",
                   "gleam",
@@ -2020,11 +2020,11 @@
                 "id": 457999787,
                 "language": "Gleam",
                 "license": "MIT",
-                "last_commit": "2026-10-02T09:12:41Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-03T08:47:30Z",
+                "open_issues": 15,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2448,
+                "stars": 2449,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4640,7 +4640,7 @@
                 "open_issues": 2,
                 "owner": "veeso",
                 "repo": "blogatto",
-                "stars": 100,
+                "stars": 103,
                 "topics": [
                   "blog",
                   "blog-engine",
@@ -4698,10 +4698,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T11:25:04Z",
-                "open_issues": 253,
+                "open_issues": 255,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21957,
+                "stars": 21958,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -4865,7 +4865,7 @@
                 "open_issues": 15,
                 "owner": "aosasona",
                 "repo": "jsorm",
-                "stars": 32,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:26:43.506Z",
+    "last_updated": "2026-10-04T06:01:54.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
