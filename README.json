@@ -831,7 +831,7 @@
                 "open_issues": 32,
                 "owner": "gleam-lang",
                 "repo": "stdlib",
-                "stars": 708,
+                "stars": 709,
                 "topics": [
                   "gleam",
                   "stdlib",
@@ -1449,7 +1449,7 @@
                 "open_issues": 9,
                 "owner": "gleam-lang",
                 "repo": "otp",
-                "stars": 876,
+                "stars": 877,
                 "topics": [
                   "actors",
                   "erlang",
@@ -1863,7 +1863,7 @@
                 "open_issues": 4,
                 "owner": "lpil",
                 "repo": "jot",
-                "stars": 64,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4537,7 +4537,7 @@
                 "open_issues": 23,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
-                "stars": 1487,
+                "stars": 1488,
                 "topics": [
                   "gleam-lang",
                   "web-framework"
@@ -4698,10 +4698,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T11:25:04Z",
-                "open_issues": 255,
+                "open_issues": 257,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21958,
+                "stars": 21960,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5065,7 +5065,7 @@
             "open_issues": 131,
             "owner": "sbdchd",
             "repo": "neoformat",
-            "stars": 2048,
+            "stars": 2049,
             "topics": [
               "formatter",
               "neovim",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T06:01:54.576Z",
+    "last_updated": "2026-10-05T05:52:15.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
@@ -5315,7 +5315,7 @@
       "open_issues": 29,
       "owner": "gleam-lang",
       "repo": "awesome-gleam",
-      "stars": 2050,
+      "stars": 2051,
       "topics": [
         "awesome-list",
         "gleam",
