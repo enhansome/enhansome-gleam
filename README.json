@@ -376,7 +376,7 @@
                 "id": 855181768,
                 "language": "Gleam",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T13:24:08Z",
+                "last_commit": "2026-10-05T21:49:08Z",
                 "open_issues": 0,
                 "owner": "drewolson",
                 "repo": "clip",
@@ -831,7 +831,7 @@
                 "open_issues": 32,
                 "owner": "gleam-lang",
                 "repo": "stdlib",
-                "stars": 709,
+                "stars": 710,
                 "topics": [
                   "gleam",
                   "stdlib",
@@ -1158,7 +1158,7 @@
                 "open_issues": 8,
                 "owner": "daniellionel01",
                 "repo": "parrot",
-                "stars": 215,
+                "stars": 216,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2020,11 +2020,11 @@
                 "id": 457999787,
                 "language": "Gleam",
                 "license": "MIT",
-                "last_commit": "2026-10-03T08:47:30Z",
+                "last_commit": "2026-10-06T02:39:33Z",
                 "open_issues": 15,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2449,
+                "stars": 2451,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2066,7 +2066,7 @@
                 "open_issues": 2,
                 "owner": "renatillas",
                 "repo": "tiramisu",
-                "stars": 115,
+                "stars": 116,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2680,7 +2680,7 @@
                 "open_issues": 12,
                 "owner": "rawhat",
                 "repo": "mist",
-                "stars": 526,
+                "stars": 527,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2848,7 +2848,7 @@
                 "open_issues": 3,
                 "owner": "CrowdHailer",
                 "repo": "plinth",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -3472,7 +3472,7 @@
                 "open_issues": 5,
                 "owner": "Pevensie",
                 "repo": "m25",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -3916,7 +3916,7 @@
                 "open_issues": 1,
                 "owner": "giacomocavalieri",
                 "repo": "birdie",
-                "stars": 204,
+                "stars": 205,
                 "topics": [
                   "snapshot-testing"
                 ]
@@ -4088,7 +4088,7 @@
                 "open_issues": 0,
                 "owner": "giacomocavalieri",
                 "repo": "glam",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "pretty-printer"
                 ]
@@ -4697,11 +4697,11 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T11:25:04Z",
-                "open_issues": 257,
+                "last_commit": "2026-10-05T20:36:20Z",
+                "open_issues": 260,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21960,
+                "stars": 21963,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5065,7 +5065,7 @@
             "open_issues": 131,
             "owner": "sbdchd",
             "repo": "neoformat",
-            "stars": 2049,
+            "stars": 2050,
             "topics": [
               "formatter",
               "neovim",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T05:52:15.062Z",
+    "last_updated": "2026-10-06T06:30:49.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
