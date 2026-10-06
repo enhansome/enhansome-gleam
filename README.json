@@ -4701,7 +4701,7 @@
                 "open_issues": 260,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21963,
+                "stars": 21964,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T06:30:49.385Z",
+    "last_updated": "2026-10-06T10:31:08.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
