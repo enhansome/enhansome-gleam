@@ -1111,7 +1111,7 @@
                 "open_issues": 14,
                 "owner": "giacomocavalieri",
                 "repo": "squirrel",
-                "stars": 686,
+                "stars": 687,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1132,7 +1132,7 @@
                 "open_issues": 19,
                 "owner": "lpil",
                 "repo": "pog",
-                "stars": 266,
+                "stars": 267,
                 "topics": [
                   "erlang",
                   "gleam",
@@ -1501,7 +1501,7 @@
                 "open_issues": 4,
                 "owner": "JonasGruenwald",
                 "repo": "spectator",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1690,7 +1690,7 @@
                 "open_issues": 2,
                 "owner": "massivefermion",
                 "repo": "puddle",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2024,7 +2024,7 @@
                 "open_issues": 15,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2451,
+                "stars": 2452,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4537,7 +4537,7 @@
                 "open_issues": 23,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
-                "stars": 1488,
+                "stars": 1489,
                 "topics": [
                   "gleam-lang",
                   "web-framework"
@@ -4640,7 +4640,7 @@
                 "open_issues": 2,
                 "owner": "veeso",
                 "repo": "blogatto",
-                "stars": 103,
+                "stars": 104,
                 "topics": [
                   "blog",
                   "blog-engine",
@@ -4697,11 +4697,11 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T20:36:20Z",
-                "open_issues": 260,
+                "last_commit": "2026-10-06T17:37:23Z",
+                "open_issues": 240,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21964,
+                "stars": 21972,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -4728,7 +4728,7 @@
                 "open_issues": 0,
                 "owner": "gleam-lang",
                 "repo": "example-lisp-interpreter",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "example",
                   "gleam",
@@ -4991,7 +4991,7 @@
             "open_issues": 4,
             "owner": "JonasGruenwald",
             "repo": "spectator",
-            "stars": 98,
+            "stars": 99,
             "topics": []
           },
           "first_seen": "2026-08-28T11:31:01.185Z"
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:31:08.429Z",
+    "last_updated": "2026-10-07T06:09:52.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
@@ -5315,7 +5315,7 @@
       "open_issues": 29,
       "owner": "gleam-lang",
       "repo": "awesome-gleam",
-      "stars": 2051,
+      "stars": 2052,
       "topics": [
         "awesome-list",
         "gleam",

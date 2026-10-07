@@ -135,8 +135,8 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Databases
 
-* [squirrel](https://github.com/giacomocavalieri/squirrel) ⭐ 686 | 🐛 14 | 🌐 Gleam | 📅 2026-09-10 - [📚](https://hexdocs.pm/squirrel/) - 🐿️ Type safe SQL in Gleam
-* [pog](https://github.com/lpil/pog) ⭐ 266 | 🐛 19 | 🌐 Gleam | 📅 2026-03-09 - [📚](https://hexdocs.pm/pog/) - A PostgreSQL database client for Gleam, based on PGO
+* [squirrel](https://github.com/giacomocavalieri/squirrel) ⭐ 687 | 🐛 14 | 🌐 Gleam | 📅 2026-09-10 - [📚](https://hexdocs.pm/squirrel/) - 🐿️ Type safe SQL in Gleam
+* [pog](https://github.com/lpil/pog) ⭐ 267 | 🐛 19 | 🌐 Gleam | 📅 2026-03-09 - [📚](https://hexdocs.pm/pog/) - A PostgreSQL database client for Gleam, based on PGO
 * [parrot](https://github.com/daniellionel01/parrot) ⭐ 216 | 🐛 8 | 🌐 Gleam | 📅 2026-08-18 - [📚](https://hexdocs.pm/parrot/) - 🦜 type-safe SQL in gleam via sqlc
 * [sqlight](https://github.com/lpil/sqlight) ⭐ 159 | 🐛 7 | 🌐 Gleam | 📅 2026-07-10 - [📚](https://hexdocs.pm/sqlight/) - Use SQLite from Gleam!
 * [cake](https://github.com/inoas/gleam-cake) ⭐ 133 | 🐛 2 | 🌐 Gleam | 📅 2026-06-06 - [📚](https://hexdocs.pm/cake/) - An SQL query builder for dialects PostgreSQL, SQLite, MariaDB, and MySQL
@@ -157,7 +157,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 * [gleam\_otp](https://github.com/gleam-lang/otp) ⭐ 877 | 🐛 9 | 🌐 Gleam | 📅 2026-09-27 - [📚](https://hexdocs.pm/gleam_otp/) - Fault tolerant multicore Gleam programs with OTP
 * [gleam\_erlang](https://github.com/gleam-lang/erlang) ⭐ 135 | 🐛 10 | 🌐 Gleam | 📅 2026-07-22 - [📚](https://hexdocs.pm/gleam_erlang/) - A Gleam library for working with Erlang
-* [spectator](https://github.com/JonasGruenwald/spectator) ⭐ 98 | 🐛 4 | 🌐 Gleam | 📅 2026-04-21 - [📚](https://hexdocs.pm/spectator/) - A BEAM runtime observer tool
+* [spectator](https://github.com/JonasGruenwald/spectator) ⭐ 99 | 🐛 4 | 🌐 Gleam | 📅 2026-04-21 - [📚](https://hexdocs.pm/spectator/) - A BEAM runtime observer tool
 * [barnacle](https://github.com/Pevensie/barnacle) ⭐ 61 | 🐛 1 | 🌐 Gleam | 📅 2025-06-14 - [📚](https://hexdocs.pm/barnacle/) - Self-healing clusters for Gleam applications on the BEAM
 * [Eventsourcing](https://github.com/renatillas/eventsourcing) ⚠️ Archived - [📚](https://hexdocs.pm/Eventsourcing/) - A Gleam library for building event-sourced systems with Actors and Supervisors
 * [chip](https://github.com/chouzar/chip) ⭐ 31 | 🐛 5 | 🌐 Gleam | 📅 2024-12-14 - [📚](https://hexdocs.pm/chip/) - A Gleam registry library
@@ -166,7 +166,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 * [lifeguard](https://github.com/Pevensie/lifeguard) ⭐ 19 | 🐛 0 | 🌐 Gleam | 📅 2025-06-25 - [📚](https://hexdocs.pm/lifeguard/) - A simple actor pool
 * [shakespeare](https://github.com/maxdeviant/shakespeare) ⭐ 16 | 🐛 2 | 🌐 Gleam | 📅 2024-12-07 - [📚](https://hexdocs.pm/shakespeare/) - General-purpose OTP actors.
 * [nessie\_cluster](https://github.com/ckreiling/nessie_cluster) ⭐ 15 | 🐛 1 | 🌐 Gleam | 📅 2025-01-27 - [📚](https://hexdocs.pm/nessie_cluster/) - A small DNS clustering library for Gleam applications.
-* [puddle](https://github.com/massivefermion/puddle) ⭐ 7 | 🐛 2 | 🌐 Gleam | 📅 2026-09-24 - [📚](https://hexdocs.pm/puddle/) - A resource pool manager for gleam
+* [puddle](https://github.com/massivefermion/puddle) ⭐ 8 | 🐛 2 | 🌐 Gleam | 📅 2026-09-24 - [📚](https://hexdocs.pm/puddle/) - A resource pool manager for gleam
 * [process\_waiter](https://github.com/lpil/process-waiter) ⭐ 3 | 🐛 0 | 🌐 Gleam | 📅 2024-01-02 - [📚](https://hexdocs.pm/process_waiter/) - Wait for Erlang processes to exit
 * [gen\_core\_erlang](https://codeberg.org/kero/gleam_codegen) - [📚](https://hexdocs.pm/gen_core_erlang/) - Generate Core Erlang from Gleam (wraps the Erlang cerl compiler module)
 
@@ -195,7 +195,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Frontend
 
-* [lustre](https://github.com/lustre-labs/lustre) ⭐ 2,451 | 🐛 15 | 🌐 Gleam | 📅 2026-10-06 - [📚](https://hexdocs.pm/lustre/) - An Elm-inspired framework for building web apps in Gleam!
+* [lustre](https://github.com/lustre-labs/lustre) ⭐ 2,452 | 🐛 15 | 🌐 Gleam | 📅 2026-10-06 - [📚](https://hexdocs.pm/lustre/) - An Elm-inspired framework for building web apps in Gleam!
 * [lustre\_ui](https://github.com/lustre-labs/lustre_ui) ⭐ 172 | 🐛 5 | 🌐 Gleam | 📅 2026-05-26 - [📚](https://hexdocs.pm/lustre_ui/) - A collection of components and design tokens for building Lustre apps.
 * [tiramisu](https://github.com/renatillas/tiramisu) ⚠️ Archived - [📚](https://hexdocs.pm/tiramisu/) - A type-safe 3D game engine for Gleam
 * [sketch](https://github.com/ghivert/sketch) ⭐ 85 | 🐛 8 | 🌐 Gleam | 📅 2026-08-20 - [📚](https://hexdocs.pm/sketch/) - A CSS-in-Gleam package, made to work with frontend, and directly with lustre!
@@ -383,14 +383,14 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Web frameworks
 
-* [wisp](https://github.com/gleam-wisp/wisp) ⭐ 1,488 | 🐛 23 | 🌐 Gleam | 📅 2026-09-14 - [📚](https://hexdocs.pm/wisp/) - A practical web framework for Gleam
+* [wisp](https://github.com/gleam-wisp/wisp) ⭐ 1,489 | 🐛 23 | 🌐 Gleam | 📅 2026-09-14 - [📚](https://hexdocs.pm/wisp/) - A practical web framework for Gleam
 * [glimr](https://github.com/glimr-org/glimr) ⭐ 223 | 🐛 6 | 🌐 Gleam | 📅 2026-04-28 - [📚](https://hexdocs.pm/glimr/) - A batteries-included web framework for Gleam
 * [glen](https://github.com/MystPi/glen) ⭐ 115 | 🐛 2 | 🌐 Gleam | 📅 2025-06-30 - [📚](https://hexdocs.pm/glen/) - A peaceful web framework that targets JS.
 
 ### Websites
 
 * [lustre\_ssg](https://github.com/lustre-labs/ssg) ⭐ 107 | 🐛 4 | 🌐 Gleam | 📅 2026-01-05 - [📚](https://hexdocs.pm/lustre_ssg/) - A simple static site generator for Lustre projects.
-* [blogatto](https://github.com/veeso/blogatto) ⭐ 103 | 🐛 2 | 🌐 Gleam | 📅 2026-09-18 - [📚](https://hexdocs.pm/blogatto/) - A framework for building static blogs with Lustre and Markdown
+* [blogatto](https://github.com/veeso/blogatto) ⭐ 104 | 🐛 2 | 🌐 Gleam | 📅 2026-09-18 - [📚](https://hexdocs.pm/blogatto/) - A framework for building static blogs with Lustre and Markdown
 * [atomb](https://github.com/lpil/atomb) ⭐ 16 | 🐛 0 | 🌐 Gleam | 📅 2025-04-07 - [📚](https://hexdocs.pm/atomb/) - An Atom feed builder for Gleam
 
 ## Projects
@@ -399,8 +399,8 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 Compilers for Gleam and compilers written in Gleam.
 
-* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 21,964 | 🐛 260 | 🌐 Rust | 📅 2026-10-05 - The Gleam compiler.
-* [gleam-lang/example-lisp-interpreter](https://github.com/gleam-lang/example-lisp-interpreter/) ⭐ 50 | 🐛 0 | 🌐 Gleam | 📅 2025-03-27 - A toy Lisp interpreter in Gleam.
+* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 21,972 | 🐛 240 | 🌐 Rust | 📅 2026-10-06 - The Gleam compiler.
+* [gleam-lang/example-lisp-interpreter](https://github.com/gleam-lang/example-lisp-interpreter/) ⭐ 51 | 🐛 0 | 🌐 Gleam | 📅 2025-03-27 - A toy Lisp interpreter in Gleam.
 
 ### Web applications
 
@@ -423,7 +423,7 @@ Network applications/servers written in Gleam
 
 ## Tools
 
-* [jonasgruenwald/spectator](https://github.com/JonasGruenwald/spectator) ⭐ 98 | 🐛 4 | 🌐 Gleam | 📅 2026-04-21 - A BEAM runtime observer tool
+* [jonasgruenwald/spectator](https://github.com/JonasGruenwald/spectator) ⭐ 99 | 🐛 4 | 🌐 Gleam | 📅 2026-04-21 - A BEAM runtime observer tool
 * [tynanbe/rad](https://github.com/tynanbe/rad) ⭐ 73 | 🐛 1 | 🌐 Gleam | 📅 2024-06-14 - A flexible task runner companion for the Gleam build manager.
 * [inoas/glychee](https://github.com/inoas/glychee) ⭐ 21 | 🐛 5 | 🌐 Gleam | 📅 2026-05-23 - A simple Gleam benchmark runner which wraps Benchee for the heavy lifting.
 
@@ -474,4 +474,4 @@ Websites with Gleam related content.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
