@@ -66,7 +66,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### API Clients
 
-* [telega](https://github.com/bondiano/telega-gleam) ⭐ 71 | 🐛 0 | 🌐 Gleam | 📅 2026-09-11 - [📚](https://hexdocs.pm/telega/) - A Gleam library for the Telegram Bot API with HTTP-based APIs, client implementation, wisp adapter, session bot, and conversation support
+* [telega](https://github.com/bondiano/telega-gleam) ⭐ 72 | 🐛 0 | 🌐 Gleam | 📅 2026-10-09 - [📚](https://hexdocs.pm/telega/) - A Gleam library for the Telegram Bot API with HTTP-based APIs, client implementation, wisp adapter, session bot, and conversation support
 * [discord\_gleam](https://github.com/Cyteon/discord_gleam) ⭐ 52 | 🐛 2 | 🌐 Gleam | 📅 2026-10-07 - [📚](https://hexdocs.pm/discord_gleam/) - A library to create discord bots in gleam
 * [aws4\_request](https://github.com/lpil/aws4_request) ⭐ 8 | 🐛 1 | 🌐 Gleam | 📅 2026-06-17 - [📚](https://hexdocs.pm/aws4_request/) - An AWS Signature Version 4 client implementation, used for S3 auth, etc
 * [glevatar](https://github.com/bunopnu/glevatar) ⭐ 8 | 🐛 0 | 🌐 Gleam | 📅 2024-04-13 - [📚](https://hexdocs.pm/glevatar/) - Easily create Gravatar URLs in Gleam
@@ -113,14 +113,14 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 * [gleam\_crypto](https://github.com/gleam-lang/crypto) ⭐ 59 | 🐛 3 | 🌐 Gleam | 📅 2026-07-24 - [📚](https://hexdocs.pm/gleam_crypto/) - A Gleam cryptography library supporting Erlang and JavaScript
 * [youid](https://github.com/lpil/youid) ⭐ 38 | 🐛 4 | 🌐 Gleam | 📅 2026-03-31 - [📚](https://hexdocs.pm/youid/) - Generate and parse UUIDs
 * [argus](https://github.com/Pevensie/argus) ⭐ 30 | 🐛 0 | 🌐 Gleam | 📅 2026-08-28 - [📚](https://hexdocs.pm/argus/) - Argon2 password hashing library for Gleam, based on the reference C implementation.
-* [kryptos](https://github.com/jtdowney/kryptos) ⭐ 18 | 🐛 0 | 🌐 Gleam | 📅 2026-08-21 - [📚](https://hexdocs.pm/kryptos/) - Comprehensive cryptography with AEAD ciphers, key derivation, and digital signatures for Erlang and JavaScript
+* [kryptos](https://github.com/jtdowney/kryptos) ⭐ 18 | 🐛 0 | 🌐 Gleam | 📅 2026-10-09 - [📚](https://hexdocs.pm/kryptos/) - Comprehensive cryptography with AEAD ciphers, key derivation, and digital signatures for Erlang and JavaScript
 * [beecrypt](https://github.com/lpil/beecrypt) ⭐ 11 | 🐛 1 | 🌐 Gleam | 📅 2025-05-14 - [📚](https://hexdocs.pm/beecrypt/) - Buzzing Gleam bindings to the Erlang bcrypt hashing library
-* [acumen](https://github.com/jtdowney/acumen) ⭐ 6 | 🐛 0 | 🌐 Gleam | 📅 2026-09-20 - [📚](https://hexdocs.pm/acumen/) - ACME client for certificate management with Let's Encrypt and other ACME servers
+* [acumen](https://github.com/jtdowney/acumen) ⭐ 6 | 🐛 0 | 🌐 Gleam | 📅 2026-10-09 - [📚](https://hexdocs.pm/acumen/) - ACME client for certificate management with Let's Encrypt and other ACME servers
 * [kmh](https://github.com/mdarse/kmh) ⭐ 0 | 🐛 0 | 🌐 Gleam | 📅 2024-09-08 - [📚](https://hexdocs.pm/kmh/) - Implementation of Knuth’s multiplicative hashing (useful for ID obfuscation, etc.)
 
 ### Data Structures
 
-* [gleam\_stdlib](https://github.com/gleam-lang/stdlib) ⭐ 709 | 🐛 33 | 🌐 Gleam | 📅 2026-09-19 - [📚](https://hexdocs.pm/gleam_stdlib/) - A standard library for the Gleam programming language
+* [gleam\_stdlib](https://github.com/gleam-lang/stdlib) ⭐ 709 | 🐛 32 | 🌐 Gleam | 📅 2026-10-08 - [📚](https://hexdocs.pm/gleam_stdlib/) - A standard library for the Gleam programming language
 * [argamak](https://github.com/tynanbe/argamak) ⭐ 38 | 🐛 0 | 🌐 Gleam | 📅 2024-02-18 - [📚](https://hexdocs.pm/argamak/) - A tensor library for the Gleam programming language
 * [gleamy\_structures](https://github.com/schurhammer/gleamy_structures/) ⭐ 33 | 🐛 1 | 🌐 Gleam | 📅 2025-08-25 - [📚](https://hexdocs.pm/gleamy_structures/) - Data structures in pure Gleam! Including tree, heap, non empty list, map, set, and priority queue.
 * [act](https://github.com/MystPi/act) ⭐ 29 | 🐛 0 | 🌐 Gleam | 📅 2025-12-01 - [📚](https://hexdocs.pm/act/) - Compose stateful actions to simulate mutable state
@@ -135,7 +135,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Databases
 
-* [squirrel](https://github.com/giacomocavalieri/squirrel) ⭐ 687 | 🐛 14 | 🌐 Gleam | 📅 2026-09-10 - [📚](https://hexdocs.pm/squirrel/) - 🐿️ Type safe SQL in Gleam
+* [squirrel](https://github.com/giacomocavalieri/squirrel) ⭐ 688 | 🐛 14 | 🌐 Gleam | 📅 2026-09-10 - [📚](https://hexdocs.pm/squirrel/) - 🐿️ Type safe SQL in Gleam
 * [pog](https://github.com/lpil/pog) ⭐ 267 | 🐛 19 | 🌐 Gleam | 📅 2026-03-09 - [📚](https://hexdocs.pm/pog/) - A PostgreSQL database client for Gleam, based on PGO
 * [parrot](https://github.com/daniellionel01/parrot) ⭐ 216 | 🐛 8 | 🌐 Gleam | 📅 2026-08-18 - [📚](https://hexdocs.pm/parrot/) - 🦜 type-safe SQL in gleam via sqlc
 * [sqlight](https://github.com/lpil/sqlight) ⭐ 159 | 🐛 7 | 🌐 Gleam | 📅 2026-07-10 - [📚](https://hexdocs.pm/sqlight/) - Use SQLite from Gleam!
@@ -195,7 +195,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Frontend
 
-* [lustre](https://github.com/lustre-labs/lustre) ⭐ 2,453 | 🐛 16 | 🌐 Gleam | 📅 2026-10-06 - [📚](https://hexdocs.pm/lustre/) - An Elm-inspired framework for building web apps in Gleam!
+* [lustre](https://github.com/lustre-labs/lustre) ⭐ 2,458 | 🐛 22 | 🌐 Gleam | 📅 2026-10-06 - [📚](https://hexdocs.pm/lustre/) - An Elm-inspired framework for building web apps in Gleam!
 * [lustre\_ui](https://github.com/lustre-labs/lustre_ui) ⭐ 173 | 🐛 5 | 🌐 Gleam | 📅 2026-05-26 - [📚](https://hexdocs.pm/lustre_ui/) - A collection of components and design tokens for building Lustre apps.
 * [tiramisu](https://github.com/renatillas/tiramisu) ⚠️ Archived - [📚](https://hexdocs.pm/tiramisu/) - A type-safe 3D game engine for Gleam
 * [sketch](https://github.com/ghivert/sketch) ⭐ 85 | 🐛 8 | 🌐 Gleam | 📅 2026-08-20 - [📚](https://hexdocs.pm/sketch/) - A CSS-in-Gleam package, made to work with frontend, and directly with lustre!
@@ -210,7 +210,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Gleam
 
-* [glance](https://github.com/lpil/glance) ⭐ 81 | 🐛 3 | 🌐 Gleam | 📅 2026-07-09 - [📚](https://hexdocs.pm/glance/) - A Gleam source code parser, in Gleam!
+* [glance](https://github.com/lpil/glance) ⭐ 82 | 🐛 3 | 🌐 Gleam | 📅 2026-07-09 - [📚](https://hexdocs.pm/glance/) - A Gleam source code parser, in Gleam!
 * [glexer](https://github.com/DanielleMaywood/glexer) ⭐ 64 | 🐛 0 | 🌐 Gleam | 📅 2026-08-03 - [📚](https://hexdocs.pm/glexer/) - A lexer for Gleam source code
 * [pprint](https://github.com/MystPi/pprint) ⭐ 43 | 🐛 0 | 🌐 Gleam | 📅 2025-07-07 - [📚](https://hexdocs.pm/pprint/) - Pretty print values with style!
 * [gleam\_package\_interface](https://github.com/gleam-lang/package-interface-decoder) ⭐ 12 | 🐛 0 | 🌐 Gleam | 📅 2026-09-14 - [📚](https://hexdocs.pm/gleam_package_interface/) - Work with Gleam's package interfaces
@@ -233,7 +233,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### HTTP
 
-* [gleam\_http](https://github.com/gleam-lang/http) ⭐ 284 | 🐛 6 | 🌐 Gleam | 📅 2026-09-21 - [📚](https://hexdocs.pm/gleam_http/) - Types and functions for Gleam HTTP clients and servers
+* [gleam\_http](https://github.com/gleam-lang/http) ⭐ 285 | 🐛 5 | 🌐 Gleam | 📅 2026-10-08 - [📚](https://hexdocs.pm/gleam_http/) - Types and functions for Gleam HTTP clients and servers
 * [cors\_builder](https://github.com/ghivert/cors-builder) ⭐ 18 | 🐛 1 | 🌐 Gleam | 📅 2026-04-22 - [📚](https://hexdocs.pm/cors_builder/) - A CORS Builder, performing validation and injection of CORS for misp, wisp and any framework!
 
 ### HTTP Clients
@@ -245,7 +245,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### HTTP Servers
 
 * [mist](https://github.com/rawhat/mist) ⭐ 527 | 🐛 12 | 🌐 Gleam | 📅 2026-04-18 - [📚](https://hexdocs.pm/mist/) - a misty Gleam web server
-* [ewe](https://github.com/vshakitskiy/ewe) ⭐ 128 | 🐛 0 | 🌐 Gleam | 📅 2026-09-30 - [📚](https://hexdocs.pm/ewe/) - 🐑 a fluffy Gleam web server
+* [ewe](https://github.com/vshakitskiy/ewe) ⭐ 129 | 🐛 0 | 🌐 Gleam | 📅 2026-09-30 - [📚](https://hexdocs.pm/ewe/) - 🐑 a fluffy Gleam web server
 * [gleam\_elli](https://github.com/gleam-lang/elli) ⭐ 74 | 🐛 1 | 🌐 Gleam | 📅 2025-06-02 - [📚](https://hexdocs.pm/gleam_elli/) - Run Gleam HTTP services with the Elli web server
 * [cgi](https://github.com/lpil/cgi) ⭐ 17 | 🐛 0 | 🌐 Gleam | 📅 2024-01-16 - [📚](https://hexdocs.pm/cgi/) - Common Gateway Interface (CGI) in Gleam
 
@@ -331,7 +331,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 * [dime](https://github.com/horvathandris/dime) ⭐ 13 | 🐛 1 | 🌐 Gleam | 📅 2026-07-20 - [📚](https://hexdocs.pm/dime/) - A ISO-4217 currency library for Gleam
 * [phony](https://github.com/massivefermion/phony) ⭐ 11 | 🐛 0 | 🌐 Gleam | 📅 2026-02-22 - [📚](https://hexdocs.pm/phony/) - An international phone number validator
 * [glisbn](https://github.com/solar05/glisbn) ⭐ 4 | 🐛 0 | 🌐 Gleam | 📅 2026-05-21 - [📚](https://hexdocs.pm/glisbn/) - A ISBN utility library for Gleam.
-* [thirtytwo](https://github.com/jtdowney/thirtytwo) ⭐ 1 | 🐛 0 | 🌐 Gleam | 📅 2026-08-01 - [📚](https://hexdocs.pm/thirtytwo/) - Base32 encoding and decoding
+* [thirtytwo](https://github.com/jtdowney/thirtytwo) ⭐ 1 | 🐛 0 | 🌐 Gleam | 📅 2026-10-09 - [📚](https://hexdocs.pm/thirtytwo/) - Base32 encoding and decoding
 
 ### TUI
 
@@ -347,13 +347,13 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 * [birdie](https://github.com/giacomocavalieri/birdie) ⭐ 205 | 🐛 1 | 🌐 Gleam | 📅 2026-07-17 - [📚](https://hexdocs.pm/birdie/) - Snapshot testing in Gleam
 * [gleeunit](https://github.com/lpil/gleeunit) ⭐ 49 | 🐛 14 | 🌐 Gleam | 📅 2026-06-07 - [📚](https://hexdocs.pm/gleeunit/) - Gleam bindings to Erlang's EUnit test framework
 * [testcontainers\_gleam](https://github.com/darky/testcontainers-gleam) ⭐ 8 | 🐛 0 | 🌐 Gleam | 📅 2026-02-15 - [📚](https://hexdocs.pm/testcontainers_gleam/) - Gleam TestContainers wrapper around Elixir TestContainers
-* [exercism\_test\_runner](https://github.com/exercism/gleam-test-runner) ⭐ 6 | 🐛 8 | 🌐 Gleam | 📅 2026-09-22 - [📚](https://hexdocs.pm/exercism_test_runner/) - A test framework for Gleam exercises on Exercism
-* [unitest](https://github.com/jtdowney/unitest) ⭐ 6 | 🐛 0 | 🌐 Gleam | 📅 2026-09-28 - [📚](https://hexdocs.pm/unitest/) - A test runner with random ordering, tagging, and CLI filtering
+* [exercism\_test\_runner](https://github.com/exercism/gleam-test-runner) ⭐ 6 | 🐛 9 | 🌐 Gleam | 📅 2026-10-09 - [📚](https://hexdocs.pm/exercism_test_runner/) - A test framework for Gleam exercises on Exercism
+* [unitest](https://github.com/jtdowney/unitest) ⭐ 6 | 🐛 0 | 🌐 Gleam | 📅 2026-10-09 - [📚](https://hexdocs.pm/unitest/) - A test runner with random ordering, tagging, and CLI filtering
 * [testbldr](https://github.com/bcpeinhardt/testbldr) ⭐ 4 | 🐛 1 | 🌐 Gleam | 📅 2024-02-01 - [📚](https://hexdocs.pm/testbldr/) - A library for programatically building and running test cases
 
 ### Text
 
-* [rank](https://github.com/lpil/glance) ⭐ 81 | 🐛 3 | 🌐 Gleam | 📅 2026-07-09 - [📚](https://hexdocs.pm/rank/) - Ordinals for numbers, e.g. 1st, 2nd, 3rd
+* [rank](https://github.com/lpil/glance) ⭐ 82 | 🐛 3 | 🌐 Gleam | 📅 2026-07-09 - [📚](https://hexdocs.pm/rank/) - Ordinals for numbers, e.g. 1st, 2nd, 3rd
 * [glam](https://github.com/giacomocavalieri/glam) ⭐ 73 | 🐛 0 | 🌐 Gleam | 📅 2026-04-20 - [📚](https://hexdocs.pm/glam/) - A package to help you easily pretty print structured data
 * [hug](https://github.com/brettkolodny/gleam-hug) ⭐ 33 | 🐛 0 | 🌐 Gleam | 📅 2024-05-01 - [📚](https://hexdocs.pm/hug/) - Helpful and pretty CLI messages
 * [g18n](https://github.com/renatillas/g18n) ⭐ 29 | 🐛 1 | 🌐 Gleam | 📅 2025-12-07 - [📚](https://hexdocs.pm/g18n/) - A platform-agnostic internationalization library for Gleam.
@@ -383,7 +383,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Web frameworks
 
-* [wisp](https://github.com/gleam-wisp/wisp) ⭐ 1,490 | 🐛 21 | 🌐 Gleam | 📅 2026-10-07 - [📚](https://hexdocs.pm/wisp/) - A practical web framework for Gleam
+* [wisp](https://github.com/gleam-wisp/wisp) ⭐ 1,491 | 🐛 22 | 🌐 Gleam | 📅 2026-10-07 - [📚](https://hexdocs.pm/wisp/) - A practical web framework for Gleam
 * [glimr](https://github.com/glimr-org/glimr) ⭐ 223 | 🐛 6 | 🌐 Gleam | 📅 2026-04-28 - [📚](https://hexdocs.pm/glimr/) - A batteries-included web framework for Gleam
 * [glen](https://github.com/MystPi/glen) ⭐ 115 | 🐛 2 | 🌐 Gleam | 📅 2025-06-30 - [📚](https://hexdocs.pm/glen/) - A peaceful web framework that targets JS.
 
@@ -399,7 +399,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 Compilers for Gleam and compilers written in Gleam.
 
-* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 21,975 | 🐛 239 | 🌐 Rust | 📅 2026-10-07 - The Gleam compiler.
+* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 21,981 | 🐛 236 | 🌐 Rust | 📅 2026-10-08 - The Gleam compiler.
 * [gleam-lang/example-lisp-interpreter](https://github.com/gleam-lang/example-lisp-interpreter/) ⭐ 51 | 🐛 0 | 🌐 Gleam | 📅 2025-03-27 - A toy Lisp interpreter in Gleam.
 
 ### Web applications
@@ -451,7 +451,7 @@ Websites with Gleam related content.
 
 ### Courses
 
-* [Exercism's Gleam track](https://github.com/exercism/gleam/) ⭐ 119 | 🐛 29 | 🌐 Gleam | 📅 2026-09-22 - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
+* [Exercism's Gleam track](https://github.com/exercism/gleam/) ⭐ 119 | 🐛 30 | 🌐 Gleam | 📅 2026-09-22 - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
 * [tanklesxl/gladvent](https://github.com/tanklesxl/gladvent) ⭐ 70 | 🐛 10 | 🌐 Gleam | 📅 2025-10-27 - An `Advent of Code` runner for Gleam, targeting Erlang.
 
 ### Talks
@@ -474,4 +474,4 @@ Websites with Gleam related content.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
