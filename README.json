@@ -17,7 +17,7 @@
                 "id": 776031940,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T16:41:36Z",
+                "last_commit": "2026-10-10T09:48:24Z",
                 "open_issues": 0,
                 "owner": "bondiano",
                 "repo": "telega-gleam",
@@ -731,7 +731,7 @@
                 "open_issues": 0,
                 "owner": "jtdowney",
                 "repo": "kryptos",
-                "stars": 18,
+                "stars": 19,
                 "topics": [
                   "cryptography",
                   "gleam",
@@ -898,7 +898,7 @@
                 "open_issues": 0,
                 "owner": "MystPi",
                 "repo": "act",
-                "stars": 29,
+                "stars": 30,
                 "topics": [
                   "functional-programming",
                   "gleam",
@@ -1155,7 +1155,7 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-18T10:52:46Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "daniellionel01",
                 "repo": "parrot",
                 "stars": 216,
@@ -1550,27 +1550,6 @@
             },
             {
               "node_type": "item",
-              "title": "chip",
-              "description": "📚 - A Gleam registry library",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Registry library for gleam",
-                "homepage": null,
-                "id": 712825761,
-                "language": "Gleam",
-                "license": null,
-                "last_commit": "2024-12-14T02:08:52Z",
-                "open_issues": 5,
-                "owner": "chouzar",
-                "repo": "chip",
-                "stars": 31,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T11:31:01.185Z"
-            },
-            {
-              "node_type": "item",
               "title": "carpenter",
               "description": "📚 - Bindings for Erlang's ETS tables. Forked and updated from gts.",
               "children": [],
@@ -1585,6 +1564,27 @@
                 "open_issues": 2,
                 "owner": "grottohub",
                 "repo": "carpenter",
+                "stars": 30,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T11:31:01.185Z"
+            },
+            {
+              "node_type": "item",
+              "title": "chip",
+              "description": "📚 - A Gleam registry library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Registry library for gleam",
+                "homepage": null,
+                "id": 712825761,
+                "language": "Gleam",
+                "license": null,
+                "last_commit": "2024-12-14T02:08:52Z",
+                "open_issues": 5,
+                "owner": "chouzar",
+                "repo": "chip",
                 "stars": 30,
                 "topics": []
               },
@@ -2680,7 +2680,7 @@
                 "open_issues": 12,
                 "owner": "rawhat",
                 "repo": "mist",
-                "stars": 527,
+                "stars": 528,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2701,7 +2701,7 @@
                 "open_issues": 0,
                 "owner": "vshakitskiy",
                 "repo": "ewe",
-                "stars": 130,
+                "stars": 131,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -3542,7 +3542,7 @@
                 "open_issues": 1,
                 "owner": "giacomocavalieri",
                 "repo": "prng",
-                "stars": 33,
+                "stars": 32,
                 "topics": [
                   "prng",
                   "random-number-generator"
@@ -4698,10 +4698,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-08T20:37:11Z",
-                "open_issues": 239,
+                "open_issues": 240,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21985,
+                "stars": 21986,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5141,7 +5141,7 @@
             "language": "Emacs Lisp",
             "license": "Apache-2.0",
             "last_commit": "2026-09-02T11:58:54Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "gleam-lang",
             "repo": "gleam-mode",
             "stars": 121,
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T06:01:31.150Z",
+    "last_updated": "2026-10-11T05:59:03.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
@@ -5315,7 +5315,7 @@
       "open_issues": 29,
       "owner": "gleam-lang",
       "repo": "awesome-gleam",
-      "stars": 2051,
+      "stars": 2052,
       "topics": [
         "awesome-list",
         "gleam",
