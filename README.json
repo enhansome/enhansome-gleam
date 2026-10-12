@@ -2021,10 +2021,10 @@
                 "language": "Gleam",
                 "license": "MIT",
                 "last_commit": "2026-10-06T02:39:33Z",
-                "open_issues": 22,
+                "open_issues": 24,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2459,
+                "stars": 2462,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2045,7 +2045,7 @@
                 "open_issues": 5,
                 "owner": "lustre-labs",
                 "repo": "ui",
-                "stars": 173,
+                "stars": 174,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4619,7 +4619,7 @@
                 "open_issues": 4,
                 "owner": "lustre-labs",
                 "repo": "ssg",
-                "stars": 107,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4697,11 +4697,11 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T20:37:11Z",
-                "open_issues": 240,
+                "last_commit": "2026-10-11T22:09:10Z",
+                "open_issues": 231,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21986,
+                "stars": 21987,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5065,7 +5065,7 @@
             "open_issues": 131,
             "owner": "sbdchd",
             "repo": "neoformat",
-            "stars": 2050,
+            "stars": 2049,
             "topics": [
               "formatter",
               "neovim",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T05:59:03.705Z",
+    "last_updated": "2026-10-12T06:09:25.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
