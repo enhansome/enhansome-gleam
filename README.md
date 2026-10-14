@@ -184,7 +184,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Formats
 
 * [jot](https://github.com/lpil/jot) ⭐ 65 | 🐛 4 | 🌐 Gleam | 📅 2026-09-29 - [📚](https://hexdocs.pm/jot/) - A parser for Djot, a markdown-like language
-* [tom](https://github.com/lpil/tom) ⭐ 40 | 🐛 5 | 🌐 Gleam | 📅 2026-04-30 - [📚](https://hexdocs.pm/tom/) - A pure Gleam TOML parser!
+* [tom](https://github.com/lpil/tom) ⭐ 41 | 🐛 5 | 🌐 Gleam | 📅 2026-04-30 - [📚](https://hexdocs.pm/tom/) - A pure Gleam TOML parser!
 * [commonmark](https://github.com/mscharley/gleam-commonmark) ⭐ 32 | 🐛 13 | 🌐 Gleam | 📅 2026-10-09 - [📚](https://hexdocs.pm/commonmark/) - CommonMark implementation for Gleam, for the BEAM or JS
 * [cymbal](https://github.com/lpil/cymbal) ⭐ 20 | 🐛 2 | 🌐 Gleam | 📅 2026-03-09 - [📚](https://hexdocs.pm/cymbal/) - Build YAML in Gleam!
 * [xmb](https://github.com/lpil/xmb) ⭐ 12 | 🐛 0 | 🌐 Gleam | 📅 2025-04-06 - [📚](https://hexdocs.pm/xmb/) - A tiny XML builder for Gleam
@@ -258,7 +258,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### JavaScript
 
 * [plinth](https://github.com/Crowdhailer/plinth) ⭐ 119 | 🐛 3 | 🌐 Gleam | 📅 2026-09-24 - [📚](https://hexdocs.pm/plinth/) - Bindings to Node.js and browser platform APIs
-* [gleam\_javascript](https://github.com/gleam-lang/javascript) ⭐ 80 | 🐛 2 | 🌐 Gleam | 📅 2026-07-09 - [📚](https://hexdocs.pm/gleam_javascript/) - Work with JavaScript types and values in Gleam
+* [gleam\_javascript](https://github.com/gleam-lang/javascript) ⭐ 81 | 🐛 2 | 🌐 Gleam | 📅 2026-07-09 - [📚](https://hexdocs.pm/gleam_javascript/) - Work with JavaScript types and values in Gleam
 * [conversation](https://github.com/MystPi/conversation) ⭐ 19 | 🐛 1 | 🌐 Gleam | 📅 2025-06-30 - [📚](https://hexdocs.pm/conversation/) - Gleam bindings for the standard JavaScript Request and Response APIs
 * [javascript\_dom\_parser](https://github.com/lpil/javascript-dom-parser) ⭐ 8 | 🐛 1 | 🌐 Gleam | 📅 2026-08-26 - [📚](https://hexdocs.pm/javascript_dom_parser/) - Bindings to the JavaScript DOMParser API
 
@@ -335,7 +335,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### TUI
 
-* [etch](https://github.com/bananaofhappiness/etch) ⭐ 56 | 🐛 0 | 🌐 Gleam | 📅 2026-10-07 - [📚](https://hexdocs.pm/etch/) - Gleam terminal backend library
+* [etch](https://github.com/bananaofhappiness/etch) ⭐ 57 | 🐛 0 | 🌐 Gleam | 📅 2026-10-07 - [📚](https://hexdocs.pm/etch/) - Gleam terminal backend library
 
 ### Templating
 
@@ -383,7 +383,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Web frameworks
 
-* [wisp](https://github.com/gleam-wisp/wisp) ⭐ 1,492 | 🐛 22 | 🌐 Gleam | 📅 2026-10-07 - [📚](https://hexdocs.pm/wisp/) - A practical web framework for Gleam
+* [wisp](https://github.com/gleam-wisp/wisp) ⭐ 1,491 | 🐛 23 | 🌐 Gleam | 📅 2026-10-07 - [📚](https://hexdocs.pm/wisp/) - A practical web framework for Gleam
 * [glimr](https://github.com/glimr-org/glimr) ⭐ 224 | 🐛 6 | 🌐 Gleam | 📅 2026-04-28 - [📚](https://hexdocs.pm/glimr/) - A batteries-included web framework for Gleam
 * [glen](https://github.com/MystPi/glen) ⭐ 115 | 🐛 2 | 🌐 Gleam | 📅 2025-06-30 - [📚](https://hexdocs.pm/glen/) - A peaceful web framework that targets JS.
 
@@ -399,7 +399,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 Compilers for Gleam and compilers written in Gleam.
 
-* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 21,988 | 🐛 230 | 🌐 Rust | 📅 2026-10-12 - The Gleam compiler.
+* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 21,991 | 🐛 227 | 🌐 Rust | 📅 2026-10-13 - The Gleam compiler.
 * [gleam-lang/example-lisp-interpreter](https://github.com/gleam-lang/example-lisp-interpreter/) ⭐ 51 | 🐛 0 | 🌐 Gleam | 📅 2025-03-27 - A toy Lisp interpreter in Gleam.
 
 ### Web applications
@@ -474,4 +474,4 @@ Websites with Gleam related content.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
