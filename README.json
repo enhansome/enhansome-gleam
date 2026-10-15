@@ -1111,7 +1111,7 @@
                 "open_issues": 14,
                 "owner": "giacomocavalieri",
                 "repo": "squirrel",
-                "stars": 688,
+                "stars": 689,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1449,7 +1449,7 @@
                 "open_issues": 9,
                 "owner": "gleam-lang",
                 "repo": "otp",
-                "stars": 877,
+                "stars": 878,
                 "topics": [
                   "actors",
                   "erlang",
@@ -2024,7 +2024,7 @@
                 "open_issues": 23,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2464,
+                "stars": 2467,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2083,7 +2083,7 @@
                 "id": 781498923,
                 "language": "Gleam",
                 "license": "MIT",
-                "last_commit": "2026-08-20T14:23:52Z",
+                "last_commit": "2026-10-14T12:26:48Z",
                 "open_issues": 8,
                 "owner": "ghivert",
                 "repo": "sketch",
@@ -2893,7 +2893,7 @@
                 "open_issues": 1,
                 "owner": "MystPi",
                 "repo": "conversation",
-                "stars": 19,
+                "stars": 18,
                 "topics": [
                   "bindings",
                   "deno",
@@ -2923,7 +2923,7 @@
                 "open_issues": 1,
                 "owner": "lpil",
                 "repo": "javascript-dom-parser",
-                "stars": 8,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -3916,7 +3916,7 @@
                 "open_issues": 1,
                 "owner": "giacomocavalieri",
                 "repo": "birdie",
-                "stars": 205,
+                "stars": 206,
                 "topics": [
                   "snapshot-testing"
                 ]
@@ -3939,7 +3939,7 @@
                 "open_issues": 14,
                 "owner": "lpil",
                 "repo": "gleeunit",
-                "stars": 49,
+                "stars": 50,
                 "topics": [
                   "eunit",
                   "gleam",
@@ -4697,8 +4697,8 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T14:13:53Z",
-                "open_issues": 227,
+                "last_commit": "2026-10-14T19:19:12Z",
+                "open_issues": 225,
                 "owner": "gleam-lang",
                 "repo": "gleam",
                 "stars": 21991,
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T05:02:26.398Z",
+    "last_updated": "2026-10-15T04:50:57.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
