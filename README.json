@@ -140,7 +140,7 @@
                 "id": 1010169493,
                 "language": "Gleam",
                 "license": "MIT",
-                "last_commit": "2026-10-12T08:56:42Z",
+                "last_commit": "2026-10-15T13:17:18Z",
                 "open_issues": 0,
                 "owner": "fweingartshofer",
                 "repo": "oauth",
@@ -624,6 +624,30 @@
           "children": [
             {
               "node_type": "item",
+              "title": "gleam_crypto",
+              "description": "📚 - A Gleam cryptography library supporting Erlang and JavaScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "⛓️ Crypto functionality for Gleam applications",
+                "homepage": "https://hexdocs.pm/gleam_crypto/",
+                "id": 270802838,
+                "language": "Gleam",
+                "license": "Apache-2.0",
+                "last_commit": "2026-07-24T11:58:28Z",
+                "open_issues": 3,
+                "owner": "gleam-lang",
+                "repo": "crypto",
+                "stars": 60,
+                "topics": [
+                  "cryptography",
+                  "gleam"
+                ]
+              },
+              "first_seen": "2026-08-28T11:31:01.185Z"
+            },
+            {
+              "node_type": "item",
               "title": "ids",
               "description": "📚 - Unique IDs for Gleam",
               "children": [],
@@ -645,30 +669,6 @@
                   "nanoid",
                   "unique",
                   "uuid"
-                ]
-              },
-              "first_seen": "2026-08-28T11:31:01.185Z"
-            },
-            {
-              "node_type": "item",
-              "title": "gleam_crypto",
-              "description": "📚 - A Gleam cryptography library supporting Erlang and JavaScript",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "⛓️ Crypto functionality for Gleam applications",
-                "homepage": "https://hexdocs.pm/gleam_crypto/",
-                "id": 270802838,
-                "language": "Gleam",
-                "license": "Apache-2.0",
-                "last_commit": "2026-07-24T11:58:28Z",
-                "open_issues": 3,
-                "owner": "gleam-lang",
-                "repo": "crypto",
-                "stars": 59,
-                "topics": [
-                  "cryptography",
-                  "gleam"
                 ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1445,7 +1445,7 @@
                 "id": 185173770,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T09:12:29Z",
+                "last_commit": "2026-10-15T19:59:32Z",
                 "open_issues": 9,
                 "owner": "gleam-lang",
                 "repo": "otp",
@@ -1787,8 +1787,8 @@
                 "id": 647597140,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-05T07:11:13Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-16T02:43:04Z",
+                "open_issues": 4,
                 "owner": "bcpeinhardt",
                 "repo": "simplifile",
                 "stars": 145,
@@ -1881,7 +1881,7 @@
                 "language": "Gleam",
                 "license": null,
                 "last_commit": "2026-04-30T10:37:15Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "lpil",
                 "repo": "tom",
                 "stars": 41,
@@ -2024,7 +2024,7 @@
                 "open_issues": 23,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2467,
+                "stars": 2468,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2958,6 +2958,27 @@
             },
             {
               "node_type": "item",
+              "title": "logging",
+              "description": "📚 - Configuration for the Erlang logger",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 758967309,
+                "language": "Erlang",
+                "license": null,
+                "last_commit": "2026-04-03T15:06:14Z",
+                "open_issues": 0,
+                "owner": "lpil",
+                "repo": "logging",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T11:31:01.185Z"
+            },
+            {
+              "node_type": "item",
               "title": "glog",
               "description": "📚 - A Gleam implementation of Erlang logger",
               "children": [],
@@ -2982,27 +3003,6 @@
                   "logger",
                   "logging"
                 ]
-              },
-              "first_seen": "2026-08-28T11:31:01.185Z"
-            },
-            {
-              "node_type": "item",
-              "title": "logging",
-              "description": "📚 - Configuration for the Erlang logger",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 758967309,
-                "language": "Erlang",
-                "license": null,
-                "last_commit": "2026-04-03T15:06:14Z",
-                "open_issues": 0,
-                "owner": "lpil",
-                "repo": "logging",
-                "stars": 11,
-                "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -3846,7 +3846,7 @@
                 "open_issues": 0,
                 "owner": "bananaofhappiness",
                 "repo": "etch",
-                "stars": 57,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -3916,7 +3916,7 @@
                 "open_issues": 1,
                 "owner": "giacomocavalieri",
                 "repo": "birdie",
-                "stars": 206,
+                "stars": 207,
                 "topics": [
                   "snapshot-testing"
                 ]
@@ -3974,6 +3974,31 @@
             },
             {
               "node_type": "item",
+              "title": "unitest",
+              "description": "📚 - A test runner with random ordering, tagging, and CLI filtering",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Gleam test runner with random ordering, tagging, and CLI filtering",
+                "homepage": null,
+                "id": 1132415709,
+                "language": "Gleam",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-09T01:42:51Z",
+                "open_issues": 0,
+                "owner": "jtdowney",
+                "repo": "unitest",
+                "stars": 7,
+                "topics": [
+                  "gleam",
+                  "testing",
+                  "unit-testing"
+                ]
+              },
+              "first_seen": "2026-08-28T11:31:01.185Z"
+            },
+            {
+              "node_type": "item",
               "title": "exercism_test_runner",
               "description": "📚 - A test framework for Gleam exercises on Exercism",
               "children": [],
@@ -3994,31 +4019,6 @@
                   "exercism-test-runner",
                   "exercism-tooling",
                   "maintained"
-                ]
-              },
-              "first_seen": "2026-08-28T11:31:01.185Z"
-            },
-            {
-              "node_type": "item",
-              "title": "unitest",
-              "description": "📚 - A test runner with random ordering, tagging, and CLI filtering",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Gleam test runner with random ordering, tagging, and CLI filtering",
-                "homepage": null,
-                "id": 1132415709,
-                "language": "Gleam",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-09T01:42:51Z",
-                "open_issues": 0,
-                "owner": "jtdowney",
-                "repo": "unitest",
-                "stars": 6,
-                "topics": [
-                  "gleam",
-                  "testing",
-                  "unit-testing"
                 ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4533,8 +4533,8 @@
                 "id": 674791613,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T11:47:33Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-15T20:50:52Z",
+                "open_issues": 21,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
                 "stars": 1491,
@@ -4697,11 +4697,11 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T19:19:12Z",
+                "last_commit": "2026-10-15T21:26:44Z",
                 "open_issues": 225,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21991,
+                "stars": 21992,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -4728,7 +4728,7 @@
                 "open_issues": 0,
                 "owner": "gleam-lang",
                 "repo": "example-lisp-interpreter",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "example",
                   "gleam",
@@ -4760,7 +4760,7 @@
                 "open_issues": 5,
                 "owner": "gleam-lang",
                 "repo": "example-todomvc",
-                "stars": 158,
+                "stars": 159,
                 "topics": [
                   "example-project",
                   "fullstack",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T04:50:57.265Z",
+    "last_updated": "2026-10-16T04:41:22.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
@@ -5315,7 +5315,7 @@
       "open_issues": 29,
       "owner": "gleam-lang",
       "repo": "awesome-gleam",
-      "stars": 2054,
+      "stars": 2055,
       "topics": [
         "awesome-list",
         "gleam",
