@@ -46,7 +46,7 @@
                 "open_issues": 2,
                 "owner": "cyteon",
                 "repo": "discord_gleam",
-                "stars": 52,
+                "stars": 53,
                 "topics": [
                   "discord",
                   "discord-api",
@@ -214,7 +214,7 @@
                 "open_issues": 5,
                 "owner": "inoas",
                 "repo": "glychee",
-                "stars": 21,
+                "stars": 22,
                 "topics": [
                   "benchmarking-utility",
                   "ci-cd",
@@ -240,7 +240,7 @@
                 "open_issues": 5,
                 "owner": "schurhammer",
                 "repo": "gleamy_bench",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -831,7 +831,7 @@
                 "open_issues": 32,
                 "owner": "gleam-lang",
                 "repo": "stdlib",
-                "stars": 709,
+                "stars": 710,
                 "topics": [
                   "gleam",
                   "stdlib",
@@ -1860,7 +1860,7 @@
                 "language": "Gleam",
                 "license": null,
                 "last_commit": "2026-09-29T12:38:34Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "lpil",
                 "repo": "jot",
                 "stars": 65,
@@ -1904,8 +1904,8 @@
                 "id": 807142882,
                 "language": "Gleam",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-09T15:53:57Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-16T15:17:07Z",
+                "open_issues": 14,
                 "owner": "mscharley",
                 "repo": "gleam-commonmark",
                 "stars": 32,
@@ -2024,7 +2024,7 @@
                 "open_issues": 23,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2468,
+                "stars": 2471,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2087,7 +2087,7 @@
                 "open_issues": 8,
                 "owner": "ghivert",
                 "repo": "sketch",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "css",
                   "css-in-js",
@@ -3563,10 +3563,10 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2024-12-19T16:07:33Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "massivefermion",
                 "repo": "blah",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -3624,7 +3624,7 @@
                 "open_issues": 1,
                 "owner": "lpil",
                 "repo": "bucket",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4537,7 +4537,7 @@
                 "open_issues": 21,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
-                "stars": 1491,
+                "stars": 1493,
                 "topics": [
                   "gleam-lang",
                   "web-framework"
@@ -4697,11 +4697,11 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T21:26:44Z",
-                "open_issues": 225,
+                "last_commit": "2026-10-16T17:00:33Z",
+                "open_issues": 224,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21992,
+                "stars": 21993,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5033,7 +5033,7 @@
             "open_issues": 5,
             "owner": "inoas",
             "repo": "glychee",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "benchmarking-utility",
               "ci-cd",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T04:41:22.197Z",
+    "last_updated": "2026-10-17T04:38:53.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
