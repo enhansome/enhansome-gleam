@@ -17,8 +17,8 @@
                 "id": 776031940,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T09:48:24Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-17T12:36:05Z",
+                "open_issues": 1,
                 "owner": "bondiano",
                 "repo": "telega-gleam",
                 "stars": 72,
@@ -240,7 +240,7 @@
                 "open_issues": 5,
                 "owner": "schurhammer",
                 "repo": "gleamy_bench",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -401,7 +401,7 @@
                 "open_issues": 2,
                 "owner": "lpil",
                 "repo": "argv",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1111,7 +1111,7 @@
                 "open_issues": 14,
                 "owner": "giacomocavalieri",
                 "repo": "squirrel",
-                "stars": 689,
+                "stars": 690,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2021,10 +2021,10 @@
                 "language": "Gleam",
                 "license": "MIT",
                 "last_commit": "2026-10-06T02:39:33Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2471,
+                "stars": 2473,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4409,7 +4409,7 @@
                 "open_issues": 0,
                 "owner": "renatillas",
                 "repo": "clockwork",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4698,10 +4698,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T17:00:33Z",
-                "open_issues": 224,
+                "open_issues": 229,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21993,
+                "stars": 21995,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5169,7 +5169,7 @@
             "open_issues": 1,
             "owner": "digitalcora",
             "repo": "sublime-text-gleam",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T11:31:01.185Z"
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T04:38:53.930Z",
+    "last_updated": "2026-10-18T04:44:09.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
