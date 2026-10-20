@@ -17,7 +17,7 @@
                 "id": 776031940,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T04:08:44Z",
+                "last_commit": "2026-10-19T07:07:14Z",
                 "open_issues": 0,
                 "owner": "bondiano",
                 "repo": "telega-gleam",
@@ -1111,7 +1111,7 @@
                 "open_issues": 14,
                 "owner": "giacomocavalieri",
                 "repo": "squirrel",
-                "stars": 690,
+                "stars": 691,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2024,7 +2024,7 @@
                 "open_issues": 24,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2474,
+                "stars": 2475,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2772,10 +2772,10 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-04T16:29:28Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "gleam-lang",
                 "repo": "json",
-                "stars": 148,
+                "stars": 149,
                 "topics": [
                   "gleam",
                   "json"
@@ -4537,7 +4537,7 @@
                 "open_issues": 21,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
-                "stars": 1493,
+                "stars": 1494,
                 "topics": [
                   "gleam-lang",
                   "web-framework"
@@ -4701,7 +4701,7 @@
                 "open_issues": 228,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21996,
+                "stars": 21995,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5091,7 +5091,7 @@
             "open_issues": 9,
             "owner": "gleam-lang",
             "repo": "vscode-gleam",
-            "stars": 234,
+            "stars": 235,
             "topics": [
               "editor-plugin",
               "gleam",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T04:52:19.955Z",
+    "last_updated": "2026-10-20T05:00:10.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
