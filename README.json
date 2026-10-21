@@ -140,7 +140,7 @@
                 "id": 1010169493,
                 "language": "Gleam",
                 "license": "MIT",
-                "last_commit": "2026-10-18T12:28:07Z",
+                "last_commit": "2026-10-20T07:46:54Z",
                 "open_issues": 0,
                 "owner": "fweingartshofer",
                 "repo": "oauth",
@@ -1812,7 +1812,7 @@
                 "open_issues": 2,
                 "owner": "richard-viney",
                 "repo": "file_streams",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2024,7 +2024,7 @@
                 "open_issues": 24,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2475,
+                "stars": 2477,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2701,7 +2701,7 @@
                 "open_issues": 0,
                 "owner": "vshakitskiy",
                 "repo": "ewe",
-                "stars": 133,
+                "stars": 135,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4701,7 +4701,7 @@
                 "open_issues": 228,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21995,
+                "stars": 21998,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T05:00:10.143Z",
+    "last_updated": "2026-10-21T04:59:35.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
