@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "bondiano",
                 "repo": "telega-gleam",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "gleam",
                   "telegram",
@@ -42,8 +42,8 @@
                 "id": 828908735,
                 "language": "Gleam",
                 "license": "MIT",
-                "last_commit": "2026-10-07T17:26:35Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-21T17:30:28Z",
+                "open_issues": 1,
                 "owner": "cyteon",
                 "repo": "discord_gleam",
                 "stars": 53,
@@ -211,7 +211,7 @@
                 "language": "Gleam",
                 "license": "MPL-2.0",
                 "last_commit": "2026-05-23T22:49:36Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "inoas",
                 "repo": "glychee",
                 "stars": 22,
@@ -2111,7 +2111,7 @@
                 "language": "Gleam",
                 "license": null,
                 "last_commit": "2026-10-01T12:54:58Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ghivert",
                 "repo": "redraw",
                 "stars": 75,
@@ -2239,7 +2239,7 @@
                 "open_issues": 3,
                 "owner": "lpil",
                 "repo": "glance",
-                "stars": 82,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2698,7 +2698,7 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T13:17:31Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "vshakitskiy",
                 "repo": "ewe",
                 "stars": 135,
@@ -4067,7 +4067,7 @@
                 "open_issues": 3,
                 "owner": "lpil",
                 "repo": "glance",
-                "stars": 82,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4701,7 +4701,7 @@
                 "open_issues": 228,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21998,
+                "stars": 21996,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5030,7 +5030,7 @@
             "language": "Gleam",
             "license": "MPL-2.0",
             "last_commit": "2026-05-23T22:49:36Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "inoas",
             "repo": "glychee",
             "stars": 22,
@@ -5087,8 +5087,8 @@
             "id": 181766715,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T10:37:28Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-21T18:52:50Z",
+            "open_issues": 10,
             "owner": "gleam-lang",
             "repo": "vscode-gleam",
             "stars": 235,
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T04:59:35.995Z",
+    "last_updated": "2026-10-22T05:01:22.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
