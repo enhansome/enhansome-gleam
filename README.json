@@ -2024,7 +2024,7 @@
                 "open_issues": 24,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2477,
+                "stars": 2480,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2697,8 +2697,8 @@
                 "id": 1039589169,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T13:17:31Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-22T07:57:08Z",
+                "open_issues": 0,
                 "owner": "vshakitskiy",
                 "repo": "ewe",
                 "stars": 135,
@@ -4698,10 +4698,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T17:00:33Z",
-                "open_issues": 228,
+                "open_issues": 231,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 21996,
+                "stars": 21997,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5140,8 +5140,8 @@
             "id": 179920806,
             "language": "Emacs Lisp",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T11:58:54Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-22T21:05:50Z",
+            "open_issues": 5,
             "owner": "gleam-lang",
             "repo": "gleam-mode",
             "stars": 121,
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T05:01:22.320Z",
+    "last_updated": "2026-10-23T05:01:59.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
