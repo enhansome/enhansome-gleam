@@ -251,7 +251,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### JSON
 
-* [gleam\_json](https://github.com/gleam-lang/json) ⭐ 149 | 🐛 5 | 🌐 Gleam | 📅 2026-05-04 - [📚](https://hexdocs.pm/gleam_json/) - Work with JSON in Gleam
+* [gleam\_json](https://github.com/gleam-lang/json) ⭐ 149 | 🐛 7 | 🌐 Gleam | 📅 2026-05-04 - [📚](https://hexdocs.pm/gleam_json/) - Work with JSON in Gleam
 * [json\_typedef](https://github.com/lpil/json-typedef) ⭐ 50 | 🐛 3 | 🌐 Gleam | 📅 2026-04-19 - [📚](https://hexdocs.pm/json_typedef/) - Work with JSON using a schema! RFC8927
 * [squirtle](https://github.com/alii/squirtle) ⭐ 11 | 🐛 0 | 🌐 Gleam | 📅 2026-07-29 - [📚](https://hexdocs.pm/squirtle/) - A JSON Patch (RFC 6902) implementation in Gleam
 
@@ -370,7 +370,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Time
 
 * [birl](https://github.com/massivefermion/birl) ⭐ 86 | 🐛 11 | 🌐 Gleam | 📅 2026-02-23 - [📚](https://hexdocs.pm/birl/) - Date / Time handling for Gleam
-* [gleam\_time](https://github.com/gleam-lang/time) ⭐ 70 | 🐛 3 | 🌐 Gleam | 📅 2026-09-19 - [📚](https://hexdocs.pm/gleam_time/) - Work with time in Gleam!
+* [gleam\_time](https://github.com/gleam-lang/time) ⭐ 70 | 🐛 5 | 🌐 Gleam | 📅 2026-10-25 - [📚](https://hexdocs.pm/gleam_time/) - Work with time in Gleam!
 * [gtempo](https://github.com/jrstrunk/tempo) ⭐ 52 | 🐛 0 | 🌐 Gleam | 📅 2026-07-29 - [📚](https://hexdocs.pm/gtempo/) - A lightweight and Gleamy datetime library!
 * [Clockwork](https://github.com/renatillas/clockwork) ⭐ 24 | 🐛 0 | 🌐 Gleam | 📅 2025-10-18 - [📚](https://hexdocs.pm/Clockwork/) - A cron expression parser library for Gleam
 * [rada](https://github.com/michaeljones/rada) ⭐ 16 | 🐛 0 | 🌐 Gleam | 📅 2025-12-16 - [📚](https://hexdocs.pm/rada/) - A library for dates with no times or time zones
@@ -389,8 +389,8 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Websites
 
+* [blogatto](https://github.com/veeso/blogatto) ⭐ 108 | 🐛 2 | 🌐 Gleam | 📅 2026-09-18 - [📚](https://hexdocs.pm/blogatto/) - A framework for building static blogs with Lustre and Markdown
 * [lustre\_ssg](https://github.com/lustre-labs/ssg) ⭐ 108 | 🐛 4 | 🌐 Gleam | 📅 2026-01-05 - [📚](https://hexdocs.pm/lustre_ssg/) - A simple static site generator for Lustre projects.
-* [blogatto](https://github.com/veeso/blogatto) ⭐ 107 | 🐛 2 | 🌐 Gleam | 📅 2026-09-18 - [📚](https://hexdocs.pm/blogatto/) - A framework for building static blogs with Lustre and Markdown
 * [atomb](https://github.com/lpil/atomb) ⭐ 16 | 🐛 0 | 🌐 Gleam | 📅 2025-04-07 - [📚](https://hexdocs.pm/atomb/) - An Atom feed builder for Gleam
 
 ## Projects
@@ -399,7 +399,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 Compilers for Gleam and compilers written in Gleam.
 
-* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 22,005 | 🐛 233 | 🌐 Rust | 📅 2026-10-24 - The Gleam compiler.
+* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 22,005 | 🐛 234 | 🌐 Rust | 📅 2026-10-24 - The Gleam compiler.
 * [gleam-lang/example-lisp-interpreter](https://github.com/gleam-lang/example-lisp-interpreter/) ⭐ 52 | 🐛 0 | 🌐 Gleam | 📅 2025-03-27 - A toy Lisp interpreter in Gleam.
 
 ### Web applications
@@ -430,7 +430,7 @@ Network applications/servers written in Gleam
 ## Editor support
 
 * [sbdchd/neoformat](https://github.com/sbdchd/neoformat) ⭐ 2,049 | 🐛 131 | 🌐 Vim Script | 📅 2026-04-13 - A Vim/Neovim plugin for formatting code with support for `gleam format`.
-* [gleam-lang/vscode-gleam](https://github.com/gleam-lang/vscode-gleam) ⭐ 235 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-24 - Gleam support for VS Code.
+* [gleam-lang/vscode-gleam](https://github.com/gleam-lang/vscode-gleam) ⭐ 235 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-25 - Gleam support for VS Code.
 * [gleam-lang/gleam.vim](https://github.com/gleam-lang/gleam.vim) ⚠️ Archived - Gleam support for Vim/Neovim.
 * [gleam-lang/gleam-mode](https://github.com/gleam-lang/gleam-mode) ⭐ 120 | 🐛 5 | 🌐 Emacs Lisp | 📅 2026-10-23 - An emacs major mode for the Gleam programming language.
 * [digitalcora/sublime-text-gleam](https://github.com/digitalcora/sublime-text-gleam) ⭐ 20 | 🐛 1 | 🌐 Gleam | 📅 2026-07-25 - Gleam support for Sublime Text.
@@ -474,4 +474,4 @@ Websites with Gleam related content.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._

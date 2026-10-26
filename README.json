@@ -2772,7 +2772,7 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-04T16:29:28Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "gleam-lang",
                 "repo": "json",
                 "stars": 149,
@@ -4363,8 +4363,8 @@
                 "id": 907355619,
                 "language": "Gleam",
                 "license": null,
-                "last_commit": "2026-09-19T13:58:28Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-25T16:54:22Z",
+                "open_issues": 5,
                 "owner": "gleam-lang",
                 "repo": "time",
                 "stars": 70,
@@ -4605,6 +4605,33 @@
           "children": [
             {
               "node_type": "item",
+              "title": "blogatto",
+              "description": "📚 - A framework for building static blogs with Lustre and Markdown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Gleam framework for building static blogs with Lustre and Markdown or Djot. Generates HTML pages, RSS/Atom feeds, sitemaps, and robots.txt from markdown files with frontmatter, with multilingual support.",
+                "homepage": "https://blogat.to",
+                "id": 1164173013,
+                "language": "Gleam",
+                "license": "MIT",
+                "last_commit": "2026-09-18T12:25:08Z",
+                "open_issues": 2,
+                "owner": "veeso",
+                "repo": "blogatto",
+                "stars": 108,
+                "topics": [
+                  "blog",
+                  "blog-engine",
+                  "gleam",
+                  "gleam-blog",
+                  "gleam-lang"
+                ]
+              },
+              "first_seen": "2026-08-28T11:31:01.185Z"
+            },
+            {
+              "node_type": "item",
               "title": "lustre_ssg",
               "description": "📚 - A simple static site generator for Lustre projects.",
               "children": [],
@@ -4621,33 +4648,6 @@
                 "repo": "ssg",
                 "stars": 108,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T11:31:01.185Z"
-            },
-            {
-              "node_type": "item",
-              "title": "blogatto",
-              "description": "📚 - A framework for building static blogs with Lustre and Markdown",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Gleam framework for building static blogs with Lustre and Markdown or Djot. Generates HTML pages, RSS/Atom feeds, sitemaps, and robots.txt from markdown files with frontmatter, with multilingual support.",
-                "homepage": "https://blogat.to",
-                "id": 1164173013,
-                "language": "Gleam",
-                "license": "MIT",
-                "last_commit": "2026-09-18T12:25:08Z",
-                "open_issues": 2,
-                "owner": "veeso",
-                "repo": "blogatto",
-                "stars": 107,
-                "topics": [
-                  "blog",
-                  "blog-engine",
-                  "gleam",
-                  "gleam-blog",
-                  "gleam-lang"
-                ]
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
             },
@@ -4698,7 +4698,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-24T11:15:18Z",
-                "open_issues": 233,
+                "open_issues": 234,
                 "owner": "gleam-lang",
                 "repo": "gleam",
                 "stars": 22005,
@@ -5087,8 +5087,8 @@
             "id": 181766715,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T11:58:08Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-25T09:53:43Z",
+            "open_issues": 7,
             "owner": "gleam-lang",
             "repo": "vscode-gleam",
             "stars": 235,
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T04:54:22.620Z",
+    "last_updated": "2026-10-26T04:57:58.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
@@ -5315,7 +5315,7 @@
       "open_issues": 29,
       "owner": "gleam-lang",
       "repo": "awesome-gleam",
-      "stars": 2053,
+      "stars": 2054,
       "topics": [
         "awesome-list",
         "gleam",
