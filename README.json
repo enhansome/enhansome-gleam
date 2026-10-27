@@ -523,7 +523,7 @@
                 "open_issues": 0,
                 "owner": "lpil",
                 "repo": "envoy",
-                "stars": 57,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1449,7 +1449,7 @@
                 "open_issues": 10,
                 "owner": "gleam-lang",
                 "repo": "otp",
-                "stars": 878,
+                "stars": 879,
                 "topics": [
                   "actors",
                   "erlang",
@@ -2024,7 +2024,7 @@
                 "open_issues": 24,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2481,
+                "stars": 2487,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4701,7 +4701,7 @@
                 "open_issues": 234,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 22005,
+                "stars": 22009,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T04:57:58.393Z",
+    "last_updated": "2026-10-27T05:15:45.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",

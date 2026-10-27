@@ -100,7 +100,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Configuration
 
-* [envoy](https://github.com/lpil/envoy) ⭐ 57 | 🐛 0 | 🌐 Gleam | 📅 2026-04-18 - [📚](https://hexdocs.pm/envoy/) - A zero dependency cross platform Gleam package for reading environment variables
+* [envoy](https://github.com/lpil/envoy) ⭐ 58 | 🐛 0 | 🌐 Gleam | 📅 2026-04-18 - [📚](https://hexdocs.pm/envoy/) - A zero dependency cross platform Gleam package for reading environment variables
 * [dot\_env](https://github.com/aosasona/dotenv) ⭐ 41 | 🐛 3 | 🌐 Gleam | 📅 2026-09-18 - [📚](https://hexdocs.pm/dot_env/) - Load environment variables from files
 * [glenvy](https://github.com/maxdeviant/glenvy) ⭐ 23 | 🐛 0 | 🌐 Gleam | 📅 2025-07-30 - [📚](https://hexdocs.pm/glenvy/) - A pleasant way to interact with your environment.
 * [dotenv\_gleam](https://github.com/Grubba27/dotenv_gleam) ⭐ 14 | 🐛 3 | 🌐 Gleam | 📅 2025-10-13 - [📚](https://hexdocs.pm/dotenv_gleam/) - dotenv for Gleam
@@ -155,7 +155,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Erlang and OTP
 
-* [gleam\_otp](https://github.com/gleam-lang/otp) ⭐ 878 | 🐛 10 | 🌐 Gleam | 📅 2026-10-15 - [📚](https://hexdocs.pm/gleam_otp/) - Fault tolerant multicore Gleam programs with OTP
+* [gleam\_otp](https://github.com/gleam-lang/otp) ⭐ 879 | 🐛 10 | 🌐 Gleam | 📅 2026-10-15 - [📚](https://hexdocs.pm/gleam_otp/) - Fault tolerant multicore Gleam programs with OTP
 * [gleam\_erlang](https://github.com/gleam-lang/erlang) ⭐ 135 | 🐛 10 | 🌐 Gleam | 📅 2026-07-22 - [📚](https://hexdocs.pm/gleam_erlang/) - A Gleam library for working with Erlang
 * [spectator](https://github.com/JonasGruenwald/spectator) ⭐ 99 | 🐛 4 | 🌐 Gleam | 📅 2026-04-21 - [📚](https://hexdocs.pm/spectator/) - A BEAM runtime observer tool
 * [barnacle](https://github.com/Pevensie/barnacle) ⭐ 61 | 🐛 1 | 🌐 Gleam | 📅 2025-06-14 - [📚](https://hexdocs.pm/barnacle/) - Self-healing clusters for Gleam applications on the BEAM
@@ -195,7 +195,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Frontend
 
-* [lustre](https://github.com/lustre-labs/lustre) ⭐ 2,481 | 🐛 24 | 🌐 Gleam | 📅 2026-10-06 - [📚](https://hexdocs.pm/lustre/) - An Elm-inspired framework for building web apps in Gleam!
+* [lustre](https://github.com/lustre-labs/lustre) ⭐ 2,487 | 🐛 24 | 🌐 Gleam | 📅 2026-10-06 - [📚](https://hexdocs.pm/lustre/) - An Elm-inspired framework for building web apps in Gleam!
 * [lustre\_ui](https://github.com/lustre-labs/lustre_ui) ⭐ 174 | 🐛 5 | 🌐 Gleam | 📅 2026-05-26 - [📚](https://hexdocs.pm/lustre_ui/) - A collection of components and design tokens for building Lustre apps.
 * [tiramisu](https://github.com/renatillas/tiramisu) ⚠️ Archived - [📚](https://hexdocs.pm/tiramisu/) - A type-safe 3D game engine for Gleam
 * [sketch](https://github.com/ghivert/sketch) ⭐ 86 | 🐛 8 | 🌐 Gleam | 📅 2026-10-14 - [📚](https://hexdocs.pm/sketch/) - A CSS-in-Gleam package, made to work with frontend, and directly with lustre!
@@ -399,7 +399,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 Compilers for Gleam and compilers written in Gleam.
 
-* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 22,005 | 🐛 234 | 🌐 Rust | 📅 2026-10-24 - The Gleam compiler.
+* [gleam-lang/gleam](https://github.com/gleam-lang/gleam) ⭐ 22,009 | 🐛 234 | 🌐 Rust | 📅 2026-10-24 - The Gleam compiler.
 * [gleam-lang/example-lisp-interpreter](https://github.com/gleam-lang/example-lisp-interpreter/) ⭐ 52 | 🐛 0 | 🌐 Gleam | 📅 2025-03-27 - A toy Lisp interpreter in Gleam.
 
 ### Web applications
@@ -474,4 +474,4 @@ Websites with Gleam related content.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
