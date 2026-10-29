@@ -140,7 +140,7 @@
                 "id": 1010169493,
                 "language": "Gleam",
                 "license": "MIT",
-                "last_commit": "2026-10-20T07:46:54Z",
+                "last_commit": "2026-10-28T08:49:31Z",
                 "open_issues": 0,
                 "owner": "fweingartshofer",
                 "repo": "oauth",
@@ -1475,7 +1475,7 @@
                 "open_issues": 10,
                 "owner": "gleam-lang",
                 "repo": "erlang",
-                "stars": 135,
+                "stars": 136,
                 "topics": [
                   "beam",
                   "erlang",
@@ -1787,11 +1787,11 @@
                 "id": 647597140,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T02:43:04Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-28T19:14:37Z",
+                "open_issues": 3,
                 "owner": "bcpeinhardt",
                 "repo": "simplifile",
-                "stars": 145,
+                "stars": 146,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2024,7 +2024,7 @@
                 "open_issues": 24,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2487,
+                "stars": 2488,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2045,7 +2045,7 @@
                 "open_issues": 5,
                 "owner": "lustre-labs",
                 "repo": "ui",
-                "stars": 174,
+                "stars": 175,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2306,7 +2306,7 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-14T11:58:23Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "gleam-lang",
                 "repo": "package-interface",
                 "stars": 12,
@@ -2698,10 +2698,10 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T11:08:25Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "vshakitskiy",
                 "repo": "ewe",
-                "stars": 135,
+                "stars": 136,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4698,10 +4698,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-27T16:25:47Z",
-                "open_issues": 233,
+                "open_issues": 238,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 22012,
+                "stars": 22011,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T05:54:23.452Z",
+    "last_updated": "2026-10-29T05:58:43.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
@@ -5315,7 +5315,7 @@
       "open_issues": 29,
       "owner": "gleam-lang",
       "repo": "awesome-gleam",
-      "stars": 2054,
+      "stars": 2053,
       "topics": [
         "awesome-list",
         "gleam",
