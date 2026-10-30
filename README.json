@@ -1179,7 +1179,7 @@
                 "open_issues": 7,
                 "owner": "lpil",
                 "repo": "sqlight",
-                "stars": 159,
+                "stars": 160,
                 "topics": [
                   "database-client",
                   "gleam",
@@ -1860,7 +1860,7 @@
                 "language": "Gleam",
                 "license": null,
                 "last_commit": "2026-09-29T12:38:34Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "lpil",
                 "repo": "jot",
                 "stars": 65,
@@ -2020,11 +2020,11 @@
                 "id": 457999787,
                 "language": "Gleam",
                 "license": "MIT",
-                "last_commit": "2026-10-06T02:39:33Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-29T23:02:53Z",
+                "open_issues": 22,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2488,
+                "stars": 2490,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2087,7 +2087,7 @@
                 "open_issues": 8,
                 "owner": "ghivert",
                 "repo": "sketch",
-                "stars": 86,
+                "stars": 87,
                 "topics": [
                   "css",
                   "css-in-js",
@@ -4582,7 +4582,7 @@
                 "open_issues": 2,
                 "owner": "MystPi",
                 "repo": "glen",
-                "stars": 115,
+                "stars": 114,
                 "topics": [
                   "cloudflare-workers",
                   "deno",
@@ -4616,7 +4616,7 @@
                 "language": "Gleam",
                 "license": "MIT",
                 "last_commit": "2026-09-18T12:25:08Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "veeso",
                 "repo": "blogatto",
                 "stars": 108,
@@ -4697,8 +4697,8 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T16:25:47Z",
-                "open_issues": 238,
+                "last_commit": "2026-10-29T20:48:52Z",
+                "open_issues": 226,
                 "owner": "gleam-lang",
                 "repo": "gleam",
                 "stars": 22011,
@@ -5260,7 +5260,7 @@
                 "language": "Gleam",
                 "license": "MIT",
                 "last_commit": "2026-09-22T18:00:57Z",
-                "open_issues": 30,
+                "open_issues": 42,
                 "owner": "exercism",
                 "repo": "gleam",
                 "stars": 119,
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T05:58:43.859Z",
+    "last_updated": "2026-10-30T05:59:39.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
@@ -5315,7 +5315,7 @@
       "open_issues": 29,
       "owner": "gleam-lang",
       "repo": "awesome-gleam",
-      "stars": 2053,
+      "stars": 2052,
       "topics": [
         "awesome-list",
         "gleam",
