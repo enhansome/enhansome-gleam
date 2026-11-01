@@ -2024,7 +2024,7 @@
                 "open_issues": 19,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2490,
+                "stars": 2492,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2110,7 +2110,7 @@
                 "id": 829451065,
                 "language": "Gleam",
                 "license": null,
-                "last_commit": "2026-10-01T12:54:58Z",
+                "last_commit": "2026-10-31T09:33:50Z",
                 "open_issues": 1,
                 "owner": "ghivert",
                 "repo": "redraw",
@@ -2239,7 +2239,7 @@
                 "open_issues": 3,
                 "owner": "lpil",
                 "repo": "glance",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2472,7 +2472,7 @@
                 "open_issues": 0,
                 "owner": "giacomocavalieri",
                 "repo": "houdini",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4009,7 +4009,7 @@
                 "id": 562626724,
                 "language": "Gleam",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-09T04:20:13Z",
+                "last_commit": "2026-11-01T02:18:52Z",
                 "open_issues": 9,
                 "owner": "exercism",
                 "repo": "gleam-test-runner",
@@ -4067,7 +4067,7 @@
                 "open_issues": 3,
                 "owner": "lpil",
                 "repo": "glance",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4367,7 +4367,7 @@
                 "open_issues": 5,
                 "owner": "gleam-lang",
                 "repo": "time",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4615,8 +4615,8 @@
                 "id": 1164173013,
                 "language": "Gleam",
                 "license": "MIT",
-                "last_commit": "2026-09-18T12:25:08Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-31T11:02:48Z",
+                "open_issues": 2,
                 "owner": "veeso",
                 "repo": "blogatto",
                 "stars": 108,
@@ -4697,11 +4697,11 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T20:48:52Z",
-                "open_issues": 227,
+                "last_commit": "2026-11-01T02:48:11Z",
+                "open_issues": 237,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 22013,
+                "stars": 22012,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T05:55:22.976Z",
+    "last_updated": "2026-11-01T06:22:51.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
