@@ -422,7 +422,7 @@
                 "open_issues": 1,
                 "owner": "gleam-community",
                 "repo": "ansi",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -827,8 +827,8 @@
                 "id": 217914849,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T17:04:40Z",
-                "open_issues": 38,
+                "last_commit": "2026-11-03T12:56:41Z",
+                "open_issues": 36,
                 "owner": "gleam-lang",
                 "repo": "stdlib",
                 "stars": 712,
@@ -2024,7 +2024,7 @@
                 "open_issues": 18,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2494,
+                "stars": 2496,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2110,8 +2110,8 @@
                 "id": 829451065,
                 "language": "Gleam",
                 "license": null,
-                "last_commit": "2026-10-31T09:33:50Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-03T14:20:42Z",
+                "open_issues": 0,
                 "owner": "ghivert",
                 "repo": "redraw",
                 "stars": 75,
@@ -4009,7 +4009,7 @@
                 "id": 562626724,
                 "language": "Gleam",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-01T02:18:52Z",
+                "last_commit": "2026-11-03T18:06:20Z",
                 "open_issues": 9,
                 "owner": "exercism",
                 "repo": "gleam-test-runner",
@@ -4364,7 +4364,7 @@
                 "language": "Gleam",
                 "license": null,
                 "last_commit": "2026-10-25T16:54:22Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "gleam-lang",
                 "repo": "time",
                 "stars": 71,
@@ -4533,8 +4533,8 @@
                 "id": 674791613,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T20:50:52Z",
-                "open_issues": 22,
+                "last_commit": "2026-11-03T12:55:14Z",
+                "open_issues": 20,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
                 "stars": 1498,
@@ -4561,7 +4561,7 @@
                 "open_issues": 5,
                 "owner": "glimr-org",
                 "repo": "glimr",
-                "stars": 224,
+                "stars": 226,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4697,11 +4697,11 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T02:48:11Z",
-                "open_issues": 242,
+                "last_commit": "2026-11-03T13:35:59Z",
+                "open_issues": 225,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 22018,
+                "stars": 22019,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5065,7 +5065,7 @@
             "open_issues": 131,
             "owner": "sbdchd",
             "repo": "neoformat",
-            "stars": 2049,
+            "stars": 2048,
             "topics": [
               "formatter",
               "neovim",
@@ -5263,7 +5263,7 @@
                 "open_issues": 41,
                 "owner": "exercism",
                 "repo": "gleam",
-                "stars": 119,
+                "stars": 118,
                 "topics": [
                   "community-contributions-accepted",
                   "exercism-track",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T06:58:11.091Z",
+    "last_updated": "2026-11-04T06:39:52.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
@@ -5315,7 +5315,7 @@
       "open_issues": 29,
       "owner": "gleam-lang",
       "repo": "awesome-gleam",
-      "stars": 2054,
+      "stars": 2053,
       "topics": [
         "awesome-list",
         "gleam",
