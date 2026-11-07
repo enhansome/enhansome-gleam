@@ -43,7 +43,7 @@
                 "language": "Gleam",
                 "license": "MIT",
                 "last_commit": "2026-10-24T10:02:05Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "cyteon",
                 "repo": "discord_gleam",
                 "stars": 53,
@@ -1154,7 +1154,7 @@
                 "id": 903411615,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T20:41:51Z",
+                "last_commit": "2026-11-06T15:48:29Z",
                 "open_issues": 9,
                 "owner": "daniellionel01",
                 "repo": "parrot",
@@ -2024,7 +2024,7 @@
                 "open_issues": 18,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2498,
+                "stars": 2500,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2087,7 +2087,7 @@
                 "open_issues": 10,
                 "owner": "ghivert",
                 "repo": "sketch",
-                "stars": 87,
+                "stars": 88,
                 "topics": [
                   "css",
                   "css-in-js",
@@ -4697,11 +4697,11 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T18:19:36Z",
-                "open_issues": 231,
+                "last_commit": "2026-11-06T23:08:37Z",
+                "open_issues": 227,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 22026,
+                "stars": 22030,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5259,8 +5259,8 @@
                 "id": 197268623,
                 "language": "Gleam",
                 "license": "MIT",
-                "last_commit": "2026-11-05T18:41:49Z",
-                "open_issues": 39,
+                "last_commit": "2026-11-06T23:11:36Z",
+                "open_issues": 30,
                 "owner": "exercism",
                 "repo": "gleam",
                 "stars": 118,
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T06:58:39.004Z",
+    "last_updated": "2026-11-07T06:11:54.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
