@@ -43,7 +43,7 @@
                 "language": "Gleam",
                 "license": "MIT",
                 "last_commit": "2026-10-24T10:02:05Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "cyteon",
                 "repo": "discord_gleam",
                 "stars": 53,
@@ -2024,7 +2024,7 @@
                 "open_issues": 18,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2500,
+                "stars": 2503,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -3916,7 +3916,7 @@
                 "open_issues": 1,
                 "owner": "giacomocavalieri",
                 "repo": "birdie",
-                "stars": 207,
+                "stars": 208,
                 "topics": [
                   "snapshot-testing"
                 ]
@@ -4009,8 +4009,8 @@
                 "id": 562626724,
                 "language": "Gleam",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-03T18:06:20Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-07T18:34:39Z",
+                "open_issues": 8,
                 "owner": "exercism",
                 "repo": "gleam-test-runner",
                 "stars": 6,
@@ -4537,7 +4537,7 @@
                 "open_issues": 20,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
-                "stars": 1498,
+                "stars": 1499,
                 "topics": [
                   "gleam-lang",
                   "web-framework"
@@ -4697,8 +4697,8 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T23:08:37Z",
-                "open_issues": 227,
+                "last_commit": "2026-11-07T18:36:17Z",
+                "open_issues": 225,
                 "owner": "gleam-lang",
                 "repo": "gleam",
                 "stars": 22030,
@@ -5259,7 +5259,7 @@
                 "id": 197268623,
                 "language": "Gleam",
                 "license": "MIT",
-                "last_commit": "2026-11-06T23:11:36Z",
+                "last_commit": "2026-11-07T08:49:49Z",
                 "open_issues": 30,
                 "owner": "exercism",
                 "repo": "gleam",
@@ -5288,7 +5288,7 @@
                 "open_issues": 10,
                 "owner": "TanklesXL",
                 "repo": "gladvent",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T06:11:54.974Z",
+    "last_updated": "2026-11-08T06:16:55.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
