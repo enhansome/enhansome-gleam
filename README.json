@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "bondiano",
                 "repo": "telega-gleam",
-                "stars": 73,
+                "stars": 74,
                 "topics": [
                   "gleam",
                   "telegram",
@@ -827,8 +827,8 @@
                 "id": 217914849,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T12:25:57Z",
-                "open_issues": 37,
+                "last_commit": "2026-11-09T14:55:22Z",
+                "open_issues": 34,
                 "owner": "gleam-lang",
                 "repo": "stdlib",
                 "stars": 713,
@@ -1111,7 +1111,7 @@
                 "open_issues": 13,
                 "owner": "giacomocavalieri",
                 "repo": "squirrel",
-                "stars": 695,
+                "stars": 696,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1154,7 +1154,7 @@
                 "id": 903411615,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T15:48:29Z",
+                "last_commit": "2026-11-09T16:02:05Z",
                 "open_issues": 9,
                 "owner": "daniellionel01",
                 "repo": "parrot",
@@ -2024,7 +2024,7 @@
                 "open_issues": 18,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2503,
+                "stars": 2504,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4619,7 +4619,7 @@
                 "open_issues": 2,
                 "owner": "veeso",
                 "repo": "blogatto",
-                "stars": 108,
+                "stars": 109,
                 "topics": [
                   "blog",
                   "blog-engine",
@@ -4701,7 +4701,7 @@
                 "open_issues": 227,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 22031,
+                "stars": 22037,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T06:49:58.854Z",
+    "last_updated": "2026-11-10T07:28:44.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
@@ -5315,7 +5315,7 @@
       "open_issues": 29,
       "owner": "gleam-lang",
       "repo": "awesome-gleam",
-      "stars": 2054,
+      "stars": 2055,
       "topics": [
         "awesome-list",
         "gleam",
