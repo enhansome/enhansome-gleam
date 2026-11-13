@@ -727,11 +727,11 @@
                 "id": 1126745709,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T15:11:43Z",
+                "last_commit": "2026-11-12T19:36:53Z",
                 "open_issues": 1,
                 "owner": "jtdowney",
                 "repo": "kryptos",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "cryptography",
                   "gleam",
@@ -773,7 +773,7 @@
                 "id": 1195529560,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T01:37:48Z",
+                "last_commit": "2026-11-12T19:37:14Z",
                 "open_issues": 0,
                 "owner": "jtdowney",
                 "repo": "acumen",
@@ -831,7 +831,7 @@
                 "open_issues": 32,
                 "owner": "gleam-lang",
                 "repo": "stdlib",
-                "stars": 714,
+                "stars": 715,
                 "topics": [
                   "gleam",
                   "stdlib",
@@ -1111,7 +1111,7 @@
                 "open_issues": 13,
                 "owner": "giacomocavalieri",
                 "repo": "squirrel",
-                "stars": 696,
+                "stars": 697,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1204,7 +1204,7 @@
                 "open_issues": 2,
                 "owner": "inoas",
                 "repo": "gleam-cake",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "dynamic",
                   "gleam-language",
@@ -2024,7 +2024,7 @@
                 "open_issues": 13,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2505,
+                "stars": 2507,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -3814,7 +3814,7 @@
                 "id": 1172223963,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T01:38:10Z",
+                "last_commit": "2026-11-12T19:37:23Z",
                 "open_issues": 0,
                 "owner": "jtdowney",
                 "repo": "thirtytwo",
@@ -3984,7 +3984,7 @@
                 "id": 1132415709,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T01:42:51Z",
+                "last_commit": "2026-11-12T19:37:03Z",
                 "open_issues": 0,
                 "owner": "jtdowney",
                 "repo": "unitest",
@@ -4698,10 +4698,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-11T14:18:47Z",
-                "open_issues": 231,
+                "open_issues": 232,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 22051,
+                "stars": 22056,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T07:23:40.577Z",
+    "last_updated": "2026-11-13T06:56:01.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
@@ -5315,7 +5315,7 @@
       "open_issues": 29,
       "owner": "gleam-lang",
       "repo": "awesome-gleam",
-      "stars": 2056,
+      "stars": 2057,
       "topics": [
         "awesome-list",
         "gleam",
