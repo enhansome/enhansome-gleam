@@ -1449,7 +1449,7 @@
                 "open_issues": 10,
                 "owner": "gleam-lang",
                 "repo": "otp",
-                "stars": 881,
+                "stars": 882,
                 "topics": [
                   "actors",
                   "erlang",
@@ -2602,7 +2602,7 @@
                 "open_issues": 15,
                 "owner": "gleam-lang",
                 "repo": "httpc",
-                "stars": 174,
+                "stars": 173,
                 "topics": [
                   "erlang",
                   "gleam",
@@ -2677,7 +2677,7 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-04-18T13:28:10Z",
-                "open_issues": 13,
+                "open_issues": 15,
                 "owner": "rawhat",
                 "repo": "mist",
                 "stars": 529,
@@ -2869,7 +2869,7 @@
                 "open_issues": 2,
                 "owner": "gleam-lang",
                 "repo": "javascript",
-                "stars": 81,
+                "stars": 80,
                 "topics": [
                   "gleam",
                   "javascript"
@@ -3136,7 +3136,7 @@
                 "open_issues": 13,
                 "owner": "rawhat",
                 "repo": "glisten",
-                "stars": 99,
+                "stars": 100,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -3493,7 +3493,7 @@
                 "open_issues": 0,
                 "owner": "renatillas",
                 "repo": "carotte",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4698,10 +4698,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-11T14:18:47Z",
-                "open_issues": 238,
+                "open_issues": 237,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 22060,
+                "stars": 22065,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5091,7 +5091,7 @@
             "open_issues": 7,
             "owner": "gleam-lang",
             "repo": "vscode-gleam",
-            "stars": 236,
+            "stars": 235,
             "topics": [
               "editor-plugin",
               "gleam",
@@ -5118,7 +5118,7 @@
             "open_issues": 1,
             "owner": "gleam-lang",
             "repo": "gleam.vim",
-            "stars": 121,
+            "stars": 120,
             "topics": [
               "editor-plugin",
               "gleam",
@@ -5144,7 +5144,7 @@
             "open_issues": 5,
             "owner": "gleam-lang",
             "repo": "gleam-mode",
-            "stars": 120,
+            "stars": 118,
             "topics": [
               "editor-plugin",
               "emacs",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T06:42:00.294Z",
+    "last_updated": "2026-11-15T06:47:08.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
