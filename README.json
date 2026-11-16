@@ -1155,7 +1155,7 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-13T15:27:08Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "daniellionel01",
                 "repo": "parrot",
                 "stars": 216,
@@ -2024,7 +2024,7 @@
                 "open_issues": 13,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2506,
+                "stars": 2507,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2701,7 +2701,7 @@
                 "open_issues": 2,
                 "owner": "vshakitskiy",
                 "repo": "ewe",
-                "stars": 137,
+                "stars": 138,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4701,7 +4701,7 @@
                 "open_issues": 237,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 22065,
+                "stars": 22069,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5263,7 +5263,7 @@
                 "open_issues": 31,
                 "owner": "exercism",
                 "repo": "gleam",
-                "stars": 118,
+                "stars": 119,
                 "topics": [
                   "community-contributions-accepted",
                   "exercism-track",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T06:47:08.394Z",
+    "last_updated": "2026-11-16T06:45:55.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
