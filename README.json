@@ -317,7 +317,7 @@
                 "open_issues": 22,
                 "owner": "TanklesXL",
                 "repo": "glint",
-                "stars": 82,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2024,7 +2024,7 @@
                 "open_issues": 13,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2509,
+                "stars": 2511,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2236,7 +2236,7 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-09T18:09:01Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "lpil",
                 "repo": "glance",
                 "stars": 85,
@@ -2697,11 +2697,11 @@
                 "id": 1039589169,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T20:23:18Z",
+                "last_commit": "2026-11-18T17:33:19Z",
                 "open_issues": 2,
                 "owner": "vshakitskiy",
                 "repo": "ewe",
-                "stars": 138,
+                "stars": 139,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4064,7 +4064,7 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-09T18:09:01Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "lpil",
                 "repo": "glance",
                 "stars": 85,
@@ -4537,7 +4537,7 @@
                 "open_issues": 20,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
-                "stars": 1500,
+                "stars": 1501,
                 "topics": [
                   "gleam-lang",
                   "web-framework"
@@ -4701,7 +4701,7 @@
                 "open_issues": 219,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 22070,
+                "stars": 22073,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5263,7 +5263,7 @@
                 "open_issues": 28,
                 "owner": "exercism",
                 "repo": "gleam",
-                "stars": 119,
+                "stars": 120,
                 "topics": [
                   "community-contributions-accepted",
                   "exercism-track",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T07:41:25.328Z",
+    "last_updated": "2026-11-19T07:37:35.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
