@@ -689,7 +689,7 @@
                 "open_issues": 4,
                 "owner": "lpil",
                 "repo": "youid",
-                "stars": 39,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1179,7 +1179,7 @@
                 "open_issues": 7,
                 "owner": "lpil",
                 "repo": "sqlight",
-                "stars": 161,
+                "stars": 162,
                 "topics": [
                   "database-client",
                   "gleam",
@@ -1277,7 +1277,7 @@
                 "open_issues": 0,
                 "owner": "lpil",
                 "repo": "storail",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -1585,7 +1585,7 @@
                 "open_issues": 5,
                 "owner": "chouzar",
                 "repo": "chip",
-                "stars": 30,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2024,7 +2024,7 @@
                 "open_issues": 13,
                 "owner": "lustre-labs",
                 "repo": "lustre",
-                "stars": 2512,
+                "stars": 2513,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2701,7 +2701,7 @@
                 "open_issues": 2,
                 "owner": "vshakitskiy",
                 "repo": "ewe",
-                "stars": 140,
+                "stars": 141,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -4537,7 +4537,7 @@
                 "open_issues": 20,
                 "owner": "gleam-wisp",
                 "repo": "wisp",
-                "stars": 1502,
+                "stars": 1503,
                 "topics": [
                   "gleam-lang",
                   "web-framework"
@@ -4619,7 +4619,7 @@
                 "open_issues": 2,
                 "owner": "veeso",
                 "repo": "blogatto",
-                "stars": 109,
+                "stars": 110,
                 "topics": [
                   "blog",
                   "blog-engine",
@@ -4698,10 +4698,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-19T13:44:29Z",
-                "open_issues": 220,
+                "open_issues": 221,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 22078,
+                "stars": 22079,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T07:28:31.702Z",
+    "last_updated": "2026-11-21T07:23:31.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
