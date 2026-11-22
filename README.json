@@ -827,8 +827,8 @@
                 "id": 217914849,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T14:43:11Z",
-                "open_issues": 33,
+                "last_commit": "2026-11-21T19:00:13Z",
+                "open_issues": 32,
                 "owner": "gleam-lang",
                 "repo": "stdlib",
                 "stars": 715,
@@ -1179,7 +1179,7 @@
                 "open_issues": 7,
                 "owner": "lpil",
                 "repo": "sqlight",
-                "stars": 162,
+                "stars": 161,
                 "topics": [
                   "database-client",
                   "gleam",
@@ -3206,7 +3206,7 @@
                 "open_issues": 4,
                 "owner": "gleam-community",
                 "repo": "maths",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "gleam",
                   "gleam-community",
@@ -4697,11 +4697,11 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T13:44:29Z",
-                "open_issues": 221,
+                "last_commit": "2026-11-21T20:35:27Z",
+                "open_issues": 218,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 22079,
+                "stars": 22082,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T07:23:31.940Z",
+    "last_updated": "2026-11-22T07:03:48.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
