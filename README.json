@@ -376,7 +376,7 @@
                 "id": 855181768,
                 "language": "Gleam",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T21:49:08Z",
+                "last_commit": "2026-11-23T00:29:19Z",
                 "open_issues": 0,
                 "owner": "drewolson",
                 "repo": "clip",
@@ -831,7 +831,7 @@
                 "open_issues": 32,
                 "owner": "gleam-lang",
                 "repo": "stdlib",
-                "stars": 715,
+                "stars": 714,
                 "topics": [
                   "gleam",
                   "stdlib",
@@ -4698,10 +4698,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-21T20:35:27Z",
-                "open_issues": 218,
+                "open_issues": 219,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 22082,
+                "stars": 22083,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T07:03:48.699Z",
+    "last_updated": "2026-11-23T07:52:02.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
