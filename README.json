@@ -1449,7 +1449,7 @@
                 "open_issues": 10,
                 "owner": "gleam-lang",
                 "repo": "otp",
-                "stars": 882,
+                "stars": 881,
                 "topics": [
                   "actors",
                   "erlang",
@@ -2020,7 +2020,7 @@
                 "id": 457999787,
                 "language": "Gleam",
                 "license": "MIT",
-                "last_commit": "2026-11-25T08:04:00Z",
+                "last_commit": "2026-11-25T15:35:08Z",
                 "open_issues": 11,
                 "owner": "lustre-labs",
                 "repo": "lustre",
@@ -2110,8 +2110,8 @@
                 "id": 829451065,
                 "language": "Gleam",
                 "license": null,
-                "last_commit": "2026-11-24T10:27:28Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-25T13:14:17Z",
+                "open_issues": 1,
                 "owner": "ghivert",
                 "repo": "redraw",
                 "stars": 77,
@@ -2306,7 +2306,7 @@
                 "language": "Gleam",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-14T11:58:23Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "gleam-lang",
                 "repo": "package-interface",
                 "stars": 12,
@@ -2332,7 +2332,7 @@
                 "open_issues": 2,
                 "owner": "bcpeinhardt",
                 "repo": "glance_printer",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2381,7 +2381,7 @@
                 "open_issues": 0,
                 "owner": "tinybackup",
                 "repo": "ansel",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:01.185Z"
@@ -2602,7 +2602,7 @@
                 "open_issues": 15,
                 "owner": "gleam-lang",
                 "repo": "httpc",
-                "stars": 173,
+                "stars": 172,
                 "topics": [
                   "erlang",
                   "gleam",
@@ -4009,8 +4009,8 @@
                 "id": 562626724,
                 "language": "Gleam",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-25T03:22:26Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-25T10:51:29Z",
+                "open_issues": 9,
                 "owner": "exercism",
                 "repo": "gleam-test-runner",
                 "stars": 6,
@@ -4697,11 +4697,11 @@
                 "id": 62341543,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T14:18:59Z",
-                "open_issues": 219,
+                "last_commit": "2026-11-25T12:29:22Z",
+                "open_issues": 217,
                 "owner": "gleam-lang",
                 "repo": "gleam",
-                "stars": 22089,
+                "stars": 22093,
                 "topics": [
                   "compiler",
                   "erlang",
@@ -4808,8 +4808,8 @@
                 "id": 785380226,
                 "language": "Gleam",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-02T21:03:20Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-25T18:55:46Z",
+                "open_issues": 25,
                 "owner": "ghivert",
                 "repo": "gloogle",
                 "stars": 117,
@@ -5065,7 +5065,7 @@
             "open_issues": 131,
             "owner": "sbdchd",
             "repo": "neoformat",
-            "stars": 2048,
+            "stars": 2049,
             "topics": [
               "formatter",
               "neovim",
@@ -5091,7 +5091,7 @@
             "open_issues": 7,
             "owner": "gleam-lang",
             "repo": "vscode-gleam",
-            "stars": 235,
+            "stars": 236,
             "topics": [
               "editor-plugin",
               "gleam",
@@ -5303,7 +5303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T08:49:37.353Z",
+    "last_updated": "2026-11-26T08:35:33.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "💯 A collection of Gleam libraries, projects, and resources",
